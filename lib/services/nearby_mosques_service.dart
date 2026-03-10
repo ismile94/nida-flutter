@@ -3,7 +3,9 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-const String _googleApiKey = 'AIzaSyD1kewHcjOI3r7TEVbWTiJ7JZDppqEnoyY';
+/// Set via: flutter run --dart-define=GOOGLE_MAPS_API_KEY=your_key
+/// Or in VS Code/Cursor: "dartDefine": { "GOOGLE_MAPS_API_KEY": "your_key" }
+const String _googleApiKey = String.fromEnvironment('GOOGLE_MAPS_API_KEY', defaultValue: '');
 
 /// Tek cami: place_id, name, vicinity, geometry: { location: { lat, lng } }, distance (eklenir).
 List<Map<String, dynamic>> _normalizeMosqueList(List<Map<String, dynamic>> list) {

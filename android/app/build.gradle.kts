@@ -5,6 +5,12 @@ plugins {
     id("dev.flutter.flutter-gradle-plugin")
 }
 
+// Google Maps API key: read from root local.properties (google.maps.api_key=...) or env GOOGLE_MAPS_API_KEY
+val localProperties = java.util.Properties()
+val localFile = rootProject.file("local.properties")
+if (localFile.exists()) localProperties.load(localFile.inputStream())
+val googleMapsApiKey = localProperties.getProperty("google.maps.api_key") ?: System.getenv("GOOGLE_MAPS_API_KEY") ?: ""
+
 android {
     namespace = "com.nida.islamiuygulama"
     compileSdk = flutter.compileSdkVersion
@@ -21,6 +27,7 @@ android {
     }
 
     defaultConfig {
+        manifestPlaceholders["GOOGLE_MAPS_API_KEY"] = googleMapsApiKey
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId = "com.nida.islamiuygulama"
         // You can update the following values to match your application needs.

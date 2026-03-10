@@ -58,10 +58,10 @@
             android:name=".PrayerTimesForegroundService"
             android:exported="false"
             android:foregroundServiceType="dataSync" />
-        <!-- Google Maps API key (for Nearby mosques map) -->
+        <!-- Google Maps API key: set in android/local.properties as google.maps.api_key=YOUR_KEY or env GOOGLE_MAPS_API_KEY -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD1kewHcjOI3r7TEVbWTiJ7JZDppqEnoyY"/>
+            android:value="${GOOGLE_MAPS_API_KEY}"/>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
         <meta-data
