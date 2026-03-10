@@ -1,0 +1,84 @@
+{
+  "title": "Telaffuz Rehberi",
+  "description": "Özel Semboller ve Telaffuzları",
+  "items": [
+    {
+      "title": "1. Uzun Ünlüler",
+      "symbol": "Sembol: ā, ī, ū",
+      "description": "Açıklama: Uzun ünlüler. Ünlü sesini uzatın.",
+      "exampleLabel": "Türkçe Örnek:",
+      "examples": [
+        "ā: \"baba\" kelimesindeki ilk 'a' gibi uzatılarak",
+        "ī: \"bîz\" (İngilizce \"bee\" gibi) uzun i sesi",
+        "ū: \"û\" (İngilizce \"moon\"daki oo gibi) uzun u sesi"
+      ]
+    },
+    {
+      "title": "2. Vurgulu Ünsüzler",
+      "symbol": "Sembol: ḍ, ṣ, ṭ, ẓ",
+      "description": "Açıklama: Vurgulu (kalın) ünsüzler. Daha ağır ve gırtlaktan telaffuz edilir.",
+      "exampleLabel": "Türkçe Örnek:",
+      "examples": [
+        "ḍ: \"ad\" derken boğazı sıkarak çıkarılan d",
+        "ṣ: \"as\" derken boğazdan çıkarılan kalın s",
+        "ṭ: \"at\" derken boğazı sıkarak çıkarılan t",
+        "ẓ: \"az\" derken boğazdan çıkarılan kalın z"
+      ]
+    },
+    {
+      "title": "3. Hırıltılı H Sesleri",
+      "symbol": "Sembol: ḥ",
+      "description": "Açıklama: Hırıltılı gırtlak H'si (İspanyolca \"Jota\" gibi).",
+      "exampleLabel": "Örnek:",
+      "examples": [
+        "Arapça \"Ahmed\" kelimesindeki h harfinin kalın, boğazdan çıkarılan hali"
+      ]
+    },
+    {
+      "title": "4. Gırtlak Sesleri (Ayn/Hamza)",
+      "symbol": "Sembol: ' (kesme işareti)",
+      "description": "Açıklama: Arapça 'Ayn (gırtlaktan çıkarılan ses) veya Hamza (gırtlak duraklaması).",
+      "exampleLabel": "Örnek:",
+      "examples": [
+        "\"deve\" derken iki e arasında boğazı sıkıştırma (e'e) veya İngilizce \"uh-oh\" arasındaki ses"
+      ]
+    },
+    {
+      "title": "5. Gırtlaktan R",
+      "symbol": "Sembol: ġ",
+      "description": "Açıklama: Fransızcadaki gırtlaktan çıkarılan R sesi.",
+      "exampleLabel": "Örnek:",
+      "examples": [
+        "Fransızca \"Paris\"teki R veya Arapça \"ğayb\" kelimesindeki ğ sesinin boğazdan çıkarılan hali"
+      ]
+    },
+    {
+      "title": "6. Hırıltılı H (Kalın)",
+      "symbol": "Sembol: ḫ veya kh",
+      "description": "Açıklama: Hırıltılı kalın H (Almanca \"Bach\" kelimesindeki ch gibi).",
+      "exampleLabel": "Örnek:",
+      "examples": [
+        "Almanca \"Bach\" veya İspanyolca \"Jerez\" kelimesindeki j sesinin boğazdan çıkarılan hali"
+      ]
+    },
+    {
+      "title": "7. Ş Sesleri",
+      "symbol": "Sembol: š veya sh",
+      "description": "Açıklama: Ş sesi.",
+      "exampleLabel": "Örnek:",
+      "examples": [
+        "Türkçedeki normal \"ş\" sesi - \"şapka\" kelimesindeki gibi"
+      ]
+    }
+  ],
+  "notes": {
+    "title": "Önemli Notlar",
+    "items": [
+      "\"e\" ve \"o\" sesleri: Klasik Arapçada nadirdir. Transliterasyonlarda gördüğünüzde genellikle \"i\" ve \"u\" olarak telaffuz edin.",
+      "İşitsel Öğrenme: Mükemmel telaffuz için Arap ana dilini dinlemek gerekir. Bu rehber yalnızca Türkçedeki yakın örnekleri sağlar.",
+      "Tutarlılık: Semboller, tüm transliterasyonlarda aynı Arapça sesleri tutarlı şekilde temsil etmek için standardize edilmiştir.",
+      "Benzersiz Arap Harfleri: Pek çok Arapça sesin Türkçede tam karşılığı yoktur, bu nedenle bu özel sembollere ihtiyaç duyulmuştur.",
+      "Çift Semboller: Bazı sesler için iki farklı sembol kullanılabilir (örneğin ḫ ve kh, š ve sh), bunlar aynı sesi temsil eder."
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "title": "Aussprachegids",
+  "description": "Spezielle Symbole und ihre Aussprache",
+  "items": [
+    {
+      "title": "1. Lange Vokale",
+      "symbol": "Symbol: ā, ī, ū",
+      "description": "Beschreibung: Lange Vokale. Dehnen Sie den Vokallaut.",
+      "exampleLabel": "Beispiele auf Deutsch:",
+      "examples": [
+        "ā wie in \"Bahn\" (gedehntes a)",
+        "ī wie in \"Liebe\" (gedehntes i)",
+        "ū wie in \"Schuh\" (gedehntes u)"
+      ]
+    },
+    {
+      "title": "2. Emphatische Konsonanten",
+      "symbol": "Symbol: ḍ, ṣ, ṭ, ẓ",
+      "description": "Beschreibung: Emphatische (schwere) Konsonanten. Tiefere, gutturale Aussprache, mit dem hinteren Teil der Zunge gebildet.",
+      "exampleLabel": "Beispiele auf Deutsch:",
+      "examples": [
+        "ḍ wie ein tiefes, gutturales \"d\"",
+        "ṣ wie ein tiefes, gutturales \"s\"",
+        "ṭ wie ein tiefes, gutturales \"t\"",
+        "ẓ wie ein tiefes, gutturales \"z\""
+      ]
+    },
+    {
+      "title": "3. Gutturales H",
+      "symbol": "Symbol: ḥ",
+      "description": "Beschreibung: Gutturales, rauschendes H (ähnlich dem spanischen \"Jota\").",
+      "exampleLabel": "Beispiel:",
+      "examples": [
+        "Wie das \"j\" in spanisch \"José\" oder ein starker, gutturaler Hauchlaut."
+      ]
+    },
+    {
+      "title": "4. Gutturale Laute (Ayn/Hamza)",
+      "symbol": "Symbol: ' (Apostroph)",
+      "description": "Beschreibung: Steht für den arabischen Buchstaben 'Ayn (tiefer gutturaler Laut) oder Hamza (Stimmritzenverschluss).",
+      "exampleLabel": "Beispiel:",
+      "examples": [
+        "Eine leichte Verengung in der Kehle, wie der Laut zwischen \"uh-oh\" im Englischen."
+      ]
+    },
+    {
+      "title": "5. Gutturales R",
+      "symbol": "Symbol: ġ",
+      "description": "Beschreibung: Der gutturale R-Laut wie im Französischen.",
+      "exampleLabel": "Beispiel:",
+      "examples": [
+        "Wie das \"r\" in französisch \"Paris\" oder das arabische \"ġain\" (ﻍ)."
+      ]
+    },
+    {
+      "title": "6. Starkes gutturales CH",
+      "symbol": "Symbol: ḫ oder kh",
+      "description": "Beschreibung: Starker gutturaler Reibelaut (wie das deutsche \"ch\" in \"Bach\").",
+      "exampleLabel": "Beispiel:",
+      "examples": [
+        "Wie das \"ch\" in \"Bach\", \"Dach\" oder das arabische \"ḫa\" (ﺥ)."
+      ]
+    },
+    {
+      "title": "7. SCH-Laut",
+      "symbol": "Symbol: š oder sh",
+      "description": "Beschreibung: SCH-Laut (stimmloser postalveolarer Frikativ).",
+      "exampleLabel": "Beispiel:",
+      "examples": [
+        "Wie \"sch\" in deutsch \"Schule\" oder \"sh\" in englisch \"shoe\"."
+      ]
+    }
+  ],
+  "notes": {
+    "title": "Wichtige Hinweise",
+    "items": [
+      "Vokale \"e\" und \"o\": Im klassischen Arabisch selten. Verwenden Sie bei Transliterationen in der Regel die Laute \"i\" und \"u\".",
+      "Auditives Lernen: Perfekte Aussprache erfordert das Hören von arabischen Muttersprachlern. Dieser Leitfaden bietet nur Annäherungen auf Deutsch.",
+      "Konsistenz: Die Symbole sind standardisiert, um dieselben arabischen Laute in allen Transliterationen konsistent darzustellen.",
+      "Einzigartige arabische Buchstaben: Viele arabische Laute haben keine exakten Entsprechungen im Deutschen, daher die Notwendigkeit dieser speziellen Symbole.",
+      "Doppelsymbole: Für manche Laute können zwei verschiedene Symbole verwendet werden (z.B. ḫ und kh, š und sh), sie stellen denselben Laut dar."
+    ]
+  }
+}

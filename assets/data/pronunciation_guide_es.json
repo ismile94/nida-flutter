@@ -1,0 +1,84 @@
+{
+  "title": "Guía de Pronunciación",
+  "description": "Símbolos Especiales y su Pronunciación",
+  "items": [
+    {
+      "title": "1. Vocales Largas",
+      "symbol": "Símbolo: ā, ī, ū",
+      "description": "Descripción: Vocales largas. Prolongue el sonido de la vocal.",
+      "exampleLabel": "Ejemplo en Español:",
+      "examples": [
+        "ā como en \"mamá\" (sonido alargado)",
+        "ī como en \"vino\" (sonido alargado)",
+        "ū como en \"luz\" (sonido alargado)"
+      ]
+    },
+    {
+      "title": "2. Consonantes Enfáticas",
+      "symbol": "Símbolo: ḍ, ṣ, ṭ, ẓ",
+      "description": "Descripción: Consonantes enfáticas. Pronunciación más pesada y gutural, emitida con la parte posterior de la lengua.",
+      "exampleLabel": "Ejemplo en Español:",
+      "examples": [
+        "ḍ como una \"d\" fuerte y gutural",
+        "ṣ como una \"s\" profunda",
+        "ṭ como una \"t\" gutural",
+        "ẓ como una \"z\" profunda"
+      ]
+    },
+    {
+      "title": "3. H Aspirado Gutural",
+      "symbol": "Símbolo: ḥ",
+      "description": "Descripción: H aspirado gutural (similar a la \"Jota\" española).",
+      "exampleLabel": "Ejemplo:",
+      "examples": [
+        "Como la \"j\" en español \"José\" o una aspiración fuerte de \"ja\" desde la garganta."
+      ]
+    },
+    {
+      "title": "4. Sonidos Guturales (Ayn/Hamza)",
+      "symbol": "Símbolo: ' (apóstrofo)",
+      "description": "Descripción: Representa la letra árabe 'Ayn (sonido gutural profundo) o Hamza (parada glotal).",
+      "exampleLabel": "Ejemplo:",
+      "examples": [
+        "Contracción ligera en la garganta, como el sonido entre \"uh-oh\" en inglés."
+      ]
+    },
+    {
+      "title": "5. R Gutural Francés",
+      "symbol": "Símbolo: ġ",
+      "description": "Descripción: Sonido de la \"R\" gutural francesa (similar a la \"g\" en algunas regiones de España).",
+      "exampleLabel": "Ejemplo:",
+      "examples": [
+        "Como la \"r\" en francés \"Paris\" o la \"g\" en español \"agua\" (en pronunciación rioplatense)."
+      ]
+    },
+    {
+      "title": "6. H Aspirado Fuerte",
+      "symbol": "Símbolo: ḫ o kh",
+      "description": "Descripción: Sonido aspirado gutural (como la \"ch\" alemana en \"Bach\").",
+      "exampleLabel": "Ejemplo:",
+      "examples": [
+        "Como la \"j\" fuerte en español \"Jerez\" (pronunciación andaluza)."
+      ]
+    },
+    {
+      "title": "7. Sonido de SH",
+      "symbol": "Símbolo: š o sh",
+      "description": "Descripción: Sonido de \"SH\" (fricativo postalveolar).",
+      "exampleLabel": "Ejemplo:",
+      "examples": [
+        "Como \"sh\" en inglés \"shy\" o \"ch\" en francés \"chef\"."
+      ]
+    }
+  ],
+  "notes": {
+    "title": "Observaciones Importantes",
+    "items": [
+      "Vocales \"e\" y \"o\": Son raras en árabe clásico. Prefiera usar los sonidos \"i\" y \"u\" respectivamente cuando encuentre transliteraciones.",
+      "Aprendizaje Auditivo: La pronunciación perfecta requiere escuchar a hablantes nativos árabes. Esta guía proporciona solo aproximaciones en español.",
+      "Consistencia: Los símbolos están estandarizados para representar consistentemente los mismos sonidos árabes en todas las transliteraciones.",
+      "Letras Árabes Únicas: Muchos sonidos árabes no tienen equivalentes exactos en español, de ahí la necesidad de estos símbolos especiales.",
+      "Símbolos Dobles: Algunos sonidos pueden representarse con dos símbolos diferentes (por ejemplo, ḫ y kh, š y sh), representan el mismo sonido."
+    ]
+  }
+}

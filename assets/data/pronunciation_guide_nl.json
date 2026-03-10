@@ -1,0 +1,84 @@
+{
+  "title": "Uitspraakgids",
+  "description": "Speciale Symbolen en hun Uitspraak",
+  "items": [
+    {
+      "title": "1. Lange Klinkers",
+      "symbol": "Symbool: ā, ī, ū",
+      "description": "Beschrijving: Lange klinkers. Rek de klank van de klinker.",
+      "exampleLabel": "Voorbeelden in het Nederlands:",
+      "examples": [
+        "ā als in \"baan\" (gerekt a-geluid)",
+        "ī als in \"bier\" (gerekt i-geluid)",
+        "ū als in \"boer\" (gerekt u-geluid)"
+      ]
+    },
+    {
+      "title": "2. Emfatische Medeklinkers",
+      "symbol": "Symbool: ḍ, ṣ, ṭ, ẓ",
+      "description": "Beschrijving: Emfatische (zware) medeklinkers. Diepere, keelachtige uitspraak, gevormd met het achterste deel van de tong.",
+      "exampleLabel": "Voorbeelden in het Nederlands:",
+      "examples": [
+        "ḍ als een diepe, keelachtige \"d\"",
+        "ṣ als een diepe, keelachtige \"s\"",
+        "ṭ als een diepe, keelachtige \"t\"",
+        "ẓ als een diepe, keelachtige \"z\""
+      ]
+    },
+    {
+      "title": "3. Keelachtige H",
+      "symbol": "Symbool: ḥ",
+      "description": "Beschrijving: Keelachtige, ruisende H (vergelijkbaar met de Spaanse \"Jota\").",
+      "exampleLabel": "Voorbeeld:",
+      "examples": [
+        "Zoals de \"j\" in Spaans \"José\" of een sterke, keelachtige ademtocht."
+      ]
+    },
+    {
+      "title": "4. Keelklanken (Ayn/Hamza)",
+      "symbol": "Symbool: ' (apostrof)",
+      "description": "Beschrijving: Staat voor de Arabische letter 'Ayn (diepe keelklank) of Hamza (glottisslag).",
+      "exampleLabel": "Voorbeeld:",
+      "examples": [
+        "Een lichte vernauwing in de keel, zoals het geluid tussen \"uh-oh\" in het Engels."
+      ]
+    },
+    {
+      "title": "5. Keel-R",
+      "symbol": "Symbool: ġ",
+      "description": "Beschrijving: De keel-R zoals in het Frans.",
+      "exampleLabel": "Voorbeeld:",
+      "examples": [
+        "Zoals de \"r\" in Frans \"Paris\" of de Arabische \"ġain\" (ﻍ)."
+      ]
+    },
+    {
+      "title": "6. Sterke keelachtige CH",
+      "symbol": "Symbool: ḫ of kh",
+      "description": "Beschrijving: Sterke keelachtige wrijvingsklank (zoals de Duitse \"ch\" in \"Bach\").",
+      "exampleLabel": "Voorbeeld:",
+      "examples": [
+        "Zoals de \"ch\" in Duits \"Bach\" of de \"g\" in Nederlands \"goed\" met extra keelgeluid."
+      ]
+    },
+    {
+      "title": "7. SJ-LAAT",
+      "symbol": "Symbool: š of sh",
+      "description": "Beschrijving: SJ-klank (stemloze postalveolaire fricatief).",
+      "exampleLabel": "Voorbeeld:",
+      "examples": [
+        "Zoals \"sj\" in Nederlands \"sjaal\" of \"sh\" in Engels \"shoe\"."
+      ]
+    }
+  ],
+  "notes": {
+    "title": "Belangrijke Opmerkingen",
+    "items": [
+      "Klinkers \"e\" en \"o\": In klassiek Arabisch zeldzaam. Gebruik bij transcripties meestal de klanken \"i\" en \"u\".",
+      "Auditief leren: Perfecte uitspraak vereist luisteren naar Arabische moedertaalsprekers. Deze gids biedt alleen benaderingen in het Nederlands.",
+      "Consistentie: De symbolen zijn gestandaardiseerd om dezelfde Arabische klanken in alle transcripties consistent weer te geven.",
+      "Unieke Arabische letters: Veel Arabische klanken hebben geen exacte equivalenten in het Nederlands, vandaar de noodzaak van deze speciale symbolen.",
+      "Dubbele symbolen: Voor sommige klanken kunnen twee verschillende symbolen worden gebruikt (bijv. ḫ en kh, š en sh), ze stellen dezelfde klank voor."
+    ]
+  }
+}

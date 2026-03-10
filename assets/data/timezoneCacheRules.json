@@ -1,0 +1,69 @@
+{
+  "defaultCacheDays": 180,
+  "rules": [
+    {
+      "id": "group1",
+      "name": "Europe & neighbours (Last Sun Mar / Last Sun Oct)",
+      "spring": { "month": 3, "week": "last", "weekday": 0 },
+      "autumn": { "month": 10, "week": "last", "weekday": 0 }
+    },
+    {
+      "id": "group2",
+      "name": "USA, Canada, Mexico border, Bermuda, etc. (2nd Sun Mar / 1st Sun Nov)",
+      "spring": { "month": 3, "week": 2, "weekday": 0 },
+      "autumn": { "month": 11, "week": 1, "weekday": 0 }
+    },
+    {
+      "id": "group3",
+      "name": "Australia (NSW,VIC,SA,TAS,ACT), NZ, Norfolk (1st Sun Oct / 1st Sun Apr)",
+      "spring": { "month": 4, "week": 1, "weekday": 0 },
+      "autumn": { "month": 10, "week": 1, "weekday": 0 }
+    },
+    {
+      "id": "israel_palestine",
+      "name": "Israel & Palestine (Fri before last Sun Mar / Last Sun Oct)",
+      "spring": { "month": 3, "week": "last", "weekday": 0, "offsetDays": -2 },
+      "autumn": { "month": 10, "week": "last", "weekday": 0 }
+    },
+    {
+      "id": "chile",
+      "name": "Chile except Magallanes & Antarctic (1st Sat Sep / 1st Sat Apr)",
+      "spring": { "month": 4, "week": 1, "weekday": 6 },
+      "autumn": { "month": 9, "week": 1, "weekday": 6 }
+    },
+    {
+      "id": "paraguay",
+      "name": "Paraguay (1st Sun Oct / 4th Sun Mar)",
+      "spring": { "month": 3, "week": 4, "weekday": 0 },
+      "autumn": { "month": 10, "week": 1, "weekday": 0 }
+    },
+    {
+      "id": "egypt",
+      "name": "Egypt (Last Fri Apr / Last Fri Oct)",
+      "spring": { "month": 4, "week": "last", "weekday": 5 },
+      "autumn": { "month": 10, "week": "last", "weekday": 5 }
+    },
+    {
+      "id": "lebanon",
+      "name": "Lebanon (approx. late Mar / late Oct)",
+      "spring": { "month": 3, "week": "last", "weekday": 0 },
+      "autumn": { "month": 10, "week": "last", "weekday": 0 }
+    }
+  ],
+  "countryToRule": {
+    "DE": "group1", "AT": "group1", "BE": "group1", "BG": "group1", "CZ": "group1",
+    "DK": "group1", "EE": "group1", "FI": "group1", "FR": "group1", "HR": "group1",
+    "NL": "group1", "IE": "group1", "ES": "group1", "SE": "group1", "IT": "group1",
+    "CY": "group1", "LV": "group1", "LT": "group1", "LU": "group1", "HU": "group1",
+    "MT": "group1", "PL": "group1", "PT": "group1", "RO": "group1", "SK": "group1",
+    "SI": "group1", "GR": "group1", "GB": "group1", "NO": "group1", "CH": "group1",
+    "UA": "group1", "MD": "group1", "AL": "group1", "BA": "group1", "ME": "group1",
+    "MK": "group1", "RS": "group1", "AD": "group1", "MC": "group1", "SM": "group1",
+    "VA": "group1", "LI": "group1", "XK": "group1",
+    "US": "group2", "CA": "group2", "MX": "group2", "BM": "group2", "BS": "group2",
+    "TC": "group2", "PM": "group2",
+    "AU": "group3", "NZ": "group3", "NF": "group3",
+    "IL": "israel_palestine", "PS": "israel_palestine",
+    "CL": "chile", "PY": "paraguay", "EG": "egypt", "LB": "lebanon"
+  }
+}

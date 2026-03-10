@@ -1,0 +1,4881 @@
+{
+  "tr": {
+    "general": [
+      {
+        "id": "esma_01",
+        "arabic": "الرَّحْمٰن",
+        "latin": "Er-Rahmân",
+        "meaning": "Sonsuz merhamet sahibi",
+        "usage": "Kalbin yumuşaması ve merhamet için okunur."
+      },
+      {
+        "id": "esma_02",
+        "arabic": "الرَّحِيم",
+        "latin": "Er-Rahîm",
+        "meaning": "Ahirette müminlere merhamet eden",
+        "usage": "Ümit ve bağışlanma hissi için okunur."
+      },
+      {
+        "id": "esma_03",
+        "arabic": "الْمَلِك",
+        "latin": "El-Melik",
+        "meaning": "Mutlak hükümran",
+        "usage": "Acizlik hissinde okunur."
+      },
+      {
+        "id": "esma_04",
+        "arabic": "الْقُدُّوس",
+        "latin": "El-Kuddûs",
+        "meaning": "Her türlü eksiklikten uzak",
+        "usage": "Kalbin temizliği ve huzur için."
+      },
+      {
+        "id": "esma_05",
+        "arabic": "السَّلاَم",
+        "latin": "Es-Selâm",
+        "meaning": "Esenlik veren",
+        "usage": "Huzur ve barış için okunur."
+      },
+      {
+        "id": "esma_06",
+        "arabic": "الْمُؤْمِن",
+        "latin": "El-Mu’min",
+        "meaning": "Güven veren",
+        "usage": "Korku ve endişe hâlinde okunur."
+      },
+      {
+        "id": "esma_07",
+        "arabic": "الْمُهَيْمِن",
+        "latin": "El-Muhaymin",
+        "meaning": "Her şeyi koruyan ve gözeten",
+        "usage": "Korumaya ve gözetilmeye ihtiyaç hissinde okunur."
+      },
+      {
+        "id": "esma_08",
+        "arabic": "الْعَزِيز",
+        "latin": "El-Azîz",
+        "meaning": "Her şeye gücü yeten",
+        "usage": "Güçsüzlük ve zorluk anında okunur."
+      },
+      {
+        "id": "esma_09",
+        "arabic": "الْجَبَّار",
+        "latin": "El-Cebbâr",
+        "meaning": "Kırıkları onaran",
+        "usage": "Kalp kırıklığı ve çaresizlikte okunur."
+      },
+      {
+        "id": "esma_10",
+        "arabic": "الْمُتَكَبِّر",
+        "latin": "El-Mütekebbir",
+        "meaning": "Büyüklükte eşi olmayan",
+        "usage": "Kibir ve tevazu dersleri için okunur."
+      },
+      {
+        "id": "esma_11",
+        "arabic": "الْخَالِق",
+        "latin": "El-Hâlık",
+        "meaning": "Her şeyi yaratan",
+        "usage": "Yaratılışı anlamak ve hayranlık için okunur."
+      },
+      {
+        "id": "esma_12",
+        "arabic": "الْبَارِئ",
+        "latin": "El-Bâri’",
+        "meaning": "Varlıkları kusursuz yaratan",
+        "usage": "Yaratılış mucizelerini düşünmek için okunur."
+      },
+      {
+        "id": "esma_13",
+        "arabic": "الْمُصَوِّر",
+        "latin": "El-Musavvir",
+        "meaning": "Her varlığa şekil veren",
+        "usage": "Güzellik ve şekil takdirinde okunur."
+      },
+      {
+        "id": "esma_14",
+        "arabic": "الْغَفَّار",
+        "latin": "El-Gaffâr",
+        "meaning": "Günahları çok bağışlayan",
+        "usage": "Tövbe ve pişmanlık anında okunur."
+      },
+      {
+        "id": "esma_15",
+        "arabic": "الْقَهَّار",
+        "latin": "El-Kahhâr",
+        "meaning": "Her şeye gücü yetip galip olan",
+        "usage": "Zorluklar karşısında güç için okunur."
+      },
+      {
+        "id": "esma_16",
+        "arabic": "الوَهَّاب",
+        "latin": "El-Vehhâb",
+        "meaning": "Bolluk ve nimetler veren",
+        "usage": "Rızık ve nimet dileğinde okunur."
+      },
+      {
+        "id": "esma_17",
+        "arabic": "الرَّزَّاق",
+        "latin": "Er-Rezzâk",
+        "meaning": "Rızık veren",
+        "usage": "Geçim ve emek vakti okunur."
+      },
+      {
+        "id": "esma_18",
+        "arabic": "الْفَتَّاح",
+        "latin": "El-Fettâh",
+        "meaning": "Kapıları açan, kolaylık veren",
+        "usage": "Zorluk ve kapalı işler için okunur."
+      },
+      {
+        "id": "esma_19",
+        "arabic": "الْعَلِيم",
+        "latin": "El-Alîm",
+        "meaning": "Her şeyi bilen",
+        "usage": "Bilgi, öğrenme ve rehberlik için okunur."
+      },
+      {
+        "id": "esma_20",
+        "arabic": "الْقَابِض",
+        "latin": "El-Qâbıd",
+        "meaning": "Rızkı daraltan",
+        "usage": "Sabır ve tevekkül için okunur."
+      },
+      {
+        "id": "esma_21",
+        "arabic": "الْبَاسِط",
+        "latin": "El-Bâsit",
+        "meaning": "Rızkı genişleten",
+        "usage": "Rızkın açılması ve bolluk için okunur."
+      },
+      {
+        "id": "esma_22",
+        "arabic": "الْخَافِض",
+        "latin": "El-Hâfıd",
+        "meaning": "Alçaltan, tevazu öğreten",
+        "usage": "Kibir ve gururdan uzaklaşmak için okunur."
+      },
+      {
+        "id": "esma_23",
+        "arabic": "الرَّافِع",
+        "latin": "Er-Râfi’",
+        "meaning": "Yükselten, mertebe veren",
+        "usage": "Şeref ve başarı için okunur."
+      },
+      {
+        "id": "esma_24",
+        "arabic": "الْمُعِز",
+        "latin": "El-Mu’izz",
+        "meaning": "İzzet veren, güçlendiren",
+        "usage": "Onur ve güven için okunur."
+      },
+      {
+        "id": "esma_25",
+        "arabic": "الْمُذِل",
+        "latin": "El-Muzill",
+        "meaning": "Alçaltan, zillete sebep olan",
+        "usage": "Tevazu ve hak duygusu için okunur."
+      },
+      {
+        "id": "esma_26",
+        "arabic": "السَّمِيع",
+        "latin": "Es-Samî’",
+        "meaning": "Her şeyi işiten",
+        "usage": "Duaların kabulü ve huzur için okunur."
+      },
+      {
+        "id": "esma_27",
+        "arabic": "الْبَصِير",
+        "latin": "El-Basîr",
+        "meaning": "Her şeyi gören",
+        "usage": "Durumları doğru değerlendirmek için okunur."
+      },
+      {
+        "id": "esma_28",
+        "arabic": "الْحَكَم",
+        "latin": "El-Hakem",
+        "meaning": "Hüküm veren, adil",
+        "usage": "Adalet ve karar verme durumunda okunur."
+      },
+      {
+        "id": "esma_29",
+        "arabic": "الْعَدْل",
+        "latin": "El-Adl",
+        "meaning": "Adaletli, hakkaniyetli",
+        "usage": "Haksızlık karşısında güç ve rehberlik için okunur."
+      },
+      {
+        "id": "esma_30",
+        "arabic": "اللَّطِيف",
+        "latin": "El-Latîf",
+        "meaning": "İnce ve nazik davranan",
+        "usage": "İç sıkıntısı ve görünmeyen destek için okunur."
+      },
+      {
+        "id": "esma_31",
+        "arabic": "الْخَبِير",
+        "latin": "El-Habîr",
+        "meaning": "Her şeyi bilen, fark eden",
+        "usage": "Durumları doğru anlamak için okunur."
+      },
+      {
+        "id": "esma_32",
+        "arabic": "الْحَلِيم",
+        "latin": "El-Halîm",
+        "meaning": "Çok sabırlı",
+        "usage": "Öfke ve sabırsızlık anında okunur."
+      },
+      {
+        "id": "esma_33",
+        "arabic": "الْعَظِيم",
+        "latin": "El-Azîm",
+        "meaning": "Büyüklükte eşi olmayan",
+        "usage": "Hayranlık ve teslimiyet için okunur."
+      },
+      {
+        "id": "esma_34",
+        "arabic": "الْغَفُور",
+        "latin": "El-Gafûr",
+        "meaning": "Çok bağışlayan",
+        "usage": "Tövbe ve bağışlanma için okunur."
+      },
+      {
+        "id": "esma_35",
+        "arabic": "الشَّكُور",
+        "latin": "Eş-Şekûr",
+        "meaning": "Az amele çok karşılık veren",
+        "usage": "Şükür hâlinde okunur."
+      },
+      {
+        "id": "esma_36",
+        "arabic": "الْعَلِي",
+        "latin": "El-Aliyy",
+        "meaning": "En yüce, yüksek",
+        "usage": "Kibirden uzaklaşmak ve ilahi kudret için okunur."
+      },
+      {
+        "id": "esma_37",
+        "arabic": "الْكَبِير",
+        "latin": "El-Kebîr",
+        "meaning": "Çok büyük, yüce",
+        "usage": "Saygı ve hayranlık için okunur."
+      },
+      {
+        "id": "esma_38",
+        "arabic": "الْحَفِيظ",
+        "latin": "El-Hafîz",
+        "meaning": "Korumakla görevli",
+        "usage": "Güven ve korunma hissi için okunur."
+      },
+      {
+        "id": "esma_39",
+        "arabic": "الْمُقِيت",
+        "latin": "El-Mukît",
+        "meaning": "Rızık verici, temin eden",
+        "usage": "Günlük ihtiyaçların karşılanması için okunur."
+      },
+      {
+        "id": "esma_40",
+        "arabic": "الْحَسِيب",
+        "latin": "El-Hasîb",
+        "meaning": "Hesap gören, yeterli",
+        "usage": "Adalet ve sorumluluk anında okunur."
+      },
+      {
+        "id": "esma_41",
+        "arabic": "الْجَلِيل",
+        "latin": "El-Celîl",
+        "meaning": "Ululuk ve azamet sahibi",
+        "usage": "Büyüklüğü idrak etmek için okunur."
+      },
+      {
+        "id": "esma_42",
+        "arabic": "الْكَرِيم",
+        "latin": "El-Kerîm",
+        "meaning": "Cömertliği sınırsız olan",
+        "usage": "Nimetlerin farkına varmak için."
+      },
+      {
+        "id": "esma_43",
+        "arabic": "الرَّقِيب",
+        "latin": "Er-Rakîb",
+        "meaning": "Gözetleyen ve koruyan",
+        "usage": "Yalnızlık ve gözetlenme hissi için okunur."
+      },
+      {
+        "id": "esma_44",
+        "arabic": "الْمُجِيب",
+        "latin": "El-Mucîb",
+        "meaning": "Duaları kabul eden",
+        "usage": "Dua ederken ve istekte bulunurken okunur."
+      },
+      {
+        "id": "esma_45",
+        "arabic": "الْوَاسِع",
+        "latin": "El-Vâsi’",
+        "meaning": "Rahmeti ve ilmi geniş olan",
+        "usage": "Sıkışıklık ve daralma hissinde okunur."
+      },
+      {
+        "id": "esma_46",
+        "arabic": "الْحَكِيم",
+        "latin": "El-Hakîm",
+        "meaning": "Her işi hikmetli olan",
+        "usage": "Kararsızlık ve denge hâlinde okunur."
+      },
+      {
+        "id": "esma_47",
+        "arabic": "الْوَدُود",
+        "latin": "El-Vedûd",
+        "meaning": "Seven ve sevilen",
+        "usage": "Sevgi ve muhabbet arttırmak için okunur."
+      },
+      {
+        "id": "esma_48",
+        "arabic": "الْمَجِيد",
+        "latin": "El-Mecîd",
+        "meaning": "Şan ve şeref sahibi",
+        "usage": "Yücelik ve ihtişamı düşünmek için okunur."
+      },
+      {
+        "id": "esma_49",
+        "arabic": "الْبَاعِث",
+        "latin": "El-Bâis",
+        "meaning": "Ölüleri dirilten",
+        "usage": "Yeniden diriliş ve umut için okunur."
+      },
+      {
+        "id": "esma_50",
+        "arabic": "الشَّهِيد",
+        "latin": "Eş-Şehîd",
+        "meaning": "Her şeye şahit olan",
+        "usage": "Adalet ve hakikati gözetmek için okunur."
+      },
+      {
+        "id": "esma_51",
+        "arabic": "الْحَق",
+        "latin": "El-Hakk",
+        "meaning": "Mutlak hakikat",
+        "usage": "Doğruluk ve dürüstlük için okunur."
+      },
+      {
+        "id": "esma_52",
+        "arabic": "الْوَكِيل",
+        "latin": "El-Vekîl",
+        "meaning": "Güvenilip dayanılan",
+        "usage": "Tevekkül ve teslimiyet için okunur."
+      },
+      {
+        "id": "esma_53",
+        "arabic": "الْقَوِي",
+        "latin": "El-Kaviyy",
+        "meaning": "Sonsuz kuvvet sahibi",
+        "usage": "Güçsüzlük ve zaaf anında okunur."
+      },
+      {
+        "id": "esma_54",
+        "arabic": "الْمَتِين",
+        "latin": "El-Metîn",
+        "meaning": "Çok sağlam ve dayanıklı",
+        "usage": "Direnç ve sabır gerektiğinde okunur."
+      },
+      {
+        "id": "esma_55",
+        "arabic": "الْوَلِي",
+        "latin": "El-Veliyy",
+        "meaning": "Dost ve yardımcı",
+        "usage": "Yalnızlık ve dost ihtiyacında okunur."
+      },
+      {
+        "id": "esma_56",
+        "arabic": "الْحَمِيد",
+        "latin": "El-Hamîd",
+        "meaning": "Övülmeye layık olan",
+        "usage": "Şükür ve hamd etmek için okunur."
+      },
+      {
+        "id": "esma_57",
+        "arabic": "الْمُحْصِي",
+        "latin": "El-Muhsî",
+        "meaning": "Her şeyin sayısını bilen",
+        "usage": "Hesap ve düzen için okunur."
+      },
+      {
+        "id": "esma_58",
+        "arabic": "الْمُبْدِئ",
+        "latin": "El-Mubdi’",
+        "meaning": "Yoktan var eden",
+        "usage": "Yaratılış ve yeniden başlangıç için okunur."
+      },
+      {
+        "id": "esma_59",
+        "arabic": "الْمُعِيد",
+        "latin": "El-Mu’îd",
+        "meaning": "Yeniden dirilten",
+        "usage": "Ölüm ve dirilişi düşünmek için okunur."
+      },
+      {
+        "id": "esma_60",
+        "arabic": "الْمُحْيِي",
+        "latin": "El-Muhyî",
+        "meaning": "Hayat veren",
+        "usage": "Canlılık ve enerji için okunur."
+      },
+      {
+        "id": "esma_61",
+        "arabic": "الْمُمِيت",
+        "latin": "El-Mumît",
+        "meaning": "Ölümü veren",
+        "usage": "Faniliği ve eceli düşünmek için okunur."
+      },
+      {
+        "id": "esma_62",
+        "arabic": "الْحَي",
+        "latin": "El-Hayy",
+        "meaning": "Diri ve canlı",
+        "usage": "Hayatın kaynağını düşünmek için okunur."
+      },
+      {
+        "id": "esma_63",
+        "arabic": "الْقَيُّوم",
+        "latin": "El-Kayyûm",
+        "meaning": "Kendi kendine var olan",
+        "usage": "Varlığın devamı için okunur."
+      },
+      {
+        "id": "esma_64",
+        "arabic": "الْوَاجِد",
+        "latin": "El-Vâcid",
+        "meaning": "Dilediğini bulan",
+        "usage": "İhtiyaç ve yokluk anında okunur."
+      },
+      {
+        "id": "esma_65",
+        "arabic": "الْمَاجِد",
+        "latin": "El-Mâcid",
+        "meaning": "Şanlı ve yüce",
+        "usage": "Şeref ve yücelik için okunur."
+      },
+      {
+        "id": "esma_66",
+        "arabic": "الْوَاحِد",
+        "latin": "El-Vâhid",
+        "meaning": "Tek ve bir olan",
+        "usage": "Tevhid inancını pekiştirmek için okunur."
+      },
+      {
+        "id": "esma_67",
+        "arabic": "الْأَحَد",
+        "latin": "El-Ehad",
+        "meaning": "Eşi ve benzeri olmayan",
+        "usage": "Allah’ın birliğini tefekkür için okunur."
+      },
+      {
+        "id": "esma_68",
+        "arabic": "الصَّمَد",
+        "latin": "Es-Samed",
+        "meaning": "Her şeyin muhtaç olduğu",
+        "usage": "Tam bir teslimiyet ve ihtiyaç hissinde okunur."
+      },
+      {
+        "id": "esma_69",
+        "arabic": "الْقَادِر",
+        "latin": "El-Kâdir",
+        "meaning": "Her şeye gücü yeten",
+        "usage": "Güç ve kudret talep edildiğinde okunur."
+      },
+      {
+        "id": "esma_70",
+        "arabic": "الْمُقْتَدِر",
+        "latin": "El-Muktedir",
+        "meaning": "Dilediği gibi tasarruf eden",
+        "usage": "Kader ve kudret tefekkürü için okunur."
+      },
+      {
+        "id": "esma_71",
+        "arabic": "الْمُقَدِّم",
+        "latin": "El-Mukaddim",
+        "meaning": "İleri geçiren",
+        "usage": "Öne geçmek ve başarı için okunur."
+      },
+      {
+        "id": "esma_72",
+        "arabic": "الْمُؤَخِّر",
+        "latin": "El-Muahhir",
+        "meaning": "Geri koyan",
+        "usage": "Sabır ve sıra bekleme anında okunur."
+      },
+      {
+        "id": "esma_73",
+        "arabic": "الْأَوَّل",
+        "latin": "El-Evvel",
+        "meaning": "Varlığının başı olmayan",
+        "usage": "Ezeli olanı düşünmek için okunur."
+      },
+      {
+        "id": "esma_74",
+        "arabic": "الْآخِر",
+        "latin": "El-Âhir",
+        "meaning": "Varlığının sonu olmayan",
+        "usage": "Ebedi olanı düşünmek için okunur."
+      },
+      {
+        "id": "esma_75",
+        "arabic": "الظَّاهِر",
+        "latin": "Ez-Zâhir",
+        "meaning": "Varlığı her şeyden aşikar",
+        "usage": "Açık delilleri görmek için okunur."
+      },
+      {
+        "id": "esma_76",
+        "arabic": "الْبَاطِن",
+        "latin": "El-Bâtın",
+        "meaning": "Gizli olan, idrak edilemeyen",
+        "usage": "Gizem ve içsel derinlik için okunur."
+      },
+      {
+        "id": "esma_77",
+        "arabic": "الْوَالِي",
+        "latin": "El-Vâlî",
+        "meaning": "İdare eden ve yöneten",
+        "usage": "Yönetim ve idare için okunur."
+      },
+      {
+        "id": "esma_78",
+        "arabic": "الْمُتَعَالِي",
+        "latin": "El-Müteâlî",
+        "meaning": "Aşkın ve yüce",
+        "usage": "Yüceliği tefekkür için okunur."
+      },
+      {
+        "id": "esma_79",
+        "arabic": "الْبَر",
+        "latin": "El-Berr",
+        "meaning": "İyilik ve lütuf sahibi",
+        "usage": "İyilik ve bereket için okunur."
+      },
+      {
+        "id": "esma_80",
+        "arabic": "التَّوَّاب",
+        "latin": "Et-Tevvâb",
+        "meaning": "Tevbeleri kabul eden",
+        "usage": "Tevbe ve dönüş için."
+      },
+      {
+        "id": "esma_81",
+        "arabic": "الْمُنْتَقِم",
+        "latin": "El-Müntekım",
+        "meaning": "Haksızlığa uğrayanların intikamını alan",
+        "usage": "Adalet ve intikam hissinde okunur."
+      },
+      {
+        "id": "esma_82",
+        "arabic": "الْعَفُو",
+        "latin": "El-Afüvv",
+        "meaning": "Affı çok olan",
+        "usage": "Affedilme ve merhamet için okunur."
+      },
+      {
+        "id": "esma_83",
+        "arabic": "الرَّؤُوف",
+        "latin": "Er-Raûf",
+        "meaning": "Çok şefkatli",
+        "usage": "Şefkat ve merhamet ihtiyacında okunur."
+      },
+      {
+        "id": "esma_84",
+        "arabic": "مَالِكُ الْمُلْك",
+        "latin": "Mâlik-ül Mülk",
+        "meaning": "Mülkün gerçek sahibi",
+        "usage": "Dünya malına güvenmemek için okunur."
+      },
+      {
+        "id": "esma_85",
+        "arabic": "ذُو الْجَلَالِ وَالْإِكْرَام",
+        "latin": "Zül-Celâli ve-l İkrâm",
+        "meaning": "Celal ve ikram sahibi",
+        "usage": "Yücelik ve ikramı düşünmek için okunur."
+      },
+      {
+        "id": "esma_86",
+        "arabic": "الْمُقْسِط",
+        "latin": "El-Muksit",
+        "meaning": "Adaletle hükmeden",
+        "usage": "Adalet dağıtırken okunur."
+      },
+      {
+        "id": "esma_87",
+        "arabic": "الْجَامِع",
+        "latin": "El-Câmi’",
+        "meaning": "Toplayan, bir araya getiren",
+        "usage": "Dağınıklık ve ayrılık anında okunur."
+      },
+      {
+        "id": "esma_88",
+        "arabic": "الْغَنِي",
+        "latin": "El-Ganiyy",
+        "meaning": "Zengin ve hiçbir şeye muhtaç olmayan",
+        "usage": "Fakirlik ve ihtiyaç hissinde okunur."
+      },
+      {
+        "id": "esma_89",
+        "arabic": "الْمُغْنِي",
+        "latin": "El-Muğnî",
+        "meaning": "Zenginleştiren",
+        "usage": "Maddi-manevi zenginlik için okunur."
+      },
+      {
+        "id": "esma_90",
+        "arabic": "الْمَانِع",
+        "latin": "El-Mâni’",
+        "meaning": "Engelleyen, koruyan",
+        "usage": "Korunma ve engel için okunur."
+      },
+      {
+        "id": "esma_91",
+        "arabic": "الضَّار",
+        "latin": "Ed-Dârr",
+        "meaning": "Zarar vereni yaratan",
+        "usage": "Zarar ve sıkıntı anında okunur."
+      },
+      {
+        "id": "esma_92",
+        "arabic": "النَّافِع",
+        "latin": "En-Nâfi’",
+        "meaning": "Fayda vereni yaratan",
+        "usage": "Fayda ve hayır için okunur."
+      },
+      {
+        "id": "esma_93",
+        "arabic": "النُّور",
+        "latin": "En-Nûr",
+        "meaning": "Nurlandıran",
+        "usage": "Aydınlık ve hidayet için okunur."
+      },
+      {
+        "id": "esma_94",
+        "arabic": "الْهَادِي",
+        "latin": "El-Hâdî",
+        "meaning": "Hidayet veren",
+        "usage": "Doğru yolu bulmak için okunur."
+      },
+      {
+        "id": "esma_95",
+        "arabic": "الْبَدِيع",
+        "latin": "El-Bedî’",
+        "meaning": "Eşsiz ve harikulade yaratan",
+        "usage": "Sanat ve güzelliği tefekkür için okunur."
+      },
+      {
+        "id": "esma_96",
+        "arabic": "الْبَاقِي",
+        "latin": "El-Bâkî",
+        "meaning": "Sonsuz ve kalıcı olan",
+        "usage": "Fanilik ve ebediyet tefekkürü için okunur."
+      },
+      {
+        "id": "esma_97",
+        "arabic": "الْوَارِث",
+        "latin": "El-Vâris",
+        "meaning": "Her şeyin asıl sahibi",
+        "usage": "Miras ve kalıcılık düşüncesinde okunur."
+      },
+      {
+        "id": "esma_98",
+        "arabic": "الرَّشِيد",
+        "latin": "Er-Reşîd",
+        "meaning": "Doğru yola ileten",
+        "usage": "İrşad ve doğru karar için okunur."
+      },
+      {
+        "id": "esma_99",
+        "arabic": "الصَّبُور",
+        "latin": "Es-Sabûr",
+        "meaning": "Çok sabırlı",
+        "usage": "Sabır ve tahammül için okunur."
+      }
+    ]
+  },
+  "en": {
+    "general": [
+      {
+        "id": "esma_01",
+        "arabic": "الرَّحْمٰن",
+        "latin": "Ar-Rahman",
+        "meaning": "The Most Gracious",
+        "usage": "Recited for softening the heart and seeking mercy."
+      },
+      {
+        "id": "esma_02",
+        "arabic": "الرَّحِيم",
+        "latin": "Ar-Rahim",
+        "meaning": "The Most Merciful",
+        "usage": "Recited for hope and forgiveness."
+      },
+      {
+        "id": "esma_03",
+        "arabic": "الْمَلِك",
+        "latin": "Al-Malik",
+        "meaning": "The Absolute Ruler",
+        "usage": "Recited when feeling powerless."
+      },
+      {
+        "id": "esma_04",
+        "arabic": "الْقُدُّوس",
+        "latin": "Al-Quddus",
+        "meaning": "The Pure One",
+        "usage": "Recited for heart purity and peace."
+      },
+      {
+        "id": "esma_05",
+        "arabic": "السَّلاَم",
+        "latin": "As-Salam",
+        "meaning": "The Source of Peace",
+        "usage": "Recited for peace and tranquility."
+      },
+      {
+        "id": "esma_06",
+        "arabic": "الْمُؤْمِن",
+        "latin": "El-Mu’min",
+        "meaning": "The Granter of Security",
+        "usage": "Recited in times of fear and anxiety."
+      },
+      {
+        "id": "esma_07",
+        "arabic": "الْمُهَيْمِن",
+        "latin": "Al-Muhaymin",
+        "meaning": "The Guardian",
+        "usage": "Recited when in need of protection and watchfulness."
+      },
+      {
+        "id": "esma_08",
+        "arabic": "الْعَزِيز",
+        "latin": "Al-Aziz",
+        "meaning": "The Mighty",
+        "usage": "Recited in times of weakness and difficulty."
+      },
+      {
+        "id": "esma_09",
+        "arabic": "الْجَبَّار",
+        "latin": "Al-Jabbar",
+        "meaning": "The Compeller",
+        "usage": "Recited in times of heartbreak and helplessness."
+      },
+      {
+        "id": "esma_10",
+        "arabic": "الْمُتَكَبِّر",
+        "latin": "Al-Mutakabbir",
+        "meaning": "The Majestic",
+        "usage": "Recited for lessons in pride and humility."
+      },
+      {
+        "id": "esma_11",
+        "arabic": "الْخَالِق",
+        "latin": "Al-Khaliq",
+        "meaning": "The Creator",
+        "usage": "Recited to understand creation and feel awe."
+      },
+      {
+        "id": "esma_12",
+        "arabic": "الْبَارِئ",
+        "latin": "El-Bâri’",
+        "meaning": "The One who creates in perfection",
+        "usage": "Recited to contemplate the miracles of creation."
+      },
+      {
+        "id": "esma_13",
+        "arabic": "الْمُصَوِّر",
+        "latin": "Al-Musawwir",
+        "meaning": "The Fashioner",
+        "usage": "Recited to appreciate beauty and form."
+      },
+      {
+        "id": "esma_14",
+        "arabic": "الْغَفَّار",
+        "latin": "Al-Ghaffar",
+        "meaning": "The Forgiving",
+        "usage": "Recited in times of repentance and regret."
+      },
+      {
+        "id": "esma_15",
+        "arabic": "الْقَهَّار",
+        "latin": "Al-Qahhar",
+        "meaning": "The Subduer",
+        "usage": "Recited for strength in the face of difficulties."
+      },
+      {
+        "id": "esma_16",
+        "arabic": "الوَهَّاب",
+        "latin": "Al-Wahhab",
+        "meaning": "The Bestower",
+        "usage": "Recited when seeking provision and blessings."
+      },
+      {
+        "id": "esma_17",
+        "arabic": "الرَّزَّاق",
+        "latin": "Ar-Razzaq",
+        "meaning": "The Provider",
+        "usage": "Recited during times of livelihood and work."
+      },
+      {
+        "id": "esma_18",
+        "arabic": "الْفَتَّاح",
+        "latin": "Al-Fattah",
+        "meaning": "The Opener",
+        "usage": "Recited for difficulties and closed matters."
+      },
+      {
+        "id": "esma_19",
+        "arabic": "الْعَلِيم",
+        "latin": "Al-Alim",
+        "meaning": "The All-Knowing",
+        "usage": "Recited for knowledge, learning, and guidance."
+      },
+      {
+        "id": "esma_20",
+        "arabic": "الْقَابِض",
+        "latin": "Al-Qabid",
+        "meaning": "The Constrictor",
+        "usage": "Recited for patience and trust."
+      },
+      {
+        "id": "esma_21",
+        "arabic": "الْبَاسِط",
+        "latin": "Al-Basit",
+        "meaning": "The Expander",
+        "usage": "Recited for opening provision and abundance."
+      },
+      {
+        "id": "esma_22",
+        "arabic": "الْخَافِض",
+        "latin": "Al-Khafid",
+        "meaning": "The Abaser",
+        "usage": "Recited to distance oneself from pride and arrogance."
+      },
+      {
+        "id": "esma_23",
+        "arabic": "الرَّافِع",
+        "latin": "Er-Râfi’",
+        "meaning": "The Exalter, the One who elevates in rank",
+        "usage": "Recited for honor and success."
+      },
+      {
+        "id": "esma_24",
+        "arabic": "الْمُعِز",
+        "latin": "El-Mu’izz",
+        "meaning": "The Honorer, the One who strengthens",
+        "usage": "Recited for dignity and security."
+      },
+      {
+        "id": "esma_25",
+        "arabic": "الْمُذِل",
+        "latin": "Al-Mudhill",
+        "meaning": "The Humiliator",
+        "usage": "Recited for humility and sense of truth."
+      },
+      {
+        "id": "esma_26",
+        "arabic": "السَّمِيع",
+        "latin": "Es-Samî’",
+        "meaning": "The All-Hearing",
+        "usage": "Recited for acceptance of prayers and peace."
+      },
+      {
+        "id": "esma_27",
+        "arabic": "الْبَصِير",
+        "latin": "Al-Basir",
+        "meaning": "The All-Seeing",
+        "usage": "Recited to correctly evaluate situations."
+      },
+      {
+        "id": "esma_28",
+        "arabic": "الْحَكَم",
+        "latin": "Al-Hakam",
+        "meaning": "The Judge",
+        "usage": "Recited in times of justice and decision-making."
+      },
+      {
+        "id": "esma_29",
+        "arabic": "الْعَدْل",
+        "latin": "Al-Adl",
+        "meaning": "The Just",
+        "usage": "Recited for strength and guidance against injustice."
+      },
+      {
+        "id": "esma_30",
+        "arabic": "اللَّطِيف",
+        "latin": "Al-Latif",
+        "meaning": "The Subtle",
+        "usage": "Recited for inner distress and unseen support."
+      },
+      {
+        "id": "esma_31",
+        "arabic": "الْخَبِير",
+        "latin": "Al-Khabir",
+        "meaning": "The Aware",
+        "usage": "Recited to correctly understand situations."
+      },
+      {
+        "id": "esma_32",
+        "arabic": "الْحَلِيم",
+        "latin": "Al-Halim",
+        "meaning": "The Forbearing",
+        "usage": "Recited in times of anger and impatience."
+      },
+      {
+        "id": "esma_33",
+        "arabic": "الْعَظِيم",
+        "latin": "Al-Azim",
+        "meaning": "The Great",
+        "usage": "Recited for awe and submission."
+      },
+      {
+        "id": "esma_34",
+        "arabic": "الْغَفُور",
+        "latin": "Al-Ghafur",
+        "meaning": "The Forgiving",
+        "usage": "Recited for repentance and forgiveness."
+      },
+      {
+        "id": "esma_35",
+        "arabic": "الشَّكُور",
+        "latin": "Ash-Shakur",
+        "meaning": "The Appreciative",
+        "usage": "Recited in a state of gratitude."
+      },
+      {
+        "id": "esma_36",
+        "arabic": "الْعَلِي",
+        "latin": "Al-Aliyy",
+        "meaning": "The Most High",
+        "usage": "Recited to distance oneself from pride and for divine power."
+      },
+      {
+        "id": "esma_37",
+        "arabic": "الْكَبِير",
+        "latin": "Al-Kabir",
+        "meaning": "The Great",
+        "usage": "Recited for respect and awe."
+      },
+      {
+        "id": "esma_38",
+        "arabic": "الْحَفِيظ",
+        "latin": "Al-Hafiz",
+        "meaning": "The Preserver",
+        "usage": "Recited for a sense of security and protection."
+      },
+      {
+        "id": "esma_39",
+        "arabic": "الْمُقِيت",
+        "latin": "Al-Muqit",
+        "meaning": "The Maintainer",
+        "usage": "Recited for meeting daily needs."
+      },
+      {
+        "id": "esma_40",
+        "arabic": "الْحَسِيب",
+        "latin": "Al-Hasib",
+        "meaning": "The Reckoner",
+        "usage": "Recited in times of justice and responsibility."
+      },
+      {
+        "id": "esma_41",
+        "arabic": "الْجَلِيل",
+        "latin": "Al-Jalil",
+        "meaning": "The Majestic",
+        "usage": "Recited to realize greatness."
+      },
+      {
+        "id": "esma_42",
+        "arabic": "الْكَرِيم",
+        "latin": "Al-Karim",
+        "meaning": "The Generous",
+        "usage": "Recited to realize blessings."
+      },
+      {
+        "id": "esma_43",
+        "arabic": "الرَّقِيب",
+        "latin": "Ar-Raqib",
+        "meaning": "The Watchful",
+        "usage": "Recited for a sense of loneliness and being watched."
+      },
+      {
+        "id": "esma_44",
+        "arabic": "الْمُجِيب",
+        "latin": "Al-Mujib",
+        "meaning": "The Responsive",
+        "usage": "Recited when making supplications and requests."
+      },
+      {
+        "id": "esma_45",
+        "arabic": "الْوَاسِع",
+        "latin": "El-Vâsi’",
+        "meaning": "The All-Embracing, vast in mercy and knowledge",
+        "usage": "Recited when feeling constricted and narrow."
+      },
+      {
+        "id": "esma_46",
+        "arabic": "الْحَكِيم",
+        "latin": "Al-Hakim",
+        "meaning": "The Wise",
+        "usage": "Recited in times of indecision and balance."
+      },
+      {
+        "id": "esma_47",
+        "arabic": "الْوَدُود",
+        "latin": "Al-Wadud",
+        "meaning": "The Loving",
+        "usage": "Recited to increase love and affection."
+      },
+      {
+        "id": "esma_48",
+        "arabic": "الْمَجِيد",
+        "latin": "Al-Majid",
+        "meaning": "The Glorious",
+        "usage": "Recited to contemplate greatness and splendor."
+      },
+      {
+        "id": "esma_49",
+        "arabic": "الْبَاعِث",
+        "latin": "Al-Ba'ith",
+        "meaning": "The Resurrector",
+        "usage": "Recited for resurrection and hope."
+      },
+      {
+        "id": "esma_50",
+        "arabic": "الشَّهِيد",
+        "latin": "Ash-Shahid",
+        "meaning": "The Witness",
+        "usage": "Recited to observe justice and truth."
+      },
+      {
+        "id": "esma_51",
+        "arabic": "الْحَق",
+        "latin": "Al-Haqq",
+        "meaning": "The Truth",
+        "usage": "Recited for truthfulness and honesty."
+      },
+      {
+        "id": "esma_52",
+        "arabic": "الْوَكِيل",
+        "latin": "Al-Wakil",
+        "meaning": "The Trustee",
+        "usage": "Recited for trust and submission."
+      },
+      {
+        "id": "esma_53",
+        "arabic": "الْقَوِي",
+        "latin": "Al-Qawiyy",
+        "meaning": "The Strong",
+        "usage": "Recited in times of weakness and frailty."
+      },
+      {
+        "id": "esma_54",
+        "arabic": "الْمَتِين",
+        "latin": "Al-Matin",
+        "meaning": "The Firm",
+        "usage": "Recited when resistance and patience are needed."
+      },
+      {
+        "id": "esma_55",
+        "arabic": "الْوَلِي",
+        "latin": "Al-Waliyy",
+        "meaning": "The Friend",
+        "usage": "Recited in times of loneliness and need for a friend."
+      },
+      {
+        "id": "esma_56",
+        "arabic": "الْحَمِيد",
+        "latin": "Al-Hamid",
+        "meaning": "The Praiseworthy",
+        "usage": "Recited for gratitude and praise."
+      },
+      {
+        "id": "esma_57",
+        "arabic": "الْمُحْصِي",
+        "latin": "Al-Muhsi",
+        "meaning": "The Counter",
+        "usage": "Recited for accounting and order."
+      },
+      {
+        "id": "esma_58",
+        "arabic": "الْمُبْدِئ",
+        "latin": "El-Mubdi’",
+        "meaning": "The Originator (from nothing)",
+        "usage": "Recited for creation and new beginnings."
+      },
+      {
+        "id": "esma_59",
+        "arabic": "الْمُعِيد",
+        "latin": "El-Mu’îd",
+        "meaning": "The Restorer to life",
+        "usage": "Recited to contemplate death and resurrection."
+      },
+      {
+        "id": "esma_60",
+        "arabic": "الْمُحْيِي",
+        "latin": "Al-Muhyi",
+        "meaning": "The Giver of Life",
+        "usage": "Recited for vitality and energy."
+      },
+      {
+        "id": "esma_61",
+        "arabic": "الْمُمِيت",
+        "latin": "Al-Mumit",
+        "meaning": "The Taker of Life",
+        "usage": "Recited to contemplate transience and death."
+      },
+      {
+        "id": "esma_62",
+        "arabic": "الْحَي",
+        "latin": "Al-Hayy",
+        "meaning": "The Living",
+        "usage": "Recited to contemplate the source of life."
+      },
+      {
+        "id": "esma_63",
+        "arabic": "الْقَيُّوم",
+        "latin": "Al-Qayyum",
+        "meaning": "The Self-Subsisting",
+        "usage": "Recited for the continuation of existence."
+      },
+      {
+        "id": "esma_64",
+        "arabic": "الْوَاجِد",
+        "latin": "Al-Wajid",
+        "meaning": "The Finder",
+        "usage": "Recited in times of need and absence."
+      },
+      {
+        "id": "esma_65",
+        "arabic": "الْمَاجِد",
+        "latin": "Al-Majid",
+        "meaning": "The Noble",
+        "usage": "Recited for honor and greatness."
+      },
+      {
+        "id": "esma_66",
+        "arabic": "الْوَاحِد",
+        "latin": "Al-Wahid",
+        "meaning": "The One",
+        "usage": "Recited to strengthen the belief in oneness."
+      },
+      {
+        "id": "esma_67",
+        "arabic": "الْأَحَد",
+        "latin": "Al-Ahad",
+        "meaning": "The Unique",
+        "usage": "Recited to contemplate the oneness of Allah."
+      },
+      {
+        "id": "esma_68",
+        "arabic": "الصَّمَد",
+        "latin": "As-Samad",
+        "meaning": "The Eternal",
+        "usage": "Recited in a state of complete submission and need."
+      },
+      {
+        "id": "esma_69",
+        "arabic": "الْقَادِر",
+        "latin": "Al-Qadir",
+        "meaning": "The Able",
+        "usage": "Recited when seeking power and might."
+      },
+      {
+        "id": "esma_70",
+        "arabic": "الْمُقْتَدِر",
+        "latin": "Al-Muqtadir",
+        "meaning": "The Powerful",
+        "usage": "Recited to contemplate destiny and power."
+      },
+      {
+        "id": "esma_71",
+        "arabic": "الْمُقَدِّم",
+        "latin": "Al-Muqaddim",
+        "meaning": "The Expediter",
+        "usage": "Recited for advancement and success."
+      },
+      {
+        "id": "esma_72",
+        "arabic": "الْمُؤَخِّر",
+        "latin": "Al-Mu'akhkhir",
+        "meaning": "The Delayer",
+        "usage": "Recited in times of patience and waiting."
+      },
+      {
+        "id": "esma_73",
+        "arabic": "الْأَوَّل",
+        "latin": "Al-Awwal",
+        "meaning": "The First",
+        "usage": "Recited to contemplate the eternal."
+      },
+      {
+        "id": "esma_74",
+        "arabic": "الْآخِر",
+        "latin": "Al-Akhir",
+        "meaning": "The Last",
+        "usage": "Recited to contemplate the everlasting."
+      },
+      {
+        "id": "esma_75",
+        "arabic": "الظَّاهِر",
+        "latin": "Az-Zahir",
+        "meaning": "The Manifest",
+        "usage": "Recited to see clear evidence."
+      },
+      {
+        "id": "esma_76",
+        "arabic": "الْبَاطِن",
+        "latin": "Al-Batin",
+        "meaning": "The Hidden",
+        "usage": "Recited for mystery and inner depth."
+      },
+      {
+        "id": "esma_77",
+        "arabic": "الْوَالِي",
+        "latin": "Al-Wali",
+        "meaning": "The Governor",
+        "usage": "Recited for governance and administration."
+      },
+      {
+        "id": "esma_78",
+        "arabic": "الْمُتَعَالِي",
+        "latin": "Al-Muta'ali",
+        "meaning": "The Exalted",
+        "usage": "Recited to contemplate greatness."
+      },
+      {
+        "id": "esma_79",
+        "arabic": "الْبَر",
+        "latin": "Al-Barr",
+        "meaning": "The Good",
+        "usage": "Recited for goodness and blessings."
+      },
+      {
+        "id": "esma_80",
+        "arabic": "التَّوَّاب",
+        "latin": "At-Tawwab",
+        "meaning": "The Accepter of Repentance",
+        "usage": "Recited for repentance and return."
+      },
+      {
+        "id": "esma_81",
+        "arabic": "الْمُنْتَقِم",
+        "latin": "Al-Muntaqim",
+        "meaning": "The Avenger",
+        "usage": "Recited in times of justice and revenge."
+      },
+      {
+        "id": "esma_82",
+        "arabic": "الْعَفُو",
+        "latin": "Al-Afuw",
+        "meaning": "The Pardoner",
+        "usage": "Recited for forgiveness and mercy."
+      },
+      {
+        "id": "esma_83",
+        "arabic": "الرَّؤُوف",
+        "latin": "Ar-Ra'uf",
+        "meaning": "The Kind",
+        "usage": "Recited when in need of kindness and mercy."
+      },
+      {
+        "id": "esma_84",
+        "arabic": "مَالِكُ الْمُلْك",
+        "latin": "Malik-ul Mulk",
+        "meaning": "The Owner of All Sovereignty",
+        "usage": "Recited not to trust in worldly possessions."
+      },
+      {
+        "id": "esma_85",
+        "arabic": "ذُو الْجَلَالِ وَالْإِكْرَام",
+        "latin": "Dhul-Jalali wal-Ikram",
+        "meaning": "The Lord of Majesty and Bounty",
+        "usage": "Recited to contemplate greatness and bounty."
+      },
+      {
+        "id": "esma_86",
+        "arabic": "الْمُقْسِط",
+        "latin": "Al-Muqsit",
+        "meaning": "The Equitable",
+        "usage": "Recited when distributing justice."
+      },
+      {
+        "id": "esma_87",
+        "arabic": "الْجَامِع",
+        "latin": "El-Câmi’",
+        "meaning": "The Gatherer, the One who brings together",
+        "usage": "Recited in times of dispersion and separation."
+      },
+      {
+        "id": "esma_88",
+        "arabic": "الْغَنِي",
+        "latin": "Al-Ghaniyy",
+        "meaning": "The Rich",
+        "usage": "Recited in times of poverty and need."
+      },
+      {
+        "id": "esma_89",
+        "arabic": "الْمُغْنِي",
+        "latin": "Al-Mughni",
+        "meaning": "The Enricher",
+        "usage": "Recited for material and spiritual wealth."
+      },
+      {
+        "id": "esma_90",
+        "arabic": "الْمَانِع",
+        "latin": "El-Mâni’",
+        "meaning": "The Withholder, the Protector",
+        "usage": "Recited for protection and prevention."
+      },
+      {
+        "id": "esma_91",
+        "arabic": "الضَّار",
+        "latin": "Ad-Darr",
+        "meaning": "The Distresser",
+        "usage": "Recited in times of harm and distress."
+      },
+      {
+        "id": "esma_92",
+        "arabic": "النَّافِع",
+        "latin": "En-Nâfi’",
+        "meaning": "The Bestower of benefit",
+        "usage": "Recited for benefit and good."
+      },
+      {
+        "id": "esma_93",
+        "arabic": "النُّور",
+        "latin": "An-Nur",
+        "meaning": "The Light",
+        "usage": "Recited for light and guidance."
+      },
+      {
+        "id": "esma_94",
+        "arabic": "الْهَادِي",
+        "latin": "Al-Hadi",
+        "meaning": "The Guide",
+        "usage": "Recited to find the right path."
+      },
+      {
+        "id": "esma_95",
+        "arabic": "الْبَدِيع",
+        "latin": "El-Bedî’",
+        "meaning": "The Incomparable, the Wonderful Originator",
+        "usage": "Recited to contemplate art and beauty."
+      },
+      {
+        "id": "esma_96",
+        "arabic": "الْبَاقِي",
+        "latin": "Al-Baqi",
+        "meaning": "The Everlasting",
+        "usage": "Recited to contemplate transience and eternity."
+      },
+      {
+        "id": "esma_97",
+        "arabic": "الْوَارِث",
+        "latin": "Al-Waris",
+        "meaning": "The Inheritor",
+        "usage": "Recited to contemplate inheritance and permanence."
+      },
+      {
+        "id": "esma_98",
+        "arabic": "الرَّشِيد",
+        "latin": "Ar-Rashid",
+        "meaning": "The Rightly Guided",
+        "usage": "Recited for guidance and right decisions."
+      },
+      {
+        "id": "esma_99",
+        "arabic": "الصَّبُور",
+        "latin": "As-Sabur",
+        "meaning": "The Patient",
+        "usage": "Recited for patience and endurance."
+      }
+    ]
+  },
+  "ar": {
+    "general": [
+      {
+        "id": "esma_01",
+        "arabic": "الرَّحْمٰن",
+        "latin": "Ar-Rahman",
+        "meaning": "الرحمن",
+        "usage": "يُقرأ لتليين القلب وطلب الرحمة."
+      },
+      {
+        "id": "esma_02",
+        "arabic": "الرَّحِيم",
+        "latin": "Ar-Rahim",
+        "meaning": "الرحيم",
+        "usage": "يُقرأ للأمل والمغفرة."
+      },
+      {
+        "id": "esma_03",
+        "arabic": "الْمَلِك",
+        "latin": "Al-Malik",
+        "meaning": "الملك",
+        "usage": "يُقرأ عند الشعور بالعجز."
+      },
+      {
+        "id": "esma_04",
+        "arabic": "الْقُدُّوس",
+        "latin": "Al-Quddus",
+        "meaning": "القدوس",
+        "usage": "يُقرأ لنقاء القلب والسلام."
+      },
+      {
+        "id": "esma_05",
+        "arabic": "السَّلاَم",
+        "latin": "As-Salam",
+        "meaning": "السلام",
+        "usage": "يُقرأ للسلام والطمأنينة."
+      },
+      {
+        "id": "esma_06",
+        "arabic": "الْمُؤْمِن",
+        "latin": "El-Mu’min",
+        "meaning": "مؤمن القلوب / مانح الأمان",
+        "usage": "يُقْرَأ عند الخوف والقلق."
+      },
+      {
+        "id": "esma_07",
+        "arabic": "الْمُهَيْمِن",
+        "latin": "Al-Muhaymin",
+        "meaning": "المهيمن",
+        "usage": "يُقرأ عند الحاجة للحماية والرعاية."
+      },
+      {
+        "id": "esma_08",
+        "arabic": "الْعَزِيز",
+        "latin": "Al-Aziz",
+        "meaning": "العزيز",
+        "usage": "يُقرأ في أوقات الضعف والصعوبة."
+      },
+      {
+        "id": "esma_09",
+        "arabic": "الْجَبَّار",
+        "latin": "Al-Jabbar",
+        "meaning": "الجبار",
+        "usage": "يُقرأ في أوقات كسر القلب والعجز."
+      },
+      {
+        "id": "esma_10",
+        "arabic": "الْمُتَكَبِّر",
+        "latin": "Al-Mutakabbir",
+        "meaning": "المتكبر",
+        "usage": "يُقرأ لدروس في الكبرياء والتواضع."
+      },
+      {
+        "id": "esma_11",
+        "arabic": "الْخَالِق",
+        "latin": "Al-Khaliq",
+        "meaning": "الخالق",
+        "usage": "يُقرأ لفهم الخلق والشعور بالرهبة."
+      },
+      {
+        "id": "esma_12",
+        "arabic": "الْبَارِئ",
+        "latin": "El-Bâri’",
+        "meaning": "البارئ - مُحْكِمُ الخَلْق",
+        "usage": "يُقْرَأ للتأمل في عجائب الخلق."
+      },
+      {
+        "id": "esma_13",
+        "arabic": "الْمُصَوِّر",
+        "latin": "Al-Musawwir",
+        "meaning": "المصور",
+        "usage": "يُقرأ لتقدير الجمال والشكل."
+      },
+      {
+        "id": "esma_14",
+        "arabic": "الْغَفَّار",
+        "latin": "Al-Ghaffar",
+        "meaning": "الغفار",
+        "usage": "يُقرأ في أوقات التوبة والندم."
+      },
+      {
+        "id": "esma_15",
+        "arabic": "الْقَهَّار",
+        "latin": "Al-Qahhar",
+        "meaning": "القهار",
+        "usage": "يُقرأ للقوة في مواجهة الصعوبات."
+      },
+      {
+        "id": "esma_16",
+        "arabic": "الوَهَّاب",
+        "latin": "Al-Wahhab",
+        "meaning": "الوهاب",
+        "usage": "يُقرأ عند طلب الرزق والنعم."
+      },
+      {
+        "id": "esma_17",
+        "arabic": "الرَّزَّاق",
+        "latin": "Ar-Razzaq",
+        "meaning": "الرزاق",
+        "usage": "يُقرأ في أوقات الرزق والعمل."
+      },
+      {
+        "id": "esma_18",
+        "arabic": "الْفَتَّاح",
+        "latin": "Al-Fattah",
+        "meaning": "الفتاح",
+        "usage": "يُقرأ للصعوبات والأمور المغلقة."
+      },
+      {
+        "id": "esma_19",
+        "arabic": "الْعَلِيم",
+        "latin": "Al-Alim",
+        "meaning": "العليم",
+        "usage": "يُقرأ للمعرفة والتعلم والهداية."
+      },
+      {
+        "id": "esma_20",
+        "arabic": "الْقَابِض",
+        "latin": "Al-Qabid",
+        "meaning": "القابض",
+        "usage": "يُقرأ للصبر والتوكل."
+      },
+      {
+        "id": "esma_21",
+        "arabic": "الْبَاسِط",
+        "latin": "Al-Basit",
+        "meaning": "الباسط",
+        "usage": "يُقرأ لفتح الرزق والوفرة."
+      },
+      {
+        "id": "esma_22",
+        "arabic": "الْخَافِض",
+        "latin": "Al-Khafid",
+        "meaning": "الخافض",
+        "usage": "يُقرأ للابتعاد عن الكبرياء والغرور."
+      },
+      {
+        "id": "esma_23",
+        "arabic": "الرَّافِع",
+        "latin": "Er-Râfi’",
+        "meaning": "الرافع - رافع الدرجات",
+        "usage": "يُقْرَأ للشرف والنجاح."
+      },
+      {
+        "id": "esma_24",
+        "arabic": "الْمُعِز",
+        "latin": "El-Mu’izz",
+        "meaning": "المعز - مُعِزُّ المؤمنين",
+        "usage": "يُقْرَأ للكرامة والأمان."
+      },
+      {
+        "id": "esma_25",
+        "arabic": "الْمُذِل",
+        "latin": "Al-Mudhill",
+        "meaning": "المذل",
+        "usage": "يُقرأ للتواضع والشعور بالحق."
+      },
+      {
+        "id": "esma_26",
+        "arabic": "السَّمِيع",
+        "latin": "Es-Samî’",
+        "meaning": "السميع - سَمِيعُ الدعاء",
+        "usage": "يُقْرَأ لقبول الدعاء والطمأنينة."
+      },
+      {
+        "id": "esma_27",
+        "arabic": "الْبَصِير",
+        "latin": "Al-Basir",
+        "meaning": "البصير",
+        "usage": "يُقرأ لتقييم المواقف بشكل صحيح."
+      },
+      {
+        "id": "esma_28",
+        "arabic": "الْحَكَم",
+        "latin": "Al-Hakam",
+        "meaning": "الحكم",
+        "usage": "يُقرأ في أوقات العدالة واتخاذ القرار."
+      },
+      {
+        "id": "esma_29",
+        "arabic": "الْعَدْل",
+        "latin": "Al-Adl",
+        "meaning": "العدل",
+        "usage": "يُقرأ للقوة والهداية ضد الظلم."
+      },
+      {
+        "id": "esma_30",
+        "arabic": "اللَّطِيف",
+        "latin": "Al-Latif",
+        "meaning": "اللطيف",
+        "usage": "يُقرأ للضيق الداخلي والدعم الخفي."
+      },
+      {
+        "id": "esma_31",
+        "arabic": "الْخَبِير",
+        "latin": "Al-Khabir",
+        "meaning": "الخبير",
+        "usage": "يُقرأ لفهم المواقف بشكل صحيح."
+      },
+      {
+        "id": "esma_32",
+        "arabic": "الْحَلِيم",
+        "latin": "Al-Halim",
+        "meaning": "الحليم",
+        "usage": "يُقرأ في أوقات الغضب وعدم الصبر."
+      },
+      {
+        "id": "esma_33",
+        "arabic": "الْعَظِيم",
+        "latin": "Al-Azim",
+        "meaning": "العظيم",
+        "usage": "يُقرأ للرهبة والاستسلام."
+      },
+      {
+        "id": "esma_34",
+        "arabic": "الْغَفُور",
+        "latin": "Al-Ghafur",
+        "meaning": "الغفور",
+        "usage": "يُقرأ للتوبة والمغفرة."
+      },
+      {
+        "id": "esma_35",
+        "arabic": "الشَّكُور",
+        "latin": "Ash-Shakur",
+        "meaning": "الشكور",
+        "usage": "يُقرأ في حالة الشكر."
+      },
+      {
+        "id": "esma_36",
+        "arabic": "الْعَلِي",
+        "latin": "Al-Aliyy",
+        "meaning": "العلي",
+        "usage": "يُقرأ للابتعاد عن الكبرياء وللقوة الإلهية."
+      },
+      {
+        "id": "esma_37",
+        "arabic": "الْكَبِير",
+        "latin": "Al-Kabir",
+        "meaning": "الكبير",
+        "usage": "يُقرأ للاحترام والرهبة."
+      },
+      {
+        "id": "esma_38",
+        "arabic": "الْحَفِيظ",
+        "latin": "Al-Hafiz",
+        "meaning": "الحفيظ",
+        "usage": "يُقرأ للشعور بالأمان والحماية."
+      },
+      {
+        "id": "esma_39",
+        "arabic": "الْمُقِيت",
+        "latin": "Al-Muqit",
+        "meaning": "المقيت",
+        "usage": "يُقرأ لتلبية الاحتياجات اليومية."
+      },
+      {
+        "id": "esma_40",
+        "arabic": "الْحَسِيب",
+        "latin": "Al-Hasib",
+        "meaning": "الحسيب",
+        "usage": "يُقرأ في أوقات العدالة والمسؤولية."
+      },
+      {
+        "id": "esma_41",
+        "arabic": "الْجَلِيل",
+        "latin": "Al-Jalil",
+        "meaning": "الجليل",
+        "usage": "يُقرأ لإدراك العظمة."
+      },
+      {
+        "id": "esma_42",
+        "arabic": "الْكَرِيم",
+        "latin": "Al-Karim",
+        "meaning": "الكريم",
+        "usage": "يُقرأ لإدراك النعم."
+      },
+      {
+        "id": "esma_43",
+        "arabic": "الرَّقِيب",
+        "latin": "Ar-Raqib",
+        "meaning": "الرقيب",
+        "usage": "يُقرأ للشعور بالوحدة والمراقبة."
+      },
+      {
+        "id": "esma_44",
+        "arabic": "الْمُجِيب",
+        "latin": "Al-Mujib",
+        "meaning": "المجيب",
+        "usage": "يُقرأ عند الدعاء والطلب."
+      },
+      {
+        "id": "esma_45",
+        "arabic": "الْوَاسِع",
+        "latin": "El-Vâsi’",
+        "meaning": "الواسع - واسع الرحمة والعلم",
+        "usage": "يُقْرَأ عند الضيق والانقباض."
+      },
+      {
+        "id": "esma_46",
+        "arabic": "الْحَكِيم",
+        "latin": "Al-Hakim",
+        "meaning": "الحكيم",
+        "usage": "يُقرأ في أوقات التردد والتوازن."
+      },
+      {
+        "id": "esma_47",
+        "arabic": "الْوَدُود",
+        "latin": "Al-Wadud",
+        "meaning": "الودود",
+        "usage": "يُقرأ لزيادة الحب والمودة."
+      },
+      {
+        "id": "esma_48",
+        "arabic": "الْمَجِيد",
+        "latin": "Al-Majid",
+        "meaning": "المجيد",
+        "usage": "يُقرأ للتفكر في العظمة والبهاء."
+      },
+      {
+        "id": "esma_49",
+        "arabic": "الْبَاعِث",
+        "latin": "Al-Ba'ith",
+        "meaning": "الباعث",
+        "usage": "يُقرأ للقيامة والأمل."
+      },
+      {
+        "id": "esma_50",
+        "arabic": "الشَّهِيد",
+        "latin": "Ash-Shahid",
+        "meaning": "الشهيد",
+        "usage": "يُقرأ لمراقبة العدالة والحق."
+      },
+      {
+        "id": "esma_51",
+        "arabic": "الْحَق",
+        "latin": "Al-Haqq",
+        "meaning": "الحق",
+        "usage": "يُقرأ للصدق والأمانة."
+      },
+      {
+        "id": "esma_52",
+        "arabic": "الْوَكِيل",
+        "latin": "Al-Wakil",
+        "meaning": "الوكيل",
+        "usage": "يُقرأ للثقة والاستسلام."
+      },
+      {
+        "id": "esma_53",
+        "arabic": "الْقَوِي",
+        "latin": "Al-Qawiyy",
+        "meaning": "القوي",
+        "usage": "يُقرأ في أوقات الضعف والهشاشة."
+      },
+      {
+        "id": "esma_54",
+        "arabic": "الْمَتِين",
+        "latin": "Al-Matin",
+        "meaning": "المتين",
+        "usage": "يُقرأ عندما تكون المقاومة والصبر ضروريين."
+      },
+      {
+        "id": "esma_55",
+        "arabic": "الْوَلِي",
+        "latin": "Al-Waliyy",
+        "meaning": "الولي",
+        "usage": "يُقرأ في أوقات الوحدة والحاجة لصديق."
+      },
+      {
+        "id": "esma_56",
+        "arabic": "الْحَمِيد",
+        "latin": "Al-Hamid",
+        "meaning": "الحميد",
+        "usage": "يُقرأ للشكر والثناء."
+      },
+      {
+        "id": "esma_57",
+        "arabic": "الْمُحْصِي",
+        "latin": "Al-Muhsi",
+        "meaning": "المحصي",
+        "usage": "يُقرأ للمحاسبة والنظام."
+      },
+      {
+        "id": "esma_58",
+        "arabic": "الْمُبْدِئ",
+        "latin": "El-Mubdi’",
+        "meaning": "المبدئ - مُبْدِئُ الخَلْقِ مِنْ عَدَم",
+        "usage": "يُقْرَأ للخلق والبدايات الجديدة."
+      },
+      {
+        "id": "esma_59",
+        "arabic": "الْمُعِيد",
+        "latin": "El-Mu’îd",
+        "meaning": "المعيد - مُعِيدُ الحياة",
+        "usage": "يُقْرَأ للتأمل في الموت والبعث."
+      },
+      {
+        "id": "esma_60",
+        "arabic": "الْمُحْيِي",
+        "latin": "Al-Muhyi",
+        "meaning": "المحيي",
+        "usage": "يُقرأ للحيوية والطاقة."
+      },
+      {
+        "id": "esma_61",
+        "arabic": "الْمُمِيت",
+        "latin": "Al-Mumit",
+        "meaning": "المميت",
+        "usage": "يُقرأ للتفكر في الزوال والموت."
+      },
+      {
+        "id": "esma_62",
+        "arabic": "الْحَي",
+        "latin": "Al-Hayy",
+        "meaning": "الحي",
+        "usage": "يُقرأ للتفكر في مصدر الحياة."
+      },
+      {
+        "id": "esma_63",
+        "arabic": "الْقَيُّوم",
+        "latin": "Al-Qayyum",
+        "meaning": "القيوم",
+        "usage": "يُقرأ لاستمرار الوجود."
+      },
+      {
+        "id": "esma_64",
+        "arabic": "الْوَاجِد",
+        "latin": "Al-Wajid",
+        "meaning": "الواجد",
+        "usage": "يُقرأ في أوقات الحاجة والغياب."
+      },
+      {
+        "id": "esma_65",
+        "arabic": "الْمَاجِد",
+        "latin": "Al-Majid",
+        "meaning": "الماجد",
+        "usage": "يُقرأ للشرف والعظمة."
+      },
+      {
+        "id": "esma_66",
+        "arabic": "الْوَاحِد",
+        "latin": "Al-Wahid",
+        "meaning": "الواحد",
+        "usage": "يُقرأ لتقوية الإيمان بالوحدانية."
+      },
+      {
+        "id": "esma_67",
+        "arabic": "الْأَحَد",
+        "latin": "Al-Ahad",
+        "meaning": "الأحد",
+        "usage": "يُقرأ للتفكر في وحدانية الله."
+      },
+      {
+        "id": "esma_68",
+        "arabic": "الصَّمَد",
+        "latin": "As-Samad",
+        "meaning": "الصمد",
+        "usage": "يُقرأ في حالة الاستسلام الكامل والحاجة."
+      },
+      {
+        "id": "esma_69",
+        "arabic": "الْقَادِر",
+        "latin": "Al-Qadir",
+        "meaning": "القادر",
+        "usage": "يُقرأ عند طلب القوة والجبروت."
+      },
+      {
+        "id": "esma_70",
+        "arabic": "الْمُقْتَدِر",
+        "latin": "Al-Muqtadir",
+        "meaning": "المقتدر",
+        "usage": "يُقرأ للتفكر في القدر والقوة."
+      },
+      {
+        "id": "esma_71",
+        "arabic": "الْمُقَدِّم",
+        "latin": "Al-Muqaddim",
+        "meaning": "المقدم",
+        "usage": "يُقرأ للتقدم والنجاح."
+      },
+      {
+        "id": "esma_72",
+        "arabic": "الْمُؤَخِّر",
+        "latin": "Al-Mu'akhkhir",
+        "meaning": "المؤخر",
+        "usage": "يُقرأ في أوقات الصبر والانتظار."
+      },
+      {
+        "id": "esma_73",
+        "arabic": "الْأَوَّل",
+        "latin": "Al-Awwal",
+        "meaning": "الأول",
+        "usage": "يُقرأ للتفكر في الأبدية."
+      },
+      {
+        "id": "esma_74",
+        "arabic": "الْآخِر",
+        "latin": "Al-Akhir",
+        "meaning": "الآخر",
+        "usage": "يُقرأ للتفكر في الخلود."
+      },
+      {
+        "id": "esma_75",
+        "arabic": "الظَّاهِر",
+        "latin": "Az-Zahir",
+        "meaning": "الظاهر",
+        "usage": "يُقرأ لرؤية الدليل الواضح."
+      },
+      {
+        "id": "esma_76",
+        "arabic": "الْبَاطِن",
+        "latin": "Al-Batin",
+        "meaning": "الباطن",
+        "usage": "يُقرأ للغموض والعمق الداخلي."
+      },
+      {
+        "id": "esma_77",
+        "arabic": "الْوَالِي",
+        "latin": "Al-Wali",
+        "meaning": "الوالي",
+        "usage": "يُقرأ للحكم والإدارة."
+      },
+      {
+        "id": "esma_78",
+        "arabic": "الْمُتَعَالِي",
+        "latin": "Al-Muta'ali",
+        "meaning": "المتعالي",
+        "usage": "يُقرأ للتفكر في العظمة."
+      },
+      {
+        "id": "esma_79",
+        "arabic": "الْبَر",
+        "latin": "Al-Barr",
+        "meaning": "البر",
+        "usage": "يُقرأ للخير والبركات."
+      },
+      {
+        "id": "esma_80",
+        "arabic": "التَّوَّاب",
+        "latin": "At-Tawwab",
+        "meaning": "التواب",
+        "usage": "يُقرأ للتوبة والعودة."
+      },
+      {
+        "id": "esma_81",
+        "arabic": "الْمُنْتَقِم",
+        "latin": "Al-Muntaqim",
+        "meaning": "المنتقم",
+        "usage": "يُقرأ في أوقات العدالة والانتقام."
+      },
+      {
+        "id": "esma_82",
+        "arabic": "الْعَفُو",
+        "latin": "Al-Afuw",
+        "meaning": "العفو",
+        "usage": "يُقرأ للمغفرة والرحمة."
+      },
+      {
+        "id": "esma_83",
+        "arabic": "الرَّؤُوف",
+        "latin": "Ar-Ra'uf",
+        "meaning": "الرؤوف",
+        "usage": "يُقرأ عند الحاجة للرحمة واللطف."
+      },
+      {
+        "id": "esma_84",
+        "arabic": "مَالِكُ الْمُلْك",
+        "latin": "Malik-ul Mulk",
+        "meaning": "مالك الملك",
+        "usage": "يُقرأ لعدم الثقة في الممتلكات الدنيوية."
+      },
+      {
+        "id": "esma_85",
+        "arabic": "ذُو الْجَلَالِ وَالْإِكْرَام",
+        "latin": "Dhul-Jalali wal-Ikram",
+        "meaning": "ذو الجلال والإكرام",
+        "usage": "يُقرأ للتفكر في العظمة والكرم."
+      },
+      {
+        "id": "esma_86",
+        "arabic": "الْمُقْسِط",
+        "latin": "Al-Muqsit",
+        "meaning": "المقسط",
+        "usage": "يُقرأ عند توزيع العدالة."
+      },
+      {
+        "id": "esma_87",
+        "arabic": "الْجَامِع",
+        "latin": "El-Câmi’",
+        "meaning": "الجامع - جَامِعُ الخَلْق",
+        "usage": "يُقْرَأ عند التفرق والشتات."
+      },
+      {
+        "id": "esma_88",
+        "arabic": "الْغَنِي",
+        "latin": "Al-Ghaniyy",
+        "meaning": "الغني",
+        "usage": "يُقرأ في أوقات الفقر والحاجة."
+      },
+      {
+        "id": "esma_89",
+        "arabic": "الْمُغْنِي",
+        "latin": "Al-Mughni",
+        "meaning": "المغني",
+        "usage": "يُقرأ للثروة المادية والروحية."
+      },
+      {
+        "id": "esma_90",
+        "arabic": "الْمَانِع",
+        "latin": "El-Mâni’",
+        "meaning": "المانع - الحامي",
+        "usage": "يُقْرَأ للحماية والدفع."
+      },
+      {
+        "id": "esma_91",
+        "arabic": "الضَّار",
+        "latin": "Ad-Darr",
+        "meaning": "الضار",
+        "usage": "يُقرأ في أوقات الضرر والضيق."
+      },
+      {
+        "id": "esma_92",
+        "arabic": "النَّافِع",
+        "latin": "En-Nâfi’",
+        "meaning": "النافع - مُنْعِمُ النفع",
+        "usage": "يُقْرَأ للنفع والخير."
+      },
+      {
+        "id": "esma_93",
+        "arabic": "النُّور",
+        "latin": "An-Nur",
+        "meaning": "النور",
+        "usage": "يُقرأ للنور والهداية."
+      },
+      {
+        "id": "esma_94",
+        "arabic": "الْهَادِي",
+        "latin": "Al-Hadi",
+        "meaning": "الهادي",
+        "usage": "يُقرأ لإيجاد الطريق الصحيح."
+      },
+      {
+        "id": "esma_95",
+        "arabic": "الْبَدِيع",
+        "latin": "El-Bedî’",
+        "meaning": "البديع - بَدِيعُ الخَلْقِ",
+        "usage": "يُقْرَأ للتأمل في الجمال والفن."
+      },
+      {
+        "id": "esma_96",
+        "arabic": "الْبَاقِي",
+        "latin": "Al-Baqi",
+        "meaning": "الباقي",
+        "usage": "يُقرأ للتفكر في الزوال والأبدية."
+      },
+      {
+        "id": "esma_97",
+        "arabic": "الْوَارِث",
+        "latin": "Al-Waris",
+        "meaning": "الوارث",
+        "usage": "يُقرأ للتفكر في الميراث والدوام."
+      },
+      {
+        "id": "esma_98",
+        "arabic": "الرَّشِيد",
+        "latin": "Ar-Rashid",
+        "meaning": "الرشيد",
+        "usage": "يُقرأ للهداية والقرارات الصحيحة."
+      },
+      {
+        "id": "esma_99",
+        "arabic": "الصَّبُور",
+        "latin": "As-Sabur",
+        "meaning": "الصبور",
+        "usage": "يُقرأ للصبر والتحمل."
+      }
+    ]
+  },
+  "pt": {
+    "general": [
+      {
+        "id": "esma_01",
+        "arabic": "الرَّحْمٰن",
+        "latin": "Ar-Rahman",
+        "meaning": "O Misericordioso",
+        "usage": "Recitado para suavizar o coração e buscar misericórdia."
+      },
+      {
+        "id": "esma_02",
+        "arabic": "الرَّحِيم",
+        "latin": "Ar-Rahim",
+        "meaning": "O Compassivo",
+        "usage": "Recitado para esperança e perdão."
+      },
+      {
+        "id": "esma_03",
+        "arabic": "الْمَلِك",
+        "latin": "Al-Malik",
+        "meaning": "O Soberano Absoluto",
+        "usage": "Recitado quando se sente impotente."
+      },
+      {
+        "id": "esma_04",
+        "arabic": "الْقُدُّوس",
+        "latin": "Al-Quddus",
+        "meaning": "O Puro",
+        "usage": "Recitado para pureza do coração e paz."
+      },
+      {
+        "id": "esma_05",
+        "arabic": "السَّلاَم",
+        "latin": "As-Salam",
+        "meaning": "A Fonte da Paz",
+        "usage": "Recitado para paz e tranquilidade."
+      },
+      {
+        "id": "esma_06",
+        "arabic": "الْمُؤْمِن",
+        "latin": "El-Mu’min",
+        "meaning": "Aquele que concede segurança",
+        "usage": "Recitado em momentos de medo e ansiedade."
+      },
+      {
+        "id": "esma_07",
+        "arabic": "الْمُهَيْمِن",
+        "latin": "Al-Muhaymin",
+        "meaning": "O Guardião",
+        "usage": "Recitado quando se precisa de proteção e vigilância."
+      },
+      {
+        "id": "esma_08",
+        "arabic": "الْعَزِيز",
+        "latin": "Al-Aziz",
+        "meaning": "O Poderoso",
+        "usage": "Recitado em tempos de fraqueza e dificuldade."
+      },
+      {
+        "id": "esma_09",
+        "arabic": "الْجَبَّار",
+        "latin": "Al-Jabbar",
+        "meaning": "O Compelidor",
+        "usage": "Recitado em tempos de coração partido e desamparo."
+      },
+      {
+        "id": "esma_10",
+        "arabic": "الْمُتَكَبِّر",
+        "latin": "Al-Mutakabbir",
+        "meaning": "O Majestoso",
+        "usage": "Recitado para lições sobre orgulho e humildade."
+      },
+      {
+        "id": "esma_11",
+        "arabic": "الْخَالِق",
+        "latin": "Al-Khaliq",
+        "meaning": "O Criador",
+        "usage": "Recitado para entender a criação e sentir admiração."
+      },
+      {
+        "id": "esma_12",
+        "arabic": "الْبَارِئ",
+        "latin": "El-Bâri’",
+        "meaning": "Aquele que cria com perfeição",
+        "usage": "Recitado para contemplar os milagres da criação."
+      },
+      {
+        "id": "esma_13",
+        "arabic": "الْمُصَوِّر",
+        "latin": "Al-Musawwir",
+        "meaning": "O Moldador",
+        "usage": "Recitado para apreciar a beleza e a forma."
+      },
+      {
+        "id": "esma_14",
+        "arabic": "الْغَفَّار",
+        "latin": "Al-Ghaffar",
+        "meaning": "O Perdoador",
+        "usage": "Recitado em tempos de arrependimento e remorso."
+      },
+      {
+        "id": "esma_15",
+        "arabic": "الْقَهَّار",
+        "latin": "Al-Qahhar",
+        "meaning": "O Subjugador",
+        "usage": "Recitado para força diante das dificuldades."
+      },
+      {
+        "id": "esma_16",
+        "arabic": "الوَهَّاب",
+        "latin": "Al-Wahhab",
+        "meaning": "O Doador",
+        "usage": "Recitado ao buscar provisão e bênçãos."
+      },
+      {
+        "id": "esma_17",
+        "arabic": "الرَّزَّاق",
+        "latin": "Ar-Razzaq",
+        "meaning": "O Provedor",
+        "usage": "Recitado durante tempos de sustento e trabalho."
+      },
+      {
+        "id": "esma_18",
+        "arabic": "الْفَتَّاح",
+        "latin": "Al-Fattah",
+        "meaning": "O Abridor",
+        "usage": "Recitado para dificuldades e assuntos fechados."
+      },
+      {
+        "id": "esma_19",
+        "arabic": "الْعَلِيم",
+        "latin": "Al-Alim",
+        "meaning": "O Onisciente",
+        "usage": "Recitado para conhecimento, aprendizado e orientação."
+      },
+      {
+        "id": "esma_20",
+        "arabic": "الْقَابِض",
+        "latin": "Al-Qabid",
+        "meaning": "O Construtor",
+        "usage": "Recitado para paciência e confiança."
+      },
+      {
+        "id": "esma_21",
+        "arabic": "الْبَاسِط",
+        "latin": "Al-Basit",
+        "meaning": "O Expansor",
+        "usage": "Recitado para abrir provisão e abundância."
+      },
+      {
+        "id": "esma_22",
+        "arabic": "الْخَافِض",
+        "latin": "Al-Khafid",
+        "meaning": "O Abaixador",
+        "usage": "Recitado para se afastar do orgulho e arrogância."
+      },
+      {
+        "id": "esma_23",
+        "arabic": "الرَّافِع",
+        "latin": "Er-Râfi’",
+        "meaning": "O Exaltador, Aquele que eleva em posição",
+        "usage": "Recitado para honra e sucesso."
+      },
+      {
+        "id": "esma_24",
+        "arabic": "الْمُعِز",
+        "latin": "El-Mu’izz",
+        "meaning": "Aquele que honra e fortalece",
+        "usage": "Recitado para dignidade e segurança."
+      },
+      {
+        "id": "esma_25",
+        "arabic": "الْمُذِل",
+        "latin": "Al-Mudhill",
+        "meaning": "O Humilhador",
+        "usage": "Recitado para humildade e senso de verdade."
+      },
+      {
+        "id": "esma_26",
+        "arabic": "السَّمِيع",
+        "latin": "Es-Samî’",
+        "meaning": "O que tudo ouve",
+        "usage": "Recitado para a aceitação das orações e paz."
+      },
+      {
+        "id": "esma_27",
+        "arabic": "الْبَصِير",
+        "latin": "Al-Basir",
+        "meaning": "O Onividente",
+        "usage": "Recitado para avaliar corretamente situações."
+      },
+      {
+        "id": "esma_28",
+        "arabic": "الْحَكَم",
+        "latin": "Al-Hakam",
+        "meaning": "O Juiz",
+        "usage": "Recitado em tempos de justiça e tomada de decisão."
+      },
+      {
+        "id": "esma_29",
+        "arabic": "الْعَدْل",
+        "latin": "Al-Adl",
+        "meaning": "O Justo",
+        "usage": "Recitado para força e orientação contra a injustiça."
+      },
+      {
+        "id": "esma_30",
+        "arabic": "اللَّطِيف",
+        "latin": "Al-Latif",
+        "meaning": "O Sutil",
+        "usage": "Recitado para angústia interior e apoio invisível."
+      },
+      {
+        "id": "esma_31",
+        "arabic": "الْخَبِير",
+        "latin": "Al-Khabir",
+        "meaning": "O Consciente",
+        "usage": "Recitado para entender corretamente situações."
+      },
+      {
+        "id": "esma_32",
+        "arabic": "الْحَلِيم",
+        "latin": "Al-Halim",
+        "meaning": "O Tolerante",
+        "usage": "Recitado em tempos de raiva e impaciência."
+      },
+      {
+        "id": "esma_33",
+        "arabic": "الْعَظِيم",
+        "latin": "Al-Azim",
+        "meaning": "O Grande",
+        "usage": "Recitado para admiração e submissão."
+      },
+      {
+        "id": "esma_34",
+        "arabic": "الْغَفُور",
+        "latin": "Al-Ghafur",
+        "meaning": "O Perdoador",
+        "usage": "Recitado para arrependimento e perdão."
+      },
+      {
+        "id": "esma_35",
+        "arabic": "الشَّكُور",
+        "latin": "Ash-Shakur",
+        "meaning": "O Apreciativo",
+        "usage": "Recitado em estado de gratidão."
+      },
+      {
+        "id": "esma_36",
+        "arabic": "الْعَلِي",
+        "latin": "Al-Aliyy",
+        "meaning": "O Altíssimo",
+        "usage": "Recitado para se afastar do orgulho e para poder divino."
+      },
+      {
+        "id": "esma_37",
+        "arabic": "الْكَبِير",
+        "latin": "Al-Kabir",
+        "meaning": "O Grande",
+        "usage": "Recitado para respeito e admiração."
+      },
+      {
+        "id": "esma_38",
+        "arabic": "الْحَفِيظ",
+        "latin": "Al-Hafiz",
+        "meaning": "O Preservador",
+        "usage": "Recitado para senso de segurança e proteção."
+      },
+      {
+        "id": "esma_39",
+        "arabic": "الْمُقِيت",
+        "latin": "Al-Muqit",
+        "meaning": "O Mantenedor",
+        "usage": "Recitado para atender necessidades diárias."
+      },
+      {
+        "id": "esma_40",
+        "arabic": "الْحَسِيب",
+        "latin": "Al-Hasib",
+        "meaning": "O Calculador",
+        "usage": "Recitado em tempos de justiça e responsabilidade."
+      },
+      {
+        "id": "esma_41",
+        "arabic": "الْجَلِيل",
+        "latin": "Al-Jalil",
+        "meaning": "O Majestoso",
+        "usage": "Recitado para realizar a grandeza."
+      },
+      {
+        "id": "esma_42",
+        "arabic": "الْكَرِيم",
+        "latin": "Al-Karim",
+        "meaning": "O Generoso",
+        "usage": "Recitado para realizar bênçãos."
+      },
+      {
+        "id": "esma_43",
+        "arabic": "الرَّقِيب",
+        "latin": "Ar-Raqib",
+        "meaning": "O Vigilante",
+        "usage": "Recitado para senso de solidão e ser observado."
+      },
+      {
+        "id": "esma_44",
+        "arabic": "الْمُجِيب",
+        "latin": "Al-Mujib",
+        "meaning": "O Responsivo",
+        "usage": "Recitado ao fazer súplicas e pedidos."
+      },
+      {
+        "id": "esma_45",
+        "arabic": "الْوَاسِع",
+        "latin": "El-Vâsi’",
+        "meaning": "O Abrangente, vasto em misericórdia e conhecimento",
+        "usage": "Recitado quando se sente constrição e angústia."
+      },
+      {
+        "id": "esma_46",
+        "arabic": "الْحَكِيم",
+        "latin": "Al-Hakim",
+        "meaning": "O Sábio",
+        "usage": "Recitado em tempos de indecisão e equilíbrio."
+      },
+      {
+        "id": "esma_47",
+        "arabic": "الْوَدُود",
+        "latin": "Al-Wadud",
+        "meaning": "O Amoroso",
+        "usage": "Recitado para aumentar o amor e afeição."
+      },
+      {
+        "id": "esma_48",
+        "arabic": "الْمَجِيد",
+        "latin": "Al-Majid",
+        "meaning": "O Glorioso",
+        "usage": "Recitado para contemplar grandeza e esplendor."
+      },
+      {
+        "id": "esma_49",
+        "arabic": "الْبَاعِث",
+        "latin": "Al-Ba'ith",
+        "meaning": "O Ressuscitador",
+        "usage": "Recitado para ressurreição e esperança."
+      },
+      {
+        "id": "esma_50",
+        "arabic": "الشَّهِيد",
+        "latin": "Ash-Shahid",
+        "meaning": "A Testemunha",
+        "usage": "Recitado para observar justiça e verdade."
+      },
+      {
+        "id": "esma_51",
+        "arabic": "الْحَق",
+        "latin": "Al-Haqq",
+        "meaning": "A Verdade",
+        "usage": "Recitado para veracidade e honestidade."
+      },
+      {
+        "id": "esma_52",
+        "arabic": "الْوَكِيل",
+        "latin": "Al-Wakil",
+        "meaning": "O Depositário",
+        "usage": "Recitado para confiança e submissão."
+      },
+      {
+        "id": "esma_53",
+        "arabic": "الْقَوِي",
+        "latin": "Al-Qawiyy",
+        "meaning": "O Forte",
+        "usage": "Recitado em tempos de fraqueza e fragilidade."
+      },
+      {
+        "id": "esma_54",
+        "arabic": "الْمَتِين",
+        "latin": "Al-Matin",
+        "meaning": "O Firme",
+        "usage": "Recitado quando resistência e paciência são necessárias."
+      },
+      {
+        "id": "esma_55",
+        "arabic": "الْوَلِي",
+        "latin": "Al-Waliyy",
+        "meaning": "O Amigo",
+        "usage": "Recitado em tempos de solidão e necessidade de um amigo."
+      },
+      {
+        "id": "esma_56",
+        "arabic": "الْحَمِيد",
+        "latin": "Al-Hamid",
+        "meaning": "O Louvável",
+        "usage": "Recitado para gratidão e louvor."
+      },
+      {
+        "id": "esma_57",
+        "arabic": "الْمُحْصِي",
+        "latin": "Al-Muhsi",
+        "meaning": "O Contador",
+        "usage": "Recitado para contabilidade e ordem."
+      },
+      {
+        "id": "esma_58",
+        "arabic": "الْمُبْدِئ",
+        "latin": "El-Mubdi’",
+        "meaning": "O Originador (do nada)",
+        "usage": "Recitado para criação e novos começos."
+      },
+      {
+        "id": "esma_59",
+        "arabic": "الْمُعِيد",
+        "latin": "El-Mu’îd",
+        "meaning": "Aquele que restaura a vida",
+        "usage": "Recitado para contemplar a morte e a ressurreição."
+      },
+      {
+        "id": "esma_60",
+        "arabic": "الْمُحْيِي",
+        "latin": "Al-Muhyi",
+        "meaning": "O Doador de Vida",
+        "usage": "Recitado para vitalidade e energia."
+      },
+      {
+        "id": "esma_61",
+        "arabic": "الْمُمِيت",
+        "latin": "Al-Mumit",
+        "meaning": "O Tomador de Vida",
+        "usage": "Recitado para contemplar transitoriedade e morte."
+      },
+      {
+        "id": "esma_62",
+        "arabic": "الْحَي",
+        "latin": "Al-Hayy",
+        "meaning": "O Vivente",
+        "usage": "Recitado para contemplar a fonte da vida."
+      },
+      {
+        "id": "esma_63",
+        "arabic": "الْقَيُّوم",
+        "latin": "Al-Qayyum",
+        "meaning": "O Auto-Subsistente",
+        "usage": "Recitado para a continuação da existência."
+      },
+      {
+        "id": "esma_64",
+        "arabic": "الْوَاجِد",
+        "latin": "Al-Wajid",
+        "meaning": "O Encontrador",
+        "usage": "Recitado em tempos de necessidade e ausência."
+      },
+      {
+        "id": "esma_65",
+        "arabic": "الْمَاجِد",
+        "latin": "Al-Majid",
+        "meaning": "O Nobre",
+        "usage": "Recitado para honra e grandeza."
+      },
+      {
+        "id": "esma_66",
+        "arabic": "الْوَاحِد",
+        "latin": "Al-Wahid",
+        "meaning": "O Único",
+        "usage": "Recitado para fortalecer a crença na unicidade."
+      },
+      {
+        "id": "esma_67",
+        "arabic": "الْأَحَد",
+        "latin": "Al-Ahad",
+        "meaning": "O Único",
+        "usage": "Recitado para contemplar a unicidade de Allah."
+      },
+      {
+        "id": "esma_68",
+        "arabic": "الصَّمَد",
+        "latin": "As-Samad",
+        "meaning": "O Eterno",
+        "usage": "Recitado em estado de completa submissão e necessidade."
+      },
+      {
+        "id": "esma_69",
+        "arabic": "الْقَادِر",
+        "latin": "Al-Qadir",
+        "meaning": "O Capaz",
+        "usage": "Recitado ao buscar poder e força."
+      },
+      {
+        "id": "esma_70",
+        "arabic": "الْمُقْتَدِر",
+        "latin": "Al-Muqtadir",
+        "meaning": "O Poderoso",
+        "usage": "Recitado para contemplar destino e poder."
+      },
+      {
+        "id": "esma_71",
+        "arabic": "الْمُقَدِّم",
+        "latin": "Al-Muqaddim",
+        "meaning": "O Expedidor",
+        "usage": "Recitado para avanço e sucesso."
+      },
+      {
+        "id": "esma_72",
+        "arabic": "الْمُؤَخِّر",
+        "latin": "Al-Mu'akhkhir",
+        "meaning": "O Atrasador",
+        "usage": "Recitado em tempos de paciência e espera."
+      },
+      {
+        "id": "esma_73",
+        "arabic": "الْأَوَّل",
+        "latin": "Al-Awwal",
+        "meaning": "O Primeiro",
+        "usage": "Recitado para contemplar o eterno."
+      },
+      {
+        "id": "esma_74",
+        "arabic": "الْآخِر",
+        "latin": "Al-Akhir",
+        "meaning": "O Último",
+        "usage": "Recitado para contemplar o perpétuo."
+      },
+      {
+        "id": "esma_75",
+        "arabic": "الظَّاهِر",
+        "latin": "Az-Zahir",
+        "meaning": "O Manifesto",
+        "usage": "Recitado para ver evidência clara."
+      },
+      {
+        "id": "esma_76",
+        "arabic": "الْبَاطِن",
+        "latin": "Al-Batin",
+        "meaning": "O Oculto",
+        "usage": "Recitado para mistério e profundidade interior."
+      },
+      {
+        "id": "esma_77",
+        "arabic": "الْوَالِي",
+        "latin": "Al-Wali",
+        "meaning": "O Governador",
+        "usage": "Recitado para governança e administração."
+      },
+      {
+        "id": "esma_78",
+        "arabic": "الْمُتَعَالِي",
+        "latin": "Al-Muta'ali",
+        "meaning": "O Exaltado",
+        "usage": "Recitado para contemplar grandeza."
+      },
+      {
+        "id": "esma_79",
+        "arabic": "الْبَر",
+        "latin": "Al-Barr",
+        "meaning": "O Bom",
+        "usage": "Recitado para bondade e bênçãos."
+      },
+      {
+        "id": "esma_80",
+        "arabic": "التَّوَّاب",
+        "latin": "At-Tawwab",
+        "meaning": "O Aceitador de Arrependimento",
+        "usage": "Recitado para arrependimento e retorno."
+      },
+      {
+        "id": "esma_81",
+        "arabic": "الْمُنْتَقِم",
+        "latin": "Al-Muntaqim",
+        "meaning": "O Vingador",
+        "usage": "Recitado em tempos de justiça e vingança."
+      },
+      {
+        "id": "esma_82",
+        "arabic": "الْعَفُو",
+        "latin": "Al-Afuw",
+        "meaning": "O Perdoador",
+        "usage": "Recitado para perdão e misericórdia."
+      },
+      {
+        "id": "esma_83",
+        "arabic": "الرَّؤُوف",
+        "latin": "Ar-Ra'uf",
+        "meaning": "O Bondoso",
+        "usage": "Recitado quando em necessidade de bondade e misericórdia."
+      },
+      {
+        "id": "esma_84",
+        "arabic": "مَالِكُ الْمُلْك",
+        "latin": "Malik-ul Mulk",
+        "meaning": "O Dono de Toda Soberania",
+        "usage": "Recitado para não confiar em posses mundanas."
+      },
+      {
+        "id": "esma_85",
+        "arabic": "ذُو الْجَلَالِ وَالْإِكْرَام",
+        "latin": "Dhul-Jalali wal-Ikram",
+        "meaning": "O Senhor da Majestade e Generosidade",
+        "usage": "Recitado para contemplar grandeza e generosidade."
+      },
+      {
+        "id": "esma_86",
+        "arabic": "الْمُقْسِط",
+        "latin": "Al-Muqsit",
+        "meaning": "O Equitativo",
+        "usage": "Recitado ao distribuir justiça."
+      },
+      {
+        "id": "esma_87",
+        "arabic": "الْجَامِع",
+        "latin": "El-Câmi’",
+        "meaning": "O Reunidor, Aquele que congrega",
+        "usage": "Recitado em tempos de dispersão e separação."
+      },
+      {
+        "id": "esma_88",
+        "arabic": "الْغَنِي",
+        "latin": "Al-Ghaniyy",
+        "meaning": "O Rico",
+        "usage": "Recitado em tempos de pobreza e necessidade."
+      },
+      {
+        "id": "esma_89",
+        "arabic": "الْمُغْنِي",
+        "latin": "Al-Mughni",
+        "meaning": "O Enriquecedor",
+        "usage": "Recitado para riqueza material e espiritual."
+      },
+      {
+        "id": "esma_90",
+        "arabic": "الْمَانِع",
+        "latin": "El-Mâni’",
+        "meaning": "O Restritor, o Protetor",
+        "usage": "Recitado para proteção e prevenção."
+      },
+      {
+        "id": "esma_91",
+        "arabic": "الضَّار",
+        "latin": "Ad-Darr",
+        "meaning": "O Afligidor",
+        "usage": "Recitado em tempos de dano e aflição."
+      },
+      {
+        "id": "esma_92",
+        "arabic": "النَّافِع",
+        "latin": "En-Nâfi’",
+        "meaning": "Aquele que concede o benefício",
+        "usage": "Recitado para benefício e bem."
+      },
+      {
+        "id": "esma_93",
+        "arabic": "النُّور",
+        "latin": "An-Nur",
+        "meaning": "A Luz",
+        "usage": "Recitado para luz e orientação."
+      },
+      {
+        "id": "esma_94",
+        "arabic": "الْهَادِي",
+        "latin": "Al-Hadi",
+        "meaning": "O Guia",
+        "usage": "Recitado para encontrar o caminho certo."
+      },
+      {
+        "id": "esma_95",
+        "arabic": "الْبَدِيع",
+        "latin": "El-Bedî’",
+        "meaning": "O Incomparável, o Criador Maravilhoso",
+        "usage": "Recitado para contemplar a arte e a beleza."
+      },
+      {
+        "id": "esma_96",
+        "arabic": "الْبَاقِي",
+        "latin": "Al-Baqi",
+        "meaning": "O Eterno",
+        "usage": "Recitado para contemplar transitoriedade e eternidade."
+      },
+      {
+        "id": "esma_97",
+        "arabic": "الْوَارِث",
+        "latin": "Al-Waris",
+        "meaning": "O Herdeiro",
+        "usage": "Recitado para contemplar herança e permanência."
+      },
+      {
+        "id": "esma_98",
+        "arabic": "الرَّشِيد",
+        "latin": "Ar-Rashid",
+        "meaning": "O Corretamente Guiado",
+        "usage": "Recitado para orientação e decisões corretas."
+      },
+      {
+        "id": "esma_99",
+        "arabic": "الصَّبُور",
+        "latin": "As-Sabur",
+        "meaning": "O Paciente",
+        "usage": "Recitado para paciência e resistência."
+      }
+    ]
+  },
+  "es": {
+    "general": [
+      {
+        "id": "esma_01",
+        "arabic": "الرَّحْمٰن",
+        "latin": "Ar-Rahman",
+        "meaning": "El Misericordioso",
+        "usage": "Recitado para suavizar el corazón y buscar misericordia."
+      },
+      {
+        "id": "esma_02",
+        "arabic": "الرَّحِيم",
+        "latin": "Ar-Rahim",
+        "meaning": "El Compasivo",
+        "usage": "Recitado para esperanza y perdón."
+      },
+      {
+        "id": "esma_03",
+        "arabic": "الْمَلِك",
+        "latin": "Al-Malik",
+        "meaning": "El Soberano Absoluto",
+        "usage": "Recitado cuando se siente impotente."
+      },
+      {
+        "id": "esma_04",
+        "arabic": "الْقُدُّوس",
+        "latin": "Al-Quddus",
+        "meaning": "El Puro",
+        "usage": "Recitado para pureza del corazón y paz."
+      },
+      {
+        "id": "esma_05",
+        "arabic": "السَّلاَم",
+        "latin": "As-Salam",
+        "meaning": "La Fuente de la Paz",
+        "usage": "Recitado para paz y tranquilidad."
+      },
+      {
+        "id": "esma_06",
+        "arabic": "الْمُؤْمِن",
+        "latin": "El-Mu’min",
+        "meaning": "El que concede seguridad",
+        "usage": "Recitado en momentos de miedo y ansiedad."
+      },
+      {
+        "id": "esma_07",
+        "arabic": "الْمُهَيْمِن",
+        "latin": "Al-Muhaymin",
+        "meaning": "El Guardián",
+        "usage": "Recitado cuando se necesita protección y vigilancia."
+      },
+      {
+        "id": "esma_08",
+        "arabic": "الْعَزِيز",
+        "latin": "Al-Aziz",
+        "meaning": "El Poderoso",
+        "usage": "Recitado en tiempos de debilidad y dificultad."
+      },
+      {
+        "id": "esma_09",
+        "arabic": "الْجَبَّار",
+        "latin": "Al-Jabbar",
+        "meaning": "El Compelidor",
+        "usage": "Recitado en tiempos de corazón roto y desamparo."
+      },
+      {
+        "id": "esma_10",
+        "arabic": "الْمُتَكَبِّر",
+        "latin": "Al-Mutakabbir",
+        "meaning": "El Majestuoso",
+        "usage": "Recitado para lecciones sobre orgullo y humildad."
+      },
+      {
+        "id": "esma_11",
+        "arabic": "الْخَالِق",
+        "latin": "Al-Khaliq",
+        "meaning": "El Creador",
+        "usage": "Recitado para entender la creación y sentir asombro."
+      },
+      {
+        "id": "esma_12",
+        "arabic": "الْبَارِئ",
+        "latin": "El-Bâri’",
+        "meaning": "El que crea con perfección",
+        "usage": "Recitado para contemplar los milagros de la creación."
+      },
+      {
+        "id": "esma_13",
+        "arabic": "الْمُصَوِّر",
+        "latin": "Al-Musawwir",
+        "meaning": "El Modelador",
+        "usage": "Recitado para apreciar la belleza y la forma."
+      },
+      {
+        "id": "esma_14",
+        "arabic": "الْغَفَّار",
+        "latin": "Al-Ghaffar",
+        "meaning": "El Perdonador",
+        "usage": "Recitado en tiempos de arrepentimiento y remordimiento."
+      },
+      {
+        "id": "esma_15",
+        "arabic": "الْقَهَّار",
+        "latin": "Al-Qahhar",
+        "meaning": "El Subyugador",
+        "usage": "Recitado para fuerza ante las dificultades."
+      },
+      {
+        "id": "esma_16",
+        "arabic": "الوَهَّاب",
+        "latin": "Al-Wahhab",
+        "meaning": "El Dador",
+        "usage": "Recitado al buscar provisión y bendiciones."
+      },
+      {
+        "id": "esma_17",
+        "arabic": "الرَّزَّاق",
+        "latin": "Ar-Razzaq",
+        "meaning": "El Proveedor",
+        "usage": "Recitado durante tiempos de sustento y trabajo."
+      },
+      {
+        "id": "esma_18",
+        "arabic": "الْفَتَّاح",
+        "latin": "Al-Fattah",
+        "meaning": "El Abridor",
+        "usage": "Recitado para dificultades y asuntos cerrados."
+      },
+      {
+        "id": "esma_19",
+        "arabic": "الْعَلِيم",
+        "latin": "Al-Alim",
+        "meaning": "El Omnisciente",
+        "usage": "Recitado para conocimiento, aprendizaje y orientación."
+      },
+      {
+        "id": "esma_20",
+        "arabic": "الْقَابِض",
+        "latin": "Al-Qabid",
+        "meaning": "El Constructor",
+        "usage": "Recitado para paciencia y confianza."
+      },
+      {
+        "id": "esma_21",
+        "arabic": "الْبَاسِط",
+        "latin": "Al-Basit",
+        "meaning": "El Expansor",
+        "usage": "Recitado para abrir provisión y abundancia."
+      },
+      {
+        "id": "esma_22",
+        "arabic": "الْخَافِض",
+        "latin": "Al-Khafid",
+        "meaning": "El Abajador",
+        "usage": "Recitado para alejarse del orgullo y arrogancia."
+      },
+      {
+        "id": "esma_23",
+        "arabic": "الرَّافِع",
+        "latin": "Er-Râfi’",
+        "meaning": "El Exaltador, el que eleva en rango",
+        "usage": "Recitado para honor y éxito."
+      },
+      {
+        "id": "esma_24",
+        "arabic": "الْمُعِز",
+        "latin": "El-Mu’izz",
+        "meaning": "El que honra y fortalece",
+        "usage": "Recitado para dignidad y seguridad."
+      },
+      {
+        "id": "esma_25",
+        "arabic": "الْمُذِل",
+        "latin": "Al-Mudhill",
+        "meaning": "El Humillador",
+        "usage": "Recitado para humildad y sentido de verdad."
+      },
+      {
+        "id": "esma_26",
+        "arabic": "السَّمِيع",
+        "latin": "Es-Samî’",
+        "meaning": "El que todo lo oye",
+        "usage": "Recitado para la aceptación de las oraciones y la paz."
+      },
+      {
+        "id": "esma_27",
+        "arabic": "الْبَصِير",
+        "latin": "Al-Basir",
+        "meaning": "El Omnividente",
+        "usage": "Recitado para evaluar correctamente situaciones."
+      },
+      {
+        "id": "esma_28",
+        "arabic": "الْحَكَم",
+        "latin": "Al-Hakam",
+        "meaning": "El Juez",
+        "usage": "Recitado en tiempos de justicia y toma de decisiones."
+      },
+      {
+        "id": "esma_29",
+        "arabic": "الْعَدْل",
+        "latin": "Al-Adl",
+        "meaning": "El Justo",
+        "usage": "Recitado para fuerza y orientación contra la injusticia."
+      },
+      {
+        "id": "esma_30",
+        "arabic": "اللَّطِيف",
+        "latin": "Al-Latif",
+        "meaning": "El Sutil",
+        "usage": "Recitado para angustia interior y apoyo invisible."
+      },
+      {
+        "id": "esma_31",
+        "arabic": "الْخَبِير",
+        "latin": "Al-Khabir",
+        "meaning": "El Consciente",
+        "usage": "Recitado para entender correctamente situaciones."
+      },
+      {
+        "id": "esma_32",
+        "arabic": "الْحَلِيم",
+        "latin": "Al-Halim",
+        "meaning": "El Tolerante",
+        "usage": "Recitado en tiempos de ira e impaciencia."
+      },
+      {
+        "id": "esma_33",
+        "arabic": "الْعَظِيم",
+        "latin": "Al-Azim",
+        "meaning": "El Grande",
+        "usage": "Recitado para asombro y sumisión."
+      },
+      {
+        "id": "esma_34",
+        "arabic": "الْغَفُور",
+        "latin": "Al-Ghafur",
+        "meaning": "El Perdonador",
+        "usage": "Recitado para arrepentimiento y perdón."
+      },
+      {
+        "id": "esma_35",
+        "arabic": "الشَّكُور",
+        "latin": "Ash-Shakur",
+        "meaning": "El Apreciativo",
+        "usage": "Recitado en estado de gratitud."
+      },
+      {
+        "id": "esma_36",
+        "arabic": "الْعَلِي",
+        "latin": "Al-Aliyy",
+        "meaning": "El Altísimo",
+        "usage": "Recitado para alejarse del orgullo y para poder divino."
+      },
+      {
+        "id": "esma_37",
+        "arabic": "الْكَبِير",
+        "latin": "Al-Kabir",
+        "meaning": "El Grande",
+        "usage": "Recitado para respeto y asombro."
+      },
+      {
+        "id": "esma_38",
+        "arabic": "الْحَفِيظ",
+        "latin": "Al-Hafiz",
+        "meaning": "El Preservador",
+        "usage": "Recitado para sentido de seguridad y protección."
+      },
+      {
+        "id": "esma_39",
+        "arabic": "الْمُقِيت",
+        "latin": "Al-Muqit",
+        "meaning": "El Mantenedor",
+        "usage": "Recitado para atender necesidades diarias."
+      },
+      {
+        "id": "esma_40",
+        "arabic": "الْحَسِيب",
+        "latin": "Al-Hasib",
+        "meaning": "El Calculador",
+        "usage": "Recitado en tiempos de justicia y responsabilidad."
+      },
+      {
+        "id": "esma_41",
+        "arabic": "الْجَلِيل",
+        "latin": "Al-Jalil",
+        "meaning": "El Majestuoso",
+        "usage": "Recitado para realizar la grandeza."
+      },
+      {
+        "id": "esma_42",
+        "arabic": "الْكَرِيم",
+        "latin": "Al-Karim",
+        "meaning": "El Generoso",
+        "usage": "Recitado para realizar bendiciones."
+      },
+      {
+        "id": "esma_43",
+        "arabic": "الرَّقِيب",
+        "latin": "Ar-Raqib",
+        "meaning": "El Vigilante",
+        "usage": "Recitado para sentido de soledad y ser observado."
+      },
+      {
+        "id": "esma_44",
+        "arabic": "الْمُجِيب",
+        "latin": "Al-Mujib",
+        "meaning": "El Responsivo",
+        "usage": "Recitado al hacer súplicas y peticiones."
+      },
+      {
+        "id": "esma_45",
+        "arabic": "الْوَاسِع",
+        "latin": "El-Vâsi’",
+        "meaning": "El Omnioabarcador, vasto en misericordia y conocimiento",
+        "usage": "Recitado cuando se siente constricción y angustia."
+      },
+      {
+        "id": "esma_46",
+        "arabic": "الْحَكِيم",
+        "latin": "Al-Hakim",
+        "meaning": "El Sabio",
+        "usage": "Recitado en tiempos de indecisión y equilibrio."
+      },
+      {
+        "id": "esma_47",
+        "arabic": "الْوَدُود",
+        "latin": "Al-Wadud",
+        "meaning": "El Amoroso",
+        "usage": "Recitado para aumentar el amor y afecto."
+      },
+      {
+        "id": "esma_48",
+        "arabic": "الْمَجِيد",
+        "latin": "Al-Majid",
+        "meaning": "El Glorioso",
+        "usage": "Recitado para contemplar grandeza y esplendor."
+      },
+      {
+        "id": "esma_49",
+        "arabic": "الْبَاعِث",
+        "latin": "Al-Ba'ith",
+        "meaning": "El Resucitador",
+        "usage": "Recitado para resurrección y esperanza."
+      },
+      {
+        "id": "esma_50",
+        "arabic": "الشَّهِيد",
+        "latin": "Ash-Shahid",
+        "meaning": "El Testigo",
+        "usage": "Recitado para observar justicia y verdad."
+      },
+      {
+        "id": "esma_51",
+        "arabic": "الْحَق",
+        "latin": "Al-Haqq",
+        "meaning": "La Verdad",
+        "usage": "Recitado para veracidad y honestidad."
+      },
+      {
+        "id": "esma_52",
+        "arabic": "الْوَكِيل",
+        "latin": "Al-Wakil",
+        "meaning": "El Depositario",
+        "usage": "Recitado para confianza y sumisión."
+      },
+      {
+        "id": "esma_53",
+        "arabic": "الْقَوِي",
+        "latin": "Al-Qawiyy",
+        "meaning": "El Fuerte",
+        "usage": "Recitado en tiempos de debilidad y fragilidad."
+      },
+      {
+        "id": "esma_54",
+        "arabic": "الْمَتِين",
+        "latin": "Al-Matin",
+        "meaning": "El Firme",
+        "usage": "Recitado cuando resistencia y paciencia son necesarias."
+      },
+      {
+        "id": "esma_55",
+        "arabic": "الْوَلِي",
+        "latin": "Al-Waliyy",
+        "meaning": "El Amigo",
+        "usage": "Recitado en tiempos de soledad y necesidad de un amigo."
+      },
+      {
+        "id": "esma_56",
+        "arabic": "الْحَمِيد",
+        "latin": "Al-Hamid",
+        "meaning": "El Alabable",
+        "usage": "Recitado para gratitud y alabanza."
+      },
+      {
+        "id": "esma_57",
+        "arabic": "الْمُحْصِي",
+        "latin": "Al-Muhsi",
+        "meaning": "El Contador",
+        "usage": "Recitado para contabilidad y orden."
+      },
+      {
+        "id": "esma_58",
+        "arabic": "الْمُبْدِئ",
+        "latin": "El-Mubdi’",
+        "meaning": "El Originador (de la nada)",
+        "usage": "Recitado para la creación y nuevos comienzos."
+      },
+      {
+        "id": "esma_59",
+        "arabic": "الْمُعِيد",
+        "latin": "El-Mu’îd",
+        "meaning": "El que restaura la vida",
+        "usage": "Recitado para contemplar la muerte y la resurrección."
+      },
+      {
+        "id": "esma_60",
+        "arabic": "الْمُحْيِي",
+        "latin": "Al-Muhyi",
+        "meaning": "El Dador de Vida",
+        "usage": "Recitado para vitalidad y energía."
+      },
+      {
+        "id": "esma_61",
+        "arabic": "الْمُمِيت",
+        "latin": "Al-Mumit",
+        "meaning": "El Tomador de Vida",
+        "usage": "Recitado para contemplar transitoriedad y muerte."
+      },
+      {
+        "id": "esma_62",
+        "arabic": "الْحَي",
+        "latin": "Al-Hayy",
+        "meaning": "El Viviente",
+        "usage": "Recitado para contemplar la fuente de la vida."
+      },
+      {
+        "id": "esma_63",
+        "arabic": "الْقَيُّوم",
+        "latin": "Al-Qayyum",
+        "meaning": "El Auto-Subsistente",
+        "usage": "Recitado para la continuación de la existencia."
+      },
+      {
+        "id": "esma_64",
+        "arabic": "الْوَاجِد",
+        "latin": "Al-Wajid",
+        "meaning": "El Encontrador",
+        "usage": "Recitado en tiempos de necesidad y ausencia."
+      },
+      {
+        "id": "esma_65",
+        "arabic": "الْمَاجِد",
+        "latin": "Al-Majid",
+        "meaning": "El Noble",
+        "usage": "Recitado para honor y grandeza."
+      },
+      {
+        "id": "esma_66",
+        "arabic": "الْوَاحِد",
+        "latin": "Al-Wahid",
+        "meaning": "El Único",
+        "usage": "Recitado para fortalecer la creencia en la unicidad."
+      },
+      {
+        "id": "esma_67",
+        "arabic": "الْأَحَد",
+        "latin": "Al-Ahad",
+        "meaning": "El Único",
+        "usage": "Recitado para contemplar la unicidad de Allah."
+      },
+      {
+        "id": "esma_68",
+        "arabic": "الصَّمَد",
+        "latin": "As-Samad",
+        "meaning": "El Eterno",
+        "usage": "Recitado en estado de completa sumisión y necesidad."
+      },
+      {
+        "id": "esma_69",
+        "arabic": "الْقَادِر",
+        "latin": "Al-Qadir",
+        "meaning": "El Capaz",
+        "usage": "Recitado al buscar poder y fuerza."
+      },
+      {
+        "id": "esma_70",
+        "arabic": "الْمُقْتَدِر",
+        "latin": "Al-Muqtadir",
+        "meaning": "El Poderoso",
+        "usage": "Recitado para contemplar destino y poder."
+      },
+      {
+        "id": "esma_71",
+        "arabic": "الْمُقَدِّم",
+        "latin": "Al-Muqaddim",
+        "meaning": "El Expedidor",
+        "usage": "Recitado para avance y éxito."
+      },
+      {
+        "id": "esma_72",
+        "arabic": "الْمُؤَخِّر",
+        "latin": "Al-Mu'akhkhir",
+        "meaning": "El Atrasador",
+        "usage": "Recitado en tiempos de paciencia y espera."
+      },
+      {
+        "id": "esma_73",
+        "arabic": "الْأَوَّل",
+        "latin": "Al-Awwal",
+        "meaning": "El Primero",
+        "usage": "Recitado para contemplar lo eterno."
+      },
+      {
+        "id": "esma_74",
+        "arabic": "الْآخِر",
+        "latin": "Al-Akhir",
+        "meaning": "El Último",
+        "usage": "Recitado para contemplar lo perpetuo."
+      },
+      {
+        "id": "esma_75",
+        "arabic": "الظَّاهِر",
+        "latin": "Az-Zahir",
+        "meaning": "El Manifesto",
+        "usage": "Recitado para ver evidencia clara."
+      },
+      {
+        "id": "esma_76",
+        "arabic": "الْبَاطِن",
+        "latin": "Al-Batin",
+        "meaning": "El Oculto",
+        "usage": "Recitado para misterio y profundidad interior."
+      },
+      {
+        "id": "esma_77",
+        "arabic": "الْوَالِي",
+        "latin": "Al-Wali",
+        "meaning": "El Gobernador",
+        "usage": "Recitado para gobernanza y administración."
+      },
+      {
+        "id": "esma_78",
+        "arabic": "الْمُتَعَالِي",
+        "latin": "Al-Muta'ali",
+        "meaning": "El Exaltado",
+        "usage": "Recitado para contemplar grandeza."
+      },
+      {
+        "id": "esma_79",
+        "arabic": "الْبَر",
+        "latin": "Al-Barr",
+        "meaning": "El Bueno",
+        "usage": "Recitado para bondad y bendiciones."
+      },
+      {
+        "id": "esma_80",
+        "arabic": "التَّوَّاب",
+        "latin": "At-Tawwab",
+        "meaning": "El Aceptador de Arrepentimiento",
+        "usage": "Recitado para arrepentimiento y retorno."
+      },
+      {
+        "id": "esma_81",
+        "arabic": "الْمُنْتَقِم",
+        "latin": "Al-Muntaqim",
+        "meaning": "El Vengador",
+        "usage": "Recitado en tiempos de justicia y venganza."
+      },
+      {
+        "id": "esma_82",
+        "arabic": "الْعَفُو",
+        "latin": "Al-Afuw",
+        "meaning": "El Perdonador",
+        "usage": "Recitado para perdón y misericordia."
+      },
+      {
+        "id": "esma_83",
+        "arabic": "الرَّؤُوف",
+        "latin": "Ar-Ra'uf",
+        "meaning": "El Bondadoso",
+        "usage": "Recitado cuando en necesidad de bondad y misericordia."
+      },
+      {
+        "id": "esma_84",
+        "arabic": "مَالِكُ الْمُلْك",
+        "latin": "Malik-ul Mulk",
+        "meaning": "El Dueño de Toda Soberanía",
+        "usage": "Recitado para no confiar en posesiones mundanas."
+      },
+      {
+        "id": "esma_85",
+        "arabic": "ذُو الْجَلَالِ وَالْإِكْرَام",
+        "latin": "Dhul-Jalali wal-Ikram",
+        "meaning": "El Señor de Majestad y Generosidad",
+        "usage": "Recitado para contemplar grandeza y generosidad."
+      },
+      {
+        "id": "esma_86",
+        "arabic": "الْمُقْسِط",
+        "latin": "Al-Muqsit",
+        "meaning": "El Equitativo",
+        "usage": "Recitado al distribuir justicia."
+      },
+      {
+        "id": "esma_87",
+        "arabic": "الْجَامِع",
+        "latin": "El-Câmi’",
+        "meaning": "El Reunidor, el que congrega",
+        "usage": "Recitado en tiempos de dispersión y separación."
+      },
+      {
+        "id": "esma_88",
+        "arabic": "الْغَنِي",
+        "latin": "Al-Ghaniyy",
+        "meaning": "El Rico",
+        "usage": "Recitado en tiempos de pobreza y necesidad."
+      },
+      {
+        "id": "esma_89",
+        "arabic": "الْمُغْنِي",
+        "latin": "Al-Mughni",
+        "meaning": "El Enriquecedor",
+        "usage": "Recitado para riqueza material y espiritual."
+      },
+      {
+        "id": "esma_90",
+        "arabic": "الْمَانِع",
+        "latin": "El-Mâni’",
+        "meaning": "El Restrictor, el Protector",
+        "usage": "Recitado para protección y prevención."
+      },
+      {
+        "id": "esma_91",
+        "arabic": "الضَّار",
+        "latin": "Ad-Darr",
+        "meaning": "El Afligidor",
+        "usage": "Recitado en tiempos de daño y aflicción."
+      },
+      {
+        "id": "esma_92",
+        "arabic": "النَّافِع",
+        "latin": "En-Nâfi’",
+        "meaning": "El que concede el beneficio",
+        "usage": "Recitado para beneficio y bien."
+      },
+      {
+        "id": "esma_93",
+        "arabic": "النُّور",
+        "latin": "An-Nur",
+        "meaning": "La Luz",
+        "usage": "Recitado para luz y orientación."
+      },
+      {
+        "id": "esma_94",
+        "arabic": "الْهَادِي",
+        "latin": "Al-Hadi",
+        "meaning": "El Guía",
+        "usage": "Recitado para encontrar el camino correcto."
+      },
+      {
+        "id": "esma_95",
+        "arabic": "الْبَدِيع",
+        "latin": "El-Bedî’",
+        "meaning": "El Incomparable, el Creador Maravilloso",
+        "usage": "Recitado para contemplar el arte y la belleza."
+      },
+      {
+        "id": "esma_96",
+        "arabic": "الْبَاقِي",
+        "latin": "Al-Baqi",
+        "meaning": "El Eterno",
+        "usage": "Recitado para contemplar transitoriedad y eternidad."
+      },
+      {
+        "id": "esma_97",
+        "arabic": "الْوَارِث",
+        "latin": "Al-Waris",
+        "meaning": "El Heredero",
+        "usage": "Recitado para contemplar herencia y permanencia."
+      },
+      {
+        "id": "esma_98",
+        "arabic": "الرَّشِيد",
+        "latin": "Ar-Rashid",
+        "meaning": "El Correctamente Guiado",
+        "usage": "Recitado para orientación y decisiones correctas."
+      },
+      {
+        "id": "esma_99",
+        "arabic": "الصَّبُور",
+        "latin": "As-Sabur",
+        "meaning": "El Paciente",
+        "usage": "Recitado para paciencia y resistencia."
+      }
+    ]
+  },
+  "de": {
+    "general": [
+      {
+        "id": "esma_01",
+        "arabic": "الرَّحْمٰن",
+        "latin": "Ar-Rahman",
+        "meaning": "Der Allbarmherzige",
+        "usage": "Rezitiert, um das Herz zu erweichen und Barmherzigkeit zu suchen."
+      },
+      {
+        "id": "esma_02",
+        "arabic": "الرَّحِيم",
+        "latin": "Ar-Rahim",
+        "meaning": "Der Barmherzige",
+        "usage": "Rezitiert für Hoffnung und Vergebung."
+      },
+      {
+        "id": "esma_03",
+        "arabic": "الْمَلِك",
+        "latin": "Al-Malik",
+        "meaning": "Der Absolute Herrscher",
+        "usage": "Rezitiert, wenn man sich machtlos fühlt."
+      },
+      {
+        "id": "esma_04",
+        "arabic": "الْقُدُّوس",
+        "latin": "Al-Quddus",
+        "meaning": "Der Reine",
+        "usage": "Rezitiert für Herzensreinheit und Frieden."
+      },
+      {
+        "id": "esma_05",
+        "arabic": "السَّلاَم",
+        "latin": "As-Salam",
+        "meaning": "Die Quelle des Friedens",
+        "usage": "Rezitiert für Frieden und Ruhe."
+      },
+      {
+        "id": "esma_06",
+        "arabic": "الْمُؤْمِن",
+        "latin": "El-Mu’min",
+        "meaning": "Der Gewährer von Sicherheit",
+        "usage": "Rezitiert in Zeiten der Furcht und Angst."
+      },
+      {
+        "id": "esma_07",
+        "arabic": "الْمُهَيْمِن",
+        "latin": "Al-Muhaymin",
+        "meaning": "Der Wächter",
+        "usage": "Rezitiert, wenn Schutz und Wachsamkeit benötigt werden."
+      },
+      {
+        "id": "esma_08",
+        "arabic": "الْعَزِيز",
+        "latin": "Al-Aziz",
+        "meaning": "Der Mächtige",
+        "usage": "Rezitiert in Zeiten der Schwäche und Schwierigkeit."
+      },
+      {
+        "id": "esma_09",
+        "arabic": "الْجَبَّار",
+        "latin": "Al-Jabbar",
+        "meaning": "Der Zwingende",
+        "usage": "Rezitiert in Zeiten des gebrochenen Herzens und der Hilflosigkeit."
+      },
+      {
+        "id": "esma_10",
+        "arabic": "الْمُتَكَبِّر",
+        "latin": "Al-Mutakabbir",
+        "meaning": "Der Majestätische",
+        "usage": "Rezitiert für Lektionen über Stolz und Demut."
+      },
+      {
+        "id": "esma_11",
+        "arabic": "الْخَالِق",
+        "latin": "Al-Khaliq",
+        "meaning": "Der Schöpfer",
+        "usage": "Rezitiert, um die Schöpfung zu verstehen und Ehrfurcht zu empfinden."
+      },
+      {
+        "id": "esma_12",
+        "arabic": "الْبَارِئ",
+        "latin": "El-Bâri’",
+        "meaning": "Der Vollkommen Erschaffende",
+        "usage": "Rezitiert, um die Wunder der Schöpfung zu betrachten."
+      },
+      {
+        "id": "esma_13",
+        "arabic": "الْمُصَوِّر",
+        "latin": "Al-Musawwir",
+        "meaning": "Der Gestalter",
+        "usage": "Rezitiert, um Schönheit und Form zu schätzen."
+      },
+      {
+        "id": "esma_14",
+        "arabic": "الْغَفَّار",
+        "latin": "Al-Ghaffar",
+        "meaning": "Der Vergebende",
+        "usage": "Rezitiert in Zeiten der Reue und des Bedauerns."
+      },
+      {
+        "id": "esma_15",
+        "arabic": "الْقَهَّار",
+        "latin": "Al-Qahhar",
+        "meaning": "Der Unterwerfer",
+        "usage": "Rezitiert für Stärke angesichts von Schwierigkeiten."
+      },
+      {
+        "id": "esma_16",
+        "arabic": "الوَهَّاب",
+        "latin": "Al-Wahhab",
+        "meaning": "Der Spender",
+        "usage": "Rezitiert, wenn Versorgung und Segen gesucht werden."
+      },
+      {
+        "id": "esma_17",
+        "arabic": "الرَّزَّاق",
+        "latin": "Ar-Razzaq",
+        "meaning": "Der Versorger",
+        "usage": "Rezitiert während Zeiten des Lebensunterhalts und der Arbeit."
+      },
+      {
+        "id": "esma_18",
+        "arabic": "الْفَتَّاح",
+        "latin": "Al-Fattah",
+        "meaning": "Der Öffner",
+        "usage": "Rezitiert für Schwierigkeiten und geschlossene Angelegenheiten."
+      },
+      {
+        "id": "esma_19",
+        "arabic": "الْعَلِيم",
+        "latin": "Al-Alim",
+        "meaning": "Der Allwissende",
+        "usage": "Rezitiert für Wissen, Lernen und Führung."
+      },
+      {
+        "id": "esma_20",
+        "arabic": "الْقَابِض",
+        "latin": "Al-Qabid",
+        "meaning": "Der Einschränker",
+        "usage": "Rezitiert für Geduld und Vertrauen."
+      },
+      {
+        "id": "esma_21",
+        "arabic": "الْبَاسِط",
+        "latin": "Al-Basit",
+        "meaning": "Der Ausdehner",
+        "usage": "Rezitiert für Öffnung von Versorgung und Fülle."
+      },
+      {
+        "id": "esma_22",
+        "arabic": "الْخَافِض",
+        "latin": "Al-Khafid",
+        "meaning": "Der Erniedriger",
+        "usage": "Rezitiert, um sich von Stolz und Arroganz zu distanzieren."
+      },
+      {
+        "id": "esma_23",
+        "arabic": "الرَّافِع",
+        "latin": "Er-Râfi’",
+        "meaning": "Der Erhöhende, der Rang Verleihende",
+        "usage": "Rezitiert für Ehre und Erfolg."
+      },
+      {
+        "id": "esma_24",
+        "arabic": "الْمُعِز",
+        "latin": "El-Mu’izz",
+        "meaning": "Der Ehrende, der Stärkende",
+        "usage": "Rezitiert für Würde und Sicherheit."
+      },
+      {
+        "id": "esma_25",
+        "arabic": "الْمُذِل",
+        "latin": "Al-Mudhill",
+        "meaning": "Der Demütigende",
+        "usage": "Rezitiert für Demut und Wahrheitsgefühl."
+      },
+      {
+        "id": "esma_26",
+        "arabic": "السَّمِيع",
+        "latin": "Es-Samî’",
+        "meaning": "Der Allhörende",
+        "usage": "Rezitiert für die Annahme von Gebeten und Frieden."
+      },
+      {
+        "id": "esma_27",
+        "arabic": "الْبَصِير",
+        "latin": "Al-Basir",
+        "meaning": "Der Allsehende",
+        "usage": "Rezitiert, um Situationen richtig zu bewerten."
+      },
+      {
+        "id": "esma_28",
+        "arabic": "الْحَكَم",
+        "latin": "Al-Hakam",
+        "meaning": "Der Richter",
+        "usage": "Rezitiert in Zeiten der Gerechtigkeit und Entscheidungsfindung."
+      },
+      {
+        "id": "esma_29",
+        "arabic": "الْعَدْل",
+        "latin": "Al-Adl",
+        "meaning": "Der Gerechte",
+        "usage": "Rezitiert für Stärke und Führung gegen Ungerechtigkeit."
+      },
+      {
+        "id": "esma_30",
+        "arabic": "اللَّطِيف",
+        "latin": "Al-Latif",
+        "meaning": "Der Subtile",
+        "usage": "Rezitiert für innere Not und unsichtbare Unterstützung."
+      },
+      {
+        "id": "esma_31",
+        "arabic": "الْخَبِير",
+        "latin": "Al-Khabir",
+        "meaning": "Der Bewusste",
+        "usage": "Rezitiert, um Situationen richtig zu verstehen."
+      },
+      {
+        "id": "esma_32",
+        "arabic": "الْحَلِيم",
+        "latin": "Al-Halim",
+        "meaning": "Der Nachsichtige",
+        "usage": "Rezitiert in Zeiten von Zorn und Ungeduld."
+      },
+      {
+        "id": "esma_33",
+        "arabic": "الْعَظِيم",
+        "latin": "Al-Azim",
+        "meaning": "Der Große",
+        "usage": "Rezitiert für Ehrfurcht und Unterwerfung."
+      },
+      {
+        "id": "esma_34",
+        "arabic": "الْغَفُور",
+        "latin": "Al-Ghafur",
+        "meaning": "Der Vergebende",
+        "usage": "Rezitiert für Reue und Vergebung."
+      },
+      {
+        "id": "esma_35",
+        "arabic": "الشَّكُور",
+        "latin": "Ash-Shakur",
+        "meaning": "Der Dankbare",
+        "usage": "Rezitiert in einem Zustand der Dankbarkeit."
+      },
+      {
+        "id": "esma_36",
+        "arabic": "الْعَلِي",
+        "latin": "Al-Aliyy",
+        "meaning": "Der Höchste",
+        "usage": "Rezitiert, um sich von Stolz zu distanzieren und für göttliche Macht."
+      },
+      {
+        "id": "esma_37",
+        "arabic": "الْكَبِير",
+        "latin": "Al-Kabir",
+        "meaning": "Der Große",
+        "usage": "Rezitiert für Respekt und Ehrfurcht."
+      },
+      {
+        "id": "esma_38",
+        "arabic": "الْحَفِيظ",
+        "latin": "Al-Hafiz",
+        "meaning": "Der Bewahrer",
+        "usage": "Rezitiert für ein Gefühl von Sicherheit und Schutz."
+      },
+      {
+        "id": "esma_39",
+        "arabic": "الْمُقِيت",
+        "latin": "Al-Muqit",
+        "meaning": "Der Erhalter",
+        "usage": "Rezitiert für die Erfüllung täglicher Bedürfnisse."
+      },
+      {
+        "id": "esma_40",
+        "arabic": "الْحَسِيب",
+        "latin": "Al-Hasib",
+        "meaning": "Der Berechner",
+        "usage": "Rezitiert in Zeiten der Gerechtigkeit und Verantwortung."
+      },
+      {
+        "id": "esma_41",
+        "arabic": "الْجَلِيل",
+        "latin": "Al-Jalil",
+        "meaning": "Der Majestätische",
+        "usage": "Rezitiert, um Größe zu erkennen."
+      },
+      {
+        "id": "esma_42",
+        "arabic": "الْكَرِيم",
+        "latin": "Al-Karim",
+        "meaning": "Der Großzügige",
+        "usage": "Rezitiert, um Segnungen zu erkennen."
+      },
+      {
+        "id": "esma_43",
+        "arabic": "الرَّقِيب",
+        "latin": "Ar-Raqib",
+        "meaning": "Der Wachsame",
+        "usage": "Rezitiert für ein Gefühl der Einsamkeit und Beobachtung."
+      },
+      {
+        "id": "esma_44",
+        "arabic": "الْمُجِيب",
+        "latin": "Al-Mujib",
+        "meaning": "Der Antwortende",
+        "usage": "Rezitiert beim Bitten und Ersuchen."
+      },
+      {
+        "id": "esma_45",
+        "arabic": "الْوَاسِع",
+        "latin": "El-Vâsi’",
+        "meaning": "Der Allumfassende, weit an Barmherzigkeit und Wissen",
+        "usage": "Rezitiert bei Enge und Beklemmung."
+      },
+      {
+        "id": "esma_46",
+        "arabic": "الْحَكِيم",
+        "latin": "Al-Hakim",
+        "meaning": "Der Weise",
+        "usage": "Rezitiert in Zeiten der Unentschlossenheit und des Gleichgewichts."
+      },
+      {
+        "id": "esma_47",
+        "arabic": "الْوَدُود",
+        "latin": "Al-Wadud",
+        "meaning": "Der Liebende",
+        "usage": "Rezitiert, um Liebe und Zuneigung zu erhöhen."
+      },
+      {
+        "id": "esma_48",
+        "arabic": "الْمَجِيد",
+        "latin": "Al-Majid",
+        "meaning": "Der Glorreiche",
+        "usage": "Rezitiert, um Größe und Pracht zu betrachten."
+      },
+      {
+        "id": "esma_49",
+        "arabic": "الْبَاعِث",
+        "latin": "Al-Ba'ith",
+        "meaning": "Der Auferwecker",
+        "usage": "Rezitiert für Auferstehung und Hoffnung."
+      },
+      {
+        "id": "esma_50",
+        "arabic": "الشَّهِيد",
+        "latin": "Ash-Shahid",
+        "meaning": "Der Zeuge",
+        "usage": "Rezitiert, um Gerechtigkeit und Wahrheit zu beobachten."
+      },
+      {
+        "id": "esma_51",
+        "arabic": "الْحَق",
+        "latin": "Al-Haqq",
+        "meaning": "Die Wahrheit",
+        "usage": "Rezitiert für Wahrhaftigkeit und Ehrlichkeit."
+      },
+      {
+        "id": "esma_52",
+        "arabic": "الْوَكِيل",
+        "latin": "Al-Wakil",
+        "meaning": "Der Treuhänder",
+        "usage": "Rezitiert für Vertrauen und Unterwerfung."
+      },
+      {
+        "id": "esma_53",
+        "arabic": "الْقَوِي",
+        "latin": "Al-Qawiyy",
+        "meaning": "Der Starke",
+        "usage": "Rezitiert in Zeiten der Schwäche und Zerbrechlichkeit."
+      },
+      {
+        "id": "esma_54",
+        "arabic": "الْمَتِين",
+        "latin": "Al-Matin",
+        "meaning": "Der Feste",
+        "usage": "Rezitiert, wenn Widerstand und Geduld benötigt werden."
+      },
+      {
+        "id": "esma_55",
+        "arabic": "الْوَلِي",
+        "latin": "Al-Waliyy",
+        "meaning": "Der Freund",
+        "usage": "Rezitiert in Zeiten der Einsamkeit und des Bedürfnisses nach einem Freund."
+      },
+      {
+        "id": "esma_56",
+        "arabic": "الْحَمِيد",
+        "latin": "Al-Hamid",
+        "meaning": "Der Lobenswerte",
+        "usage": "Rezitiert für Dankbarkeit und Lob."
+      },
+      {
+        "id": "esma_57",
+        "arabic": "الْمُحْصِي",
+        "latin": "Al-Muhsi",
+        "meaning": "Der Zähler",
+        "usage": "Rezitiert für Buchhaltung und Ordnung."
+      },
+      {
+        "id": "esma_58",
+        "arabic": "الْمُبْدِئ",
+        "latin": "El-Mubdi’",
+        "meaning": "Der Urheber (aus dem Nichts)",
+        "usage": "Rezitiert für Schöpfung und Neuanfang."
+      },
+      {
+        "id": "esma_59",
+        "arabic": "الْمُعِيد",
+        "latin": "El-Mu’îd",
+        "meaning": "Der Wiederbeleber",
+        "usage": "Rezitiert, um Tod und Auferstehung zu betrachten."
+      },
+      {
+        "id": "esma_60",
+        "arabic": "الْمُحْيِي",
+        "latin": "Al-Muhyi",
+        "meaning": "Der Lebensspender",
+        "usage": "Rezitiert für Vitalität und Energie."
+      },
+      {
+        "id": "esma_61",
+        "arabic": "الْمُمِيت",
+        "latin": "Al-Mumit",
+        "meaning": "Der Lebensnehmer",
+        "usage": "Rezitiert, um Vergänglichkeit und Tod zu betrachten."
+      },
+      {
+        "id": "esma_62",
+        "arabic": "الْحَي",
+        "latin": "Al-Hayy",
+        "meaning": "Der Lebendige",
+        "usage": "Rezitiert, um die Quelle des Lebens zu betrachten."
+      },
+      {
+        "id": "esma_63",
+        "arabic": "الْقَيُّوم",
+        "latin": "Al-Qayyum",
+        "meaning": "Der Selbst-Existierende",
+        "usage": "Rezitiert für die Fortsetzung der Existenz."
+      },
+      {
+        "id": "esma_64",
+        "arabic": "الْوَاجِد",
+        "latin": "Al-Wajid",
+        "meaning": "Der Finder",
+        "usage": "Rezitiert in Zeiten der Not und Abwesenheit."
+      },
+      {
+        "id": "esma_65",
+        "arabic": "الْمَاجِد",
+        "latin": "Al-Majid",
+        "meaning": "Der Edle",
+        "usage": "Rezitiert für Ehre und Größe."
+      },
+      {
+        "id": "esma_66",
+        "arabic": "الْوَاحِد",
+        "latin": "Al-Wahid",
+        "meaning": "Der Eine",
+        "usage": "Rezitiert, um den Glauben an die Einheit zu stärken."
+      },
+      {
+        "id": "esma_67",
+        "arabic": "الْأَحَد",
+        "latin": "Al-Ahad",
+        "meaning": "Der Einzige",
+        "usage": "Rezitiert, um die Einheit Allahs zu betrachten."
+      },
+      {
+        "id": "esma_68",
+        "arabic": "الصَّمَد",
+        "latin": "As-Samad",
+        "meaning": "Der Ewige",
+        "usage": "Rezitiert in einem Zustand völliger Unterwerfung und Not."
+      },
+      {
+        "id": "esma_69",
+        "arabic": "الْقَادِر",
+        "latin": "Al-Qadir",
+        "meaning": "Der Fähige",
+        "usage": "Rezitiert, wenn Macht und Stärke gesucht werden."
+      },
+      {
+        "id": "esma_70",
+        "arabic": "الْمُقْتَدِر",
+        "latin": "Al-Muqtadir",
+        "meaning": "Der Mächtige",
+        "usage": "Rezitiert, um Schicksal und Macht zu betrachten."
+      },
+      {
+        "id": "esma_71",
+        "arabic": "الْمُقَدِّم",
+        "latin": "Al-Muqaddim",
+        "meaning": "Der Beschleuniger",
+        "usage": "Rezitiert für Fortschritt und Erfolg."
+      },
+      {
+        "id": "esma_72",
+        "arabic": "الْمُؤَخِّر",
+        "latin": "Al-Mu'akhkhir",
+        "meaning": "Der Verzögerer",
+        "usage": "Rezitiert in Zeiten der Geduld und des Wartens."
+      },
+      {
+        "id": "esma_73",
+        "arabic": "الْأَوَّل",
+        "latin": "Al-Awwal",
+        "meaning": "Der Erste",
+        "usage": "Rezitiert, um das Ewige zu betrachten."
+      },
+      {
+        "id": "esma_74",
+        "arabic": "الْآخِر",
+        "latin": "Al-Akhir",
+        "meaning": "Der Letzte",
+        "usage": "Rezitiert, um das Ewige zu betrachten."
+      },
+      {
+        "id": "esma_75",
+        "arabic": "الظَّاهِر",
+        "latin": "Az-Zahir",
+        "meaning": "Der Offenbare",
+        "usage": "Rezitiert, um klare Beweise zu sehen."
+      },
+      {
+        "id": "esma_76",
+        "arabic": "الْبَاطِن",
+        "latin": "Al-Batin",
+        "meaning": "Der Verborgene",
+        "usage": "Rezitiert für Geheimnis und innere Tiefe."
+      },
+      {
+        "id": "esma_77",
+        "arabic": "الْوَالِي",
+        "latin": "Al-Wali",
+        "meaning": "Der Gouverneur",
+        "usage": "Rezitiert für Regierung und Verwaltung."
+      },
+      {
+        "id": "esma_78",
+        "arabic": "الْمُتَعَالِي",
+        "latin": "Al-Muta'ali",
+        "meaning": "Der Erhabene",
+        "usage": "Rezitiert, um Größe zu betrachten."
+      },
+      {
+        "id": "esma_79",
+        "arabic": "الْبَر",
+        "latin": "Al-Barr",
+        "meaning": "Der Gute",
+        "usage": "Rezitiert für Güte und Segen."
+      },
+      {
+        "id": "esma_80",
+        "arabic": "التَّوَّاب",
+        "latin": "At-Tawwab",
+        "meaning": "Der Reue Annehmende",
+        "usage": "Rezitiert für Reue und Rückkehr."
+      },
+      {
+        "id": "esma_81",
+        "arabic": "الْمُنْتَقِم",
+        "latin": "Al-Muntaqim",
+        "meaning": "Der Rächer",
+        "usage": "Rezitiert in Zeiten der Gerechtigkeit und Rache."
+      },
+      {
+        "id": "esma_82",
+        "arabic": "الْعَفُو",
+        "latin": "Al-Afuw",
+        "meaning": "Der Verzeihende",
+        "usage": "Rezitiert für Vergebung und Barmherzigkeit."
+      },
+      {
+        "id": "esma_83",
+        "arabic": "الرَّؤُوف",
+        "latin": "Ar-Ra'uf",
+        "meaning": "Der Gütige",
+        "usage": "Rezitiert, wenn Güte und Barmherzigkeit benötigt werden."
+      },
+      {
+        "id": "esma_84",
+        "arabic": "مَالِكُ الْمُلْك",
+        "latin": "Malik-ul Mulk",
+        "meaning": "Der Besitzer aller Souveränität",
+        "usage": "Rezitiert, um nicht auf weltliche Besitztümer zu vertrauen."
+      },
+      {
+        "id": "esma_85",
+        "arabic": "ذُو الْجَلَالِ وَالْإِكْرَام",
+        "latin": "Dhul-Jalali wal-Ikram",
+        "meaning": "Der Herr der Majestät und Großzügigkeit",
+        "usage": "Rezitiert, um Größe und Großzügigkeit zu betrachten."
+      },
+      {
+        "id": "esma_86",
+        "arabic": "الْمُقْسِط",
+        "latin": "Al-Muqsit",
+        "meaning": "Der Gerechte",
+        "usage": "Rezitiert beim Verteilen von Gerechtigkeit."
+      },
+      {
+        "id": "esma_87",
+        "arabic": "الْجَامِع",
+        "latin": "El-Câmi’",
+        "meaning": "Der Versammelnde, der Zusammenführende",
+        "usage": "Rezitiert in Zeiten der Zerstreuung und Trennung."
+      },
+      {
+        "id": "esma_88",
+        "arabic": "الْغَنِي",
+        "latin": "Al-Ghaniyy",
+        "meaning": "Der Reiche",
+        "usage": "Rezitiert in Zeiten der Armut und Not."
+      },
+      {
+        "id": "esma_89",
+        "arabic": "الْمُغْنِي",
+        "latin": "Al-Mughni",
+        "meaning": "Der Bereicherer",
+        "usage": "Rezitiert für materiellen und spirituellen Reichtum."
+      },
+      {
+        "id": "esma_90",
+        "arabic": "الْمَانِع",
+        "latin": "El-Mâni’",
+        "meaning": "Der Zurückhalter, der Beschützer",
+        "usage": "Rezitiert für Schutz und Abwehr."
+      },
+      {
+        "id": "esma_91",
+        "arabic": "الضَّار",
+        "latin": "Ad-Darr",
+        "meaning": "Der Schädiger",
+        "usage": "Rezitiert in Zeiten von Schaden und Not."
+      },
+      {
+        "id": "esma_92",
+        "arabic": "النَّافِع",
+        "latin": "En-Nâfi’",
+        "meaning": "Der Wohltäter",
+        "usage": "Rezitiert für Nutzen und Gutes."
+      },
+      {
+        "id": "esma_93",
+        "arabic": "النُّور",
+        "latin": "An-Nur",
+        "meaning": "Das Licht",
+        "usage": "Rezitiert für Licht und Führung."
+      },
+      {
+        "id": "esma_94",
+        "arabic": "الْهَادِي",
+        "latin": "Al-Hadi",
+        "meaning": "Der Führer",
+        "usage": "Rezitiert, um den richtigen Weg zu finden."
+      },
+      {
+        "id": "esma_95",
+        "arabic": "الْبَدِيع",
+        "latin": "El-Bedî’",
+        "meaning": "Der Unvergleichliche, der Wunderbare Schöpfer",
+        "usage": "Rezitiert, um Kunst und Schönheit zu betrachten."
+      },
+      {
+        "id": "esma_96",
+        "arabic": "الْبَاقِي",
+        "latin": "Al-Baqi",
+        "meaning": "Der Ewige",
+        "usage": "Rezitiert, um Vergänglichkeit und Ewigkeit zu betrachten."
+      },
+      {
+        "id": "esma_97",
+        "arabic": "الْوَارِث",
+        "latin": "Al-Waris",
+        "meaning": "Der Erbe",
+        "usage": "Rezitiert, um Erbschaft und Beständigkeit zu betrachten."
+      },
+      {
+        "id": "esma_98",
+        "arabic": "الرَّشِيد",
+        "latin": "Ar-Rashid",
+        "meaning": "Der Rechtgeleitete",
+        "usage": "Rezitiert für Führung und richtige Entscheidungen."
+      },
+      {
+        "id": "esma_99",
+        "arabic": "الصَّبُور",
+        "latin": "As-Sabur",
+        "meaning": "Der Geduldige",
+        "usage": "Rezitiert für Geduld und Ausdauer."
+      }
+    ]
+  },
+  "nl": {
+    "general": [
+      {
+        "id": "esma_01",
+        "arabic": "الرَّحْمٰن",
+        "latin": "Ar-Rahman",
+        "meaning": "De Meest Barmhartige",
+        "usage": "Gereciteerd om het hart te verzachten en barmhartigheid te zoeken."
+      },
+      {
+        "id": "esma_02",
+        "arabic": "الرَّحِيم",
+        "latin": "Ar-Rahim",
+        "meaning": "De Barmhartige",
+        "usage": "Gereciteerd voor hoop en vergeving."
+      },
+      {
+        "id": "esma_03",
+        "arabic": "الْمَلِك",
+        "latin": "Al-Malik",
+        "meaning": "De Absolute Heerser",
+        "usage": "Gereciteerd wanneer men zich machteloos voelt."
+      },
+      {
+        "id": "esma_04",
+        "arabic": "الْقُدُّوس",
+        "latin": "Al-Quddus",
+        "meaning": "De Zuivere",
+        "usage": "Gereciteerd voor hartzuiverheid en vrede."
+      },
+      {
+        "id": "esma_05",
+        "arabic": "السَّلاَم",
+        "latin": "As-Salam",
+        "meaning": "De Bron van Vrede",
+        "usage": "Gereciteerd voor vrede en rust."
+      },
+      {
+        "id": "esma_06",
+        "arabic": "الْمُؤْمِن",
+        "latin": "El-Mu’min",
+        "meaning": "De Schenker van veiligheid",
+        "usage": "Gereciteerd in tijden van angst en bezorgdheid."
+      },
+      {
+        "id": "esma_07",
+        "arabic": "الْمُهَيْمِن",
+        "latin": "Al-Muhaymin",
+        "meaning": "De Bewaker",
+        "usage": "Gereciteerd wanneer bescherming en waakzaamheid nodig zijn."
+      },
+      {
+        "id": "esma_08",
+        "arabic": "الْعَزِيز",
+        "latin": "Al-Aziz",
+        "meaning": "De Machtige",
+        "usage": "Gereciteerd in tijden van zwakte en moeilijkheid."
+      },
+      {
+        "id": "esma_09",
+        "arabic": "الْجَبَّار",
+        "latin": "Al-Jabbar",
+        "meaning": "De Dwingende",
+        "usage": "Gereciteerd in tijden van gebroken hart en hulpeloosheid."
+      },
+      {
+        "id": "esma_10",
+        "arabic": "الْمُتَكَبِّر",
+        "latin": "Al-Mutakabbir",
+        "meaning": "De Majestueuze",
+        "usage": "Gereciteerd voor lessen over trots en nederigheid."
+      },
+      {
+        "id": "esma_11",
+        "arabic": "الْخَالِق",
+        "latin": "Al-Khaliq",
+        "meaning": "De Schepper",
+        "usage": "Gereciteerd om de schepping te begrijpen en ontzag te voelen."
+      },
+      {
+        "id": "esma_12",
+        "arabic": "الْبَارِئ",
+        "latin": "El-Bâri’",
+        "meaning": "De Volmaakt Scheppende",
+        "usage": "Gereciteerd om de wonderen van de schepping te overwegen."
+      },
+      {
+        "id": "esma_13",
+        "arabic": "الْمُصَوِّر",
+        "latin": "Al-Musawwir",
+        "meaning": "De Vormgever",
+        "usage": "Gereciteerd om schoonheid en vorm te waarderen."
+      },
+      {
+        "id": "esma_14",
+        "arabic": "الْغَفَّار",
+        "latin": "Al-Ghaffar",
+        "meaning": "De Vergevende",
+        "usage": "Gereciteerd in tijden van berouw en spijt."
+      },
+      {
+        "id": "esma_15",
+        "arabic": "الْقَهَّار",
+        "latin": "Al-Qahhar",
+        "meaning": "De Onderwerper",
+        "usage": "Gereciteerd voor kracht in het aangezicht van moeilijkheden."
+      },
+      {
+        "id": "esma_16",
+        "arabic": "الوَهَّاب",
+        "latin": "Al-Wahhab",
+        "meaning": "De Schenker",
+        "usage": "Gereciteerd bij het zoeken naar voorziening en zegeningen."
+      },
+      {
+        "id": "esma_17",
+        "arabic": "الرَّزَّاق",
+        "latin": "Ar-Razzaq",
+        "meaning": "De Voorziener",
+        "usage": "Gereciteerd tijdens tijden van levensonderhoud en werk."
+      },
+      {
+        "id": "esma_18",
+        "arabic": "الْفَتَّاح",
+        "latin": "Al-Fattah",
+        "meaning": "De Opener",
+        "usage": "Gereciteerd voor moeilijkheden en gesloten zaken."
+      },
+      {
+        "id": "esma_19",
+        "arabic": "الْعَلِيم",
+        "latin": "Al-Alim",
+        "meaning": "De Alwetende",
+        "usage": "Gereciteerd voor kennis, leren en begeleiding."
+      },
+      {
+        "id": "esma_20",
+        "arabic": "الْقَابِض",
+        "latin": "Al-Qabid",
+        "meaning": "De Beperker",
+        "usage": "Gereciteerd voor geduld en vertrouwen."
+      },
+      {
+        "id": "esma_21",
+        "arabic": "الْبَاسِط",
+        "latin": "Al-Basit",
+        "meaning": "De Uitbreider",
+        "usage": "Gereciteerd voor het openen van voorziening en overvloed."
+      },
+      {
+        "id": "esma_22",
+        "arabic": "الْخَافِض",
+        "latin": "Al-Khafid",
+        "meaning": "De Vernederer",
+        "usage": "Gereciteerd om zich te distantiëren van trots en arrogantie."
+      },
+      {
+        "id": "esma_23",
+        "arabic": "الرَّافِع",
+        "latin": "Er-Râfi’",
+        "meaning": "De Verheffer, Degene die in rang verheft",
+        "usage": "Gereciteerd voor eer en succes."
+      },
+      {
+        "id": "esma_24",
+        "arabic": "الْمُعِز",
+        "latin": "El-Mu’izz",
+        "meaning": "De Vereerder, Degene die versterkt",
+        "usage": "Gereciteerd voor waardigheid en veiligheid."
+      },
+      {
+        "id": "esma_25",
+        "arabic": "الْمُذِل",
+        "latin": "Al-Mudhill",
+        "meaning": "De Vernederer",
+        "usage": "Gereciteerd voor nederigheid en waarheidsgevoel."
+      },
+      {
+        "id": "esma_26",
+        "arabic": "السَّمِيع",
+        "latin": "Es-Samî’",
+        "meaning": "De Alhorende",
+        "usage": "Gereciteerd voor de aanvaarding van gebeden en vrede."
+      },
+      {
+        "id": "esma_27",
+        "arabic": "الْبَصِير",
+        "latin": "Al-Basir",
+        "meaning": "De Alziende",
+        "usage": "Gereciteerd om situaties correct te evalueren."
+      },
+      {
+        "id": "esma_28",
+        "arabic": "الْحَكَم",
+        "latin": "Al-Hakam",
+        "meaning": "De Rechter",
+        "usage": "Gereciteerd in tijden van gerechtigheid en besluitvorming."
+      },
+      {
+        "id": "esma_29",
+        "arabic": "الْعَدْل",
+        "latin": "Al-Adl",
+        "meaning": "De Rechtvaardige",
+        "usage": "Gereciteerd voor kracht en begeleiding tegen onrecht."
+      },
+      {
+        "id": "esma_30",
+        "arabic": "اللَّطِيف",
+        "latin": "Al-Latif",
+        "meaning": "De Subtiele",
+        "usage": "Gereciteerd voor innerlijke nood en onzichtbare steun."
+      },
+      {
+        "id": "esma_31",
+        "arabic": "الْخَبِير",
+        "latin": "Al-Khabir",
+        "meaning": "De Bewuste",
+        "usage": "Gereciteerd om situaties correct te begrijpen."
+      },
+      {
+        "id": "esma_32",
+        "arabic": "الْحَلِيم",
+        "latin": "Al-Halim",
+        "meaning": "De Verdraagzame",
+        "usage": "Gereciteerd in tijden van woede en ongeduld."
+      },
+      {
+        "id": "esma_33",
+        "arabic": "الْعَظِيم",
+        "latin": "Al-Azim",
+        "meaning": "De Grote",
+        "usage": "Gereciteerd voor ontzag en onderwerping."
+      },
+      {
+        "id": "esma_34",
+        "arabic": "الْغَفُور",
+        "latin": "Al-Ghafur",
+        "meaning": "De Vergevende",
+        "usage": "Gereciteerd voor berouw en vergeving."
+      },
+      {
+        "id": "esma_35",
+        "arabic": "الشَّكُور",
+        "latin": "Ash-Shakur",
+        "meaning": "De Dankbare",
+        "usage": "Gereciteerd in een staat van dankbaarheid."
+      },
+      {
+        "id": "esma_36",
+        "arabic": "الْعَلِي",
+        "latin": "Al-Aliyy",
+        "meaning": "De Allerhoogste",
+        "usage": "Gereciteerd om zich te distantiëren van trots en voor goddelijke kracht."
+      },
+      {
+        "id": "esma_37",
+        "arabic": "الْكَبِير",
+        "latin": "Al-Kabir",
+        "meaning": "De Grote",
+        "usage": "Gereciteerd voor respect en ontzag."
+      },
+      {
+        "id": "esma_38",
+        "arabic": "الْحَفِيظ",
+        "latin": "Al-Hafiz",
+        "meaning": "De Bewaker",
+        "usage": "Gereciteerd voor een gevoel van veiligheid en bescherming."
+      },
+      {
+        "id": "esma_39",
+        "arabic": "الْمُقِيت",
+        "latin": "Al-Muqit",
+        "meaning": "De Onderhouder",
+        "usage": "Gereciteerd voor het vervullen van dagelijkse behoeften."
+      },
+      {
+        "id": "esma_40",
+        "arabic": "الْحَسِيب",
+        "latin": "Al-Hasib",
+        "meaning": "De Berekenaar",
+        "usage": "Gereciteerd in tijden van gerechtigheid en verantwoordelijkheid."
+      },
+      {
+        "id": "esma_41",
+        "arabic": "الْجَلِيل",
+        "latin": "Al-Jalil",
+        "meaning": "De Majestueuze",
+        "usage": "Gereciteerd om grootheid te realiseren."
+      },
+      {
+        "id": "esma_42",
+        "arabic": "الْكَرِيم",
+        "latin": "Al-Karim",
+        "meaning": "De Gulle",
+        "usage": "Gereciteerd om zegeningen te realiseren."
+      },
+      {
+        "id": "esma_43",
+        "arabic": "الرَّقِيب",
+        "latin": "Ar-Raqib",
+        "meaning": "De Waakzame",
+        "usage": "Gereciteerd voor een gevoel van eenzaamheid en geobserveerd worden."
+      },
+      {
+        "id": "esma_44",
+        "arabic": "الْمُجِيب",
+        "latin": "Al-Mujib",
+        "meaning": "De Responsieve",
+        "usage": "Gereciteerd bij het doen van smeekbeden en verzoeken."
+      },
+      {
+        "id": "esma_45",
+        "arabic": "الْوَاسِع",
+        "latin": "El-Vâsi’",
+        "meaning": "De Alomvattende, wijd in barmhartigheid en kennis",
+        "usage": "Gereciteerd bij beklemming en benauwdheid."
+      },
+      {
+        "id": "esma_46",
+        "arabic": "الْحَكِيم",
+        "latin": "Al-Hakim",
+        "meaning": "De Wijze",
+        "usage": "Gereciteerd in tijden van besluiteloosheid en evenwicht."
+      },
+      {
+        "id": "esma_47",
+        "arabic": "الْوَدُود",
+        "latin": "Al-Wadud",
+        "meaning": "De Liefhebbende",
+        "usage": "Gereciteerd om liefde en genegenheid te vergroten."
+      },
+      {
+        "id": "esma_48",
+        "arabic": "الْمَجِيد",
+        "latin": "Al-Majid",
+        "meaning": "De Glorierijke",
+        "usage": "Gereciteerd om grootheid en pracht te beschouwen."
+      },
+      {
+        "id": "esma_49",
+        "arabic": "الْبَاعِث",
+        "latin": "Al-Ba'ith",
+        "meaning": "De Opwekker",
+        "usage": "Gereciteerd voor opstanding en hoop."
+      },
+      {
+        "id": "esma_50",
+        "arabic": "الشَّهِيد",
+        "latin": "Ash-Shahid",
+        "meaning": "De Getuige",
+        "usage": "Gereciteerd om gerechtigheid en waarheid waar te nemen."
+      },
+      {
+        "id": "esma_51",
+        "arabic": "الْحَق",
+        "latin": "Al-Haqq",
+        "meaning": "De Waarheid",
+        "usage": "Gereciteerd voor waarachtigheid en eerlijkheid."
+      },
+      {
+        "id": "esma_52",
+        "arabic": "الْوَكِيل",
+        "latin": "Al-Wakil",
+        "meaning": "De Vertrouweling",
+        "usage": "Gereciteerd voor vertrouwen en onderwerping."
+      },
+      {
+        "id": "esma_53",
+        "arabic": "الْقَوِي",
+        "latin": "Al-Qawiyy",
+        "meaning": "De Sterke",
+        "usage": "Gereciteerd in tijden van zwakte en broosheid."
+      },
+      {
+        "id": "esma_54",
+        "arabic": "الْمَتِين",
+        "latin": "Al-Matin",
+        "meaning": "De Vaste",
+        "usage": "Gereciteerd wanneer weerstand en geduld nodig zijn."
+      },
+      {
+        "id": "esma_55",
+        "arabic": "الْوَلِي",
+        "latin": "Al-Waliyy",
+        "meaning": "De Vriend",
+        "usage": "Gereciteerd in tijden van eenzaamheid en behoefte aan een vriend."
+      },
+      {
+        "id": "esma_56",
+        "arabic": "الْحَمِيد",
+        "latin": "Al-Hamid",
+        "meaning": "De Prijzenswaardige",
+        "usage": "Gereciteerd voor dankbaarheid en lof."
+      },
+      {
+        "id": "esma_57",
+        "arabic": "الْمُحْصِي",
+        "latin": "Al-Muhsi",
+        "meaning": "De Teller",
+        "usage": "Gereciteerd voor boekhouding en orde."
+      },
+      {
+        "id": "esma_58",
+        "arabic": "الْمُبْدِئ",
+        "latin": "El-Mubdi’",
+        "meaning": "De Ontstichter (uit het niet)",
+        "usage": "Gereciteerd voor schepping en nieuwe begin."
+      },
+      {
+        "id": "esma_59",
+        "arabic": "الْمُعِيد",
+        "latin": "El-Mu’îd",
+        "meaning": "Degene die het leven herstelt",
+        "usage": "Gereciteerd om dood en verrijzenis te overwegen."
+      },
+      {
+        "id": "esma_60",
+        "arabic": "الْمُحْيِي",
+        "latin": "Al-Muhyi",
+        "meaning": "De Levensgever",
+        "usage": "Gereciteerd voor vitaliteit en energie."
+      },
+      {
+        "id": "esma_61",
+        "arabic": "الْمُمِيت",
+        "latin": "Al-Mumit",
+        "meaning": "De Levensnemer",
+        "usage": "Gereciteerd om vergankelijkheid en dood te beschouwen."
+      },
+      {
+        "id": "esma_62",
+        "arabic": "الْحَي",
+        "latin": "Al-Hayy",
+        "meaning": "De Levende",
+        "usage": "Gereciteerd om de bron van het leven te beschouwen."
+      },
+      {
+        "id": "esma_63",
+        "arabic": "الْقَيُّوم",
+        "latin": "Al-Qayyum",
+        "meaning": "De Zelf-Bestaande",
+        "usage": "Gereciteerd voor de voortzetting van het bestaan."
+      },
+      {
+        "id": "esma_64",
+        "arabic": "الْوَاجِد",
+        "latin": "Al-Wajid",
+        "meaning": "De Vinder",
+        "usage": "Gereciteerd in tijden van nood en afwezigheid."
+      },
+      {
+        "id": "esma_65",
+        "arabic": "الْمَاجِد",
+        "latin": "Al-Majid",
+        "meaning": "De Edele",
+        "usage": "Gereciteerd voor eer en grootheid."
+      },
+      {
+        "id": "esma_66",
+        "arabic": "الْوَاحِد",
+        "latin": "Al-Wahid",
+        "meaning": "De Ene",
+        "usage": "Gereciteerd om het geloof in eenheid te versterken."
+      },
+      {
+        "id": "esma_67",
+        "arabic": "الْأَحَد",
+        "latin": "Al-Ahad",
+        "meaning": "De Unieke",
+        "usage": "Gereciteerd om de eenheid van Allah te beschouwen."
+      },
+      {
+        "id": "esma_68",
+        "arabic": "الصَّمَد",
+        "latin": "As-Samad",
+        "meaning": "De Eeuwige",
+        "usage": "Gereciteerd in een staat van volledige onderwerping en nood."
+      },
+      {
+        "id": "esma_69",
+        "arabic": "الْقَادِر",
+        "latin": "Al-Qadir",
+        "meaning": "De Bekwame",
+        "usage": "Gereciteerd bij het zoeken naar macht en kracht."
+      },
+      {
+        "id": "esma_70",
+        "arabic": "الْمُقْتَدِر",
+        "latin": "Al-Muqtadir",
+        "meaning": "De Machtige",
+        "usage": "Gereciteerd om lot en macht te beschouwen."
+      },
+      {
+        "id": "esma_71",
+        "arabic": "الْمُقَدِّم",
+        "latin": "Al-Muqaddim",
+        "meaning": "De Versneller",
+        "usage": "Gereciteerd voor vooruitgang en succes."
+      },
+      {
+        "id": "esma_72",
+        "arabic": "الْمُؤَخِّر",
+        "latin": "Al-Mu'akhkhir",
+        "meaning": "De Vertrager",
+        "usage": "Gereciteerd in tijden van geduld en wachten."
+      },
+      {
+        "id": "esma_73",
+        "arabic": "الْأَوَّل",
+        "latin": "Al-Awwal",
+        "meaning": "De Eerste",
+        "usage": "Gereciteerd om het eeuwige te beschouwen."
+      },
+      {
+        "id": "esma_74",
+        "arabic": "الْآخِر",
+        "latin": "Al-Akhir",
+        "meaning": "De Laatste",
+        "usage": "Gereciteerd om het eeuwige te beschouwen."
+      },
+      {
+        "id": "esma_75",
+        "arabic": "الظَّاهِر",
+        "latin": "Az-Zahir",
+        "meaning": "De Manifeste",
+        "usage": "Gereciteerd om duidelijk bewijs te zien."
+      },
+      {
+        "id": "esma_76",
+        "arabic": "الْبَاطِن",
+        "latin": "Al-Batin",
+        "meaning": "De Verborgen",
+        "usage": "Gereciteerd voor mysterie en innerlijke diepte."
+      },
+      {
+        "id": "esma_77",
+        "arabic": "الْوَالِي",
+        "latin": "Al-Wali",
+        "meaning": "De Gouverneur",
+        "usage": "Gereciteerd voor bestuur en administratie."
+      },
+      {
+        "id": "esma_78",
+        "arabic": "الْمُتَعَالِي",
+        "latin": "Al-Muta'ali",
+        "meaning": "De Verhevene",
+        "usage": "Gereciteerd om grootheid te beschouwen."
+      },
+      {
+        "id": "esma_79",
+        "arabic": "الْبَر",
+        "latin": "Al-Barr",
+        "meaning": "De Goede",
+        "usage": "Gereciteerd voor goedheid en zegeningen."
+      },
+      {
+        "id": "esma_80",
+        "arabic": "التَّوَّاب",
+        "latin": "At-Tawwab",
+        "meaning": "De Berouw Aanvaardende",
+        "usage": "Gereciteerd voor berouw en terugkeer."
+      },
+      {
+        "id": "esma_81",
+        "arabic": "الْمُنْتَقِم",
+        "latin": "Al-Muntaqim",
+        "meaning": "De Wreker",
+        "usage": "Gereciteerd in tijden van gerechtigheid en wraak."
+      },
+      {
+        "id": "esma_82",
+        "arabic": "الْعَفُو",
+        "latin": "Al-Afuw",
+        "meaning": "De Vergevende",
+        "usage": "Gereciteerd voor vergeving en barmhartigheid."
+      },
+      {
+        "id": "esma_83",
+        "arabic": "الرَّؤُوف",
+        "latin": "Ar-Ra'uf",
+        "meaning": "De Vriendelijke",
+        "usage": "Gereciteerd wanneer vriendelijkheid en barmhartigheid nodig zijn."
+      },
+      {
+        "id": "esma_84",
+        "arabic": "مَالِكُ الْمُلْك",
+        "latin": "Malik-ul Mulk",
+        "meaning": "De Eigenaar van alle Soevereiniteit",
+        "usage": "Gereciteerd om niet te vertrouwen op wereldse bezittingen."
+      },
+      {
+        "id": "esma_85",
+        "arabic": "ذُو الْجَلَالِ وَالْإِكْرَام",
+        "latin": "Dhul-Jalali wal-Ikram",
+        "meaning": "De Heer van Majesteit en Vrijgevigheid",
+        "usage": "Gereciteerd om grootheid en vrijgevigheid te beschouwen."
+      },
+      {
+        "id": "esma_86",
+        "arabic": "الْمُقْسِط",
+        "latin": "Al-Muqsit",
+        "meaning": "De Rechtvaardige",
+        "usage": "Gereciteerd bij het verdelen van gerechtigheid."
+      },
+      {
+        "id": "esma_87",
+        "arabic": "الْجَامِع",
+        "latin": "El-Câmi’",
+        "meaning": "De Verzamelaar, Degene die samenbrengt",
+        "usage": "Gereciteerd in tijden van verspreiding en scheiding."
+      },
+      {
+        "id": "esma_88",
+        "arabic": "الْغَنِي",
+        "latin": "Al-Ghaniyy",
+        "meaning": "De Rijke",
+        "usage": "Gereciteerd in tijden van armoede en nood."
+      },
+      {
+        "id": "esma_89",
+        "arabic": "الْمُغْنِي",
+        "latin": "Al-Mughni",
+        "meaning": "De Verrijker",
+        "usage": "Gereciteerd voor materiële en spirituele rijkdom."
+      },
+      {
+        "id": "esma_90",
+        "arabic": "الْمَانِع",
+        "latin": "El-Mâni’",
+        "meaning": "De Tegenhouder, de Beschermer",
+        "usage": "Gereciteerd voor bescherming en voorkoming."
+      },
+      {
+        "id": "esma_91",
+        "arabic": "الضَّار",
+        "latin": "Ad-Darr",
+        "meaning": "De Schadelijke",
+        "usage": "Gereciteerd in tijden van schade en nood."
+      },
+      {
+        "id": "esma_92",
+        "arabic": "النَّافِع",
+        "latin": "En-Nâfi’",
+        "meaning": "De Schenker van weldadigheid",
+        "usage": "Gereciteerd voor nut en goed."
+      },
+      {
+        "id": "esma_93",
+        "arabic": "النُّور",
+        "latin": "An-Nur",
+        "meaning": "Het Licht",
+        "usage": "Gereciteerd voor licht en begeleiding."
+      },
+      {
+        "id": "esma_94",
+        "arabic": "الْهَادِي",
+        "latin": "Al-Hadi",
+        "meaning": "De Gids",
+        "usage": "Gereciteerd om het juiste pad te vinden."
+      },
+      {
+        "id": "esma_95",
+        "arabic": "الْبَدِيع",
+        "latin": "El-Bedî’",
+        "meaning": "De Weergaloze, de Wonderbaarlijke Schepper",
+        "usage": "Gereciteerd om kunst en schoonheid te overwegen."
+      },
+      {
+        "id": "esma_96",
+        "arabic": "الْبَاقِي",
+        "latin": "Al-Baqi",
+        "meaning": "De Eeuwige",
+        "usage": "Gereciteerd om vergankelijkheid en eeuwigheid te beschouwen."
+      },
+      {
+        "id": "esma_97",
+        "arabic": "الْوَارِث",
+        "latin": "Al-Waris",
+        "meaning": "De Erfgenaam",
+        "usage": "Gereciteerd om erfenis en permanentie te beschouwen."
+      },
+      {
+        "id": "esma_98",
+        "arabic": "الرَّشِيد",
+        "latin": "Ar-Rashid",
+        "meaning": "De Rechtgeleide",
+        "usage": "Gereciteerd voor begeleiding en juiste beslissingen."
+      },
+      {
+        "id": "esma_99",
+        "arabic": "الصَّبُور",
+        "latin": "As-Sabur",
+        "meaning": "De Geduldige",
+        "usage": "Gereciteerd voor geduld en uithoudingsvermogen."
+      }
+    ]
+  }
+}

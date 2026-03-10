@@ -1,0 +1,89 @@
+name: nida_flutter
+description: Nida - Flutter port of the Nida Adhan homepage and navigation.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  intl: ^0.19.0
+  geolocator: ^13.0.2
+  http: ^1.2.2
+  permission_handler: ^11.3.1
+  battery_optimization_permission: ^1.1.3
+  hijri: ^3.0.0
+  share_plus: ^12.0.1
+  path_provider: ^2.1.5
+  google_fonts: ^8.0.2
+  flutter_local_notifications: ^18.0.1
+  timezone: ^0.9.4
+  flutter_compass: ^0.8.1
+  google_maps_flutter: ^2.5.0
+  url_launcher: ^6.2.0
+  just_audio: ^0.9.40
+  scrollable_positioned_list: ^0.3.8
+  in_app_update: ^4.2.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/homescreen.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/homescreen.png"
+  adaptive_icon_foreground_inset: 0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: KuranKerimFontLatif
+      fonts:
+        - asset: assets/fonts/KuranKerimFontLatif.ttf
+    - family: KuranKerimFontAbay
+      fonts:
+        - asset: assets/fonts/KuranKerimFontAbay.ttf
+  assets:
+    - assets/data/countryCalculation.json
+    - assets/data/il_ilceler.json
+    - assets/data/buyuksehirler.json
+    - assets/data/duas.json
+    - assets/data/hadiths.json
+    - assets/data/esmaulhusna.json
+    - assets/data/transliteration_pt.json
+    - assets/data/pronunciation_guide_en.json
+    - assets/data/pronunciation_guide_tr.json
+    - assets/data/pronunciation_guide_de.json
+    - assets/data/pronunciation_guide_es.json
+    - assets/data/pronunciation_guide_nl.json
+    - assets/data/pronunciation_guide_pt.json
+    - assets/data/surah_metadata.json
+    - assets/data/quran.json
+    - assets/data/page_ayah_map.json
+    - assets/data/ayahCoordination.json
+    - assets/data/Sajdah_verses.json
+    - assets/data/prayerSurahsArabic.json
+    - assets/data/zammi_verse_translations.json
+    - assets/call-to-prayer.png
+    - assets/nida.png
+    - assets/men.png
+    - assets/koran.png
+    - assets/homescreen.png
+    - assets/nearbymosque.png
+    - assets/simple-clock.png
+    - assets/translate.png
+    - assets/crescent.png
+    - assets/adhan.png
+    - assets/pin.png
+    - assets/mosque2.png
+    - assets/info.png
+    - assets/support.png

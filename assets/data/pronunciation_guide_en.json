@@ -1,0 +1,84 @@
+{
+  "title": "Pronunciation Guide",
+  "description": "Special Symbols and Their Pronunciation",
+  "items": [
+    {
+      "title": "1. Long Vowels",
+      "symbol": "Symbol: ā, ī, ū",
+      "description": "Description: Long vowels. Prolong the vowel sound.",
+      "exampleLabel": "Examples in English:",
+      "examples": [
+        "ā as in \"father\" (long a sound)",
+        "ī as in \"machine\" (long e sound)",
+        "ū as in \"rude\" (long u sound)"
+      ]
+    },
+    {
+      "title": "2. Emphatic Consonants",
+      "symbol": "Symbol: ḍ, ṣ, ṭ, ẓ",
+      "description": "Description: Emphatic (heavy) consonants. Deeper, guttural pronunciation, formed with the back of the tongue.",
+      "exampleLabel": "Examples in English:",
+      "examples": [
+        "ḍ as a deep, guttural \"d\"",
+        "ṣ as a deep, guttural \"s\"",
+        "ṭ as a deep, guttural \"t\"",
+        "ẓ as a deep, guttural \"z\""
+      ]
+    },
+    {
+      "title": "3. Guttural H",
+      "symbol": "Symbol: ḥ",
+      "description": "Description: Guttural, rasping H (similar to the Spanish \"Jota\").",
+      "exampleLabel": "Example:",
+      "examples": [
+        "Like the \"j\" in Spanish \"José\" or a strong, guttural breath."
+      ]
+    },
+    {
+      "title": "4. Guttural Sounds (Ayn/Hamza)",
+      "symbol": "Symbol: ' (apostrophe)",
+      "description": "Description: Represents the Arabic letter 'Ayn (deep guttural sound) or Hamza (glottal stop).",
+      "exampleLabel": "Example:",
+      "examples": [
+        "A slight contraction in the throat, like the sound between \"uh-oh\" in English."
+      ]
+    },
+    {
+      "title": "5. Guttural R",
+      "symbol": "Symbol: ġ",
+      "description": "Description: The guttural R sound as in French.",
+      "exampleLabel": "Example:",
+      "examples": [
+        "Like the \"r\" in French \"Paris\" or the Arabic \"ġain\" (ﻍ)."
+      ]
+    },
+    {
+      "title": "6. Strong Guttural CH",
+      "symbol": "Symbol: ḫ or kh",
+      "description": "Description: Strong guttural fricative (like the German \"ch\" in \"Bach\").",
+      "exampleLabel": "Example:",
+      "examples": [
+        "Like the \"ch\" in German \"Bach\" or the Scottish \"loch\"."
+      ]
+    },
+    {
+      "title": "7. SH Sound",
+      "symbol": "Symbol: š or sh",
+      "description": "Description: SH sound (voiceless postalveolar fricative).",
+      "exampleLabel": "Example:",
+      "examples": [
+        "Like \"sh\" in English \"shoe\" or \"shy\"."
+      ]
+    }
+  ],
+  "notes": {
+    "title": "Important Notes",
+    "items": [
+      "Vowels \"e\" and \"o\": Rare in Classical Arabic. When you see them in transliterations, usually pronounce them as \"i\" and \"u\" respectively.",
+      "Auditory Learning: Perfect pronunciation requires listening to native Arabic speakers. This guide provides only approximations in English.",
+      "Consistency: The symbols are standardized to consistently represent the same Arabic sounds in all transliterations.",
+      "Unique Arabic Letters: Many Arabic sounds have no exact equivalents in English, hence the need for these special symbols.",
+      "Double Symbols: For some sounds, two different symbols may be used (e.g., ḫ and kh, š and sh), they represent the same sound."
+    ]
+  }
+}

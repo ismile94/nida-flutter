@@ -1,0 +1,957 @@
+{
+    "AF": {
+      "name": "Afghanistan",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "AL": {
+      "name": "Albania",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "DZ": {
+      "name": "Algeria",
+      "method": "Algeria",
+      "madhab": "Standard"
+    },
+    "AD": {
+      "name": "Andorra",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "AO": {
+      "name": "Angola",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "AR": {
+      "name": "Argentina",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "AM": {
+      "name": "Armenia",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "AU": {
+      "name": "Australia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "AT": {
+      "name": "Austria",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "AZ": {
+      "name": "Azerbaijan",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "BH": {
+      "name": "Bahrain",
+      "method": "Gulf",
+      "madhab": "Standard"
+    },
+    "BD": {
+      "name": "Bangladesh",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "BB": {
+      "name": "Barbados",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "BY": {
+      "name": "Belarus",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "BE": {
+      "name": "Belgium",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "BZ": {
+      "name": "Belize",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "BJ": {
+      "name": "Benin",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "BT": {
+      "name": "Bhutan",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "BO": {
+      "name": "Bolivia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "BA": {
+      "name": "Bosnia and Herzegovina",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "BW": {
+      "name": "Botswana",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "BR": {
+      "name": "Brazil",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "BN": {
+      "name": "Brunei Darussalam",
+      "method": "Singapore",
+      "madhab": "Standard"
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "BF": {
+      "name": "Burkina Faso",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "BI": {
+      "name": "Burundi",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "KH": {
+      "name": "Cambodia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "CM": {
+      "name": "Cameroon",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "CA": {
+      "name": "Canada",
+      "method": "ISNA",
+      "madhab": "Standard"
+    },
+    "CV": {
+      "name": "Cabo Verde",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "CF": {
+      "name": "Central African Republic",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "TD": {
+      "name": "Chad",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "CL": {
+      "name": "Chile",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "CN": {
+      "name": "China",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "CO": {
+      "name": "Colombia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "KM": {
+      "name": "Comoros",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "CD": {
+      "name": "Congo, Democratic Republic of the",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "CG": {
+      "name": "Congo",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "HR": {
+      "name": "Croatia",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "CU": {
+      "name": "Cuba",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "CY": {
+      "name": "Cyprus",
+      "method": "Turkey",
+      "madhab": "Hanafi"
+    },
+    "CZ": {
+      "name": "Czechia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "DK": {
+      "name": "Denmark",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "DJ": {
+      "name": "Djibouti",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "DM": {
+      "name": "Dominica",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "DO": {
+      "name": "Dominican Republic",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "EC": {
+      "name": "Ecuador",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "EG": {
+      "name": "Egypt",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "SV": {
+      "name": "El Salvador",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "GQ": {
+      "name": "Equatorial Guinea",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "ER": {
+      "name": "Eritrea",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "EE": {
+      "name": "Estonia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "SZ": {
+      "name": "Eswatini",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "ET": {
+      "name": "Ethiopia",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "FJ": {
+      "name": "Fiji",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "FI": {
+      "name": "Finland",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "FR": {
+      "name": "France",
+      "method": "France",
+      "madhab": "Standard"
+    },
+    "GA": {
+      "name": "Gabon",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "GM": {
+      "name": "Gambia",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "GE": {
+      "name": "Georgia",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "DE": {
+      "name": "Germany",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "GH": {
+      "name": "Ghana",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "GR": {
+      "name": "Greece",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "GT": {
+      "name": "Guatemala",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "GN": {
+      "name": "Guinea",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "GW": {
+      "name": "Guinea-Bissau",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "GY": {
+      "name": "Guyana",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "HT": {
+      "name": "Haiti",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "HN": {
+      "name": "Honduras",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "HU": {
+      "name": "Hungary",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "IS": {
+      "name": "Iceland",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "IN": {
+      "name": "India",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "ID": {
+      "name": "Indonesia",
+      "method": "Indonesia",
+      "madhab": "Standard"
+    },
+    "IR": {
+      "name": "Iran",
+      "method": "Tehran",
+      "madhab": "Standard"
+    },
+    "IQ": {
+      "name": "Iraq",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "IE": {
+      "name": "Ireland",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "IL": {
+      "name": "Israel",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "IT": {
+      "name": "Italy",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "JM": {
+      "name": "Jamaica",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "JP": {
+      "name": "Japan",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "JO": {
+      "name": "Jordan",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "KZ": {
+      "name": "Kazakhstan",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "KE": {
+      "name": "Kenya",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "KI": {
+      "name": "Kiribati",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "KP": {
+      "name": "Korea, Democratic People's Republic of",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "KR": {
+      "name": "Korea, Republic of",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "KW": {
+      "name": "Kuwait",
+      "method": "Kuwait",
+      "madhab": "Standard"
+    },
+    "KG": {
+      "name": "Kyrgyzstan",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "LA": {
+      "name": "Lao People's Democratic Republic",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "LV": {
+      "name": "Latvia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "LB": {
+      "name": "Lebanon",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "LS": {
+      "name": "Lesotho",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "LR": {
+      "name": "Liberia",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "LY": {
+      "name": "Libya",
+      "method": "Algeria",
+      "madhab": "Standard"
+    },
+    "LI": {
+      "name": "Liechtenstein",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "LT": {
+      "name": "Lithuania",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "MG": {
+      "name": "Madagascar",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "MW": {
+      "name": "Malawi",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "MY": {
+      "name": "Malaysia",
+      "method": "Malaysia",
+      "madhab": "Standard"
+    },
+    "MV": {
+      "name": "Maldives",
+      "method": "Singapore",
+      "madhab": "Standard"
+    },
+    "ML": {
+      "name": "Mali",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "MT": {
+      "name": "Malta",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "MH": {
+      "name": "Marshall Islands",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "MR": {
+      "name": "Mauritania",
+      "method": "Morocco",
+      "madhab": "Standard"
+    },
+    "MU": {
+      "name": "Mauritius",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "MX": {
+      "name": "Mexico",
+      "method": "ISNA",
+      "madhab": "Standard"
+    },
+    "FM": {
+      "name": "Micronesia, Federated States of",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "MD": {
+      "name": "Moldova, Republic of",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "MC": {
+      "name": "Monaco",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "MN": {
+      "name": "Mongolia",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "ME": {
+      "name": "Montenegro",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "MA": {
+      "name": "Morocco",
+      "method": "Morocco",
+      "madhab": "Standard"
+    },
+    "MZ": {
+      "name": "Mozambique",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "MM": {
+      "name": "Myanmar",
+      "method": "Karachi",
+      "madhab": "Standard"
+    },
+    "NA": {
+      "name": "Namibia",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "NR": {
+      "name": "Nauru",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "NP": {
+      "name": "Nepal",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "NL": {
+      "name": "Netherlands",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "NI": {
+      "name": "Nicaragua",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "NE": {
+      "name": "Niger",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "NG": {
+      "name": "Nigeria",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "MK": {
+      "name": "North Macedonia",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "NO": {
+      "name": "Norway",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "OM": {
+      "name": "Oman",
+      "method": "Gulf",
+      "madhab": "Standard"
+    },
+    "PK": {
+      "name": "Pakistan",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "PW": {
+      "name": "Palau",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "PS": {
+      "name": "Palestine, State of",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "PA": {
+      "name": "Panama",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "PG": {
+      "name": "Papua New Guinea",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "PY": {
+      "name": "Paraguay",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "PE": {
+      "name": "Peru",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "PH": {
+      "name": "Philippines",
+      "method": "Singapore",
+      "madhab": "Standard"
+    },
+    "PL": {
+      "name": "Poland",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "PT": {
+      "name": "Portugal",
+      "method": "Portugal",
+      "madhab": "Standard"
+    },
+    "QA": {
+      "name": "Qatar",
+      "method": "Qatar",
+      "madhab": "Standard"
+    },
+    "RO": {
+      "name": "Romania",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "RU": {
+      "name": "Russian Federation",
+      "method": "Russia",
+      "madhab": "Hanafi"
+    },
+    "RW": {
+      "name": "Rwanda",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "KN": {
+      "name": "Saint Kitts and Nevis",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "LC": {
+      "name": "Saint Lucia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "VC": {
+      "name": "Saint Vincent and the Grenadines",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "WS": {
+      "name": "Samoa",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "SM": {
+      "name": "San Marino",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "ST": {
+      "name": "Sao Tome and Principe",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "SA": {
+      "name": "Saudi Arabia",
+      "method": "Makkah",
+      "madhab": "Standard"
+    },
+    "SN": {
+      "name": "Senegal",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "RS": {
+      "name": "Serbia",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "SC": {
+      "name": "Seychelles",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "SL": {
+      "name": "Sierra Leone",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "SG": {
+      "name": "Singapore",
+      "method": "Singapore",
+      "madhab": "Standard"
+    },
+    "SK": {
+      "name": "Slovakia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "SI": {
+      "name": "Slovenia",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "SB": {
+      "name": "Solomon Islands",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "SO": {
+      "name": "Somalia",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "ZA": {
+      "name": "South Africa",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "SS": {
+      "name": "South Sudan",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "ES": {
+      "name": "Spain",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "LK": {
+      "name": "Sri Lanka",
+      "method": "Karachi",
+      "madhab": "Standard"
+    },
+    "SD": {
+      "name": "Sudan",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "SR": {
+      "name": "Suriname",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "SE": {
+      "name": "Sweden",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "CH": {
+      "name": "Switzerland",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "SY": {
+      "name": "Syrian Arab Republic",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "TW": {
+      "name": "Taiwan",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "TJ": {
+      "name": "Tajikistan",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "TZ": {
+      "name": "Tanzania, United Republic of",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "TH": {
+      "name": "Thailand",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "TL": {
+      "name": "Timor-Leste",
+      "method": "Indonesia",
+      "madhab": "Standard"
+    },
+    "TG": {
+      "name": "Togo",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "TO": {
+      "name": "Tonga",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "TT": {
+      "name": "Trinidad and Tobago",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "TN": {
+      "name": "Tunisia",
+      "method": "Tunisia",
+      "madhab": "Standard"
+    },
+    "TR": {
+      "name": "Turkey",
+      "method": "Turkey",
+      "madhab": "Hanafi"
+    },
+    "TM": {
+      "name": "Turkmenistan",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "TV": {
+      "name": "Tuvalu",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "UG": {
+      "name": "Uganda",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "UA": {
+      "name": "Ukraine",
+      "method": "MWL",
+      "madhab": "Hanafi"
+    },
+    "AE": {
+      "name": "United Arab Emirates",
+      "method": "Dubai",
+      "madhab": "Standard"
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "method": "Moonsighting",
+      "madhab": "Standard"
+    },
+    "US": {
+      "name": "United States of America",
+      "method": "ISNA",
+      "madhab": "Standard"
+    },
+    "UY": {
+      "name": "Uruguay",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "UZ": {
+      "name": "Uzbekistan",
+      "method": "Karachi",
+      "madhab": "Hanafi"
+    },
+    "VU": {
+      "name": "Vanuatu",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "VE": {
+      "name": "Venezuela",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "VN": {
+      "name": "Viet Nam",
+      "method": "MWL",
+      "madhab": "Standard"
+    },
+    "YE": {
+      "name": "Yemen",
+      "method": "Makkah",
+      "madhab": "Standard"
+    },
+    "ZM": {
+      "name": "Zambia",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    },
+    "ZW": {
+      "name": "Zimbabwe",
+      "method": "Egyptian",
+      "madhab": "Standard"
+    }
+  }

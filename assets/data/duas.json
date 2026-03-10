@@ -1,0 +1,1747 @@
+{
+  "tr": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Allah'ım, kalbimi Sana yaklaştır ve beni istikamet üzere tut."
+      },
+      {
+        "id": "gen_02",
+        "text": "Rabbim, bana hayırlı olanı nasip et ve ondan razı eyle."
+      },
+      {
+        "id": "gen_03",
+        "text": "Allah'ım, bana hikmet ver ve beni salih kullarından eyle."
+      },
+      {
+        "id": "gen_04",
+        "text": "Rabbim, ilmimi artır ve kalbimi nurlandır."
+      },
+      {
+        "id": "gen_05",
+        "text": "Allah'ım, bana sabır ver ve işlerimi kolaylaştır."
+      },
+      {
+        "id": "gen_06",
+        "text": "Rabbim, bana güzel ahlak ver ve beni kötü ahlaktan koru."
+      },
+      {
+        "id": "gen_07",
+        "text": "Allah'ım, bana rızık ver ve beni bereketli kıl."
+      },
+      {
+        "id": "gen_08",
+        "text": "Rabbim, bana sağlık ver ve hastalıklardan koru."
+      },
+      {
+        "id": "gen_09",
+        "text": "Allah'ım, bana hidayet ver ve beni doğru yolda sabit kıl."
+      },
+      {
+        "id": "gen_10",
+        "text": "Rabbim, dualarımı kabul et ve beni affet."
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Allah'ım, içimdeki sıkıntıyı Sen gider. Gücüm yetmediğinde Sen yeterlisin.",
+          "source": "Manevî teselli duası"
+        },
+        {
+          "id": "sad_02",
+          "text": "Rabbim, kalbimin taşıyamadığını Sana bırakıyorum."
+        },
+        {
+          "id": "sad_03",
+          "text": "Allah'ım, gam ve kederimi gider, bana ferahlık ver."
+        },
+        {
+          "id": "sad_04",
+          "text": "Rabbim, üzüntümü sevince, kederimi huzura çevir."
+        },
+        {
+          "id": "sad_05",
+          "text": "Allah'ım, bana sabır ver ve beni sabredenlerden eyle."
+        },
+        {
+          "id": "sad_06",
+          "text": "Rabbim, sıkıntılarımı kolaylaştır ve bana yardım et."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Allah'ım, beni doğruluk üzere sabit kıl."
+        },
+        {
+          "id": "neu_02",
+          "text": "Rabbim, dengemi koru ve beni istikamet üzere tut."
+        },
+        {
+          "id": "neu_03",
+          "text": "Allah'ım, bana hikmet ver ve doğru kararlar vermemi nasip et."
+        },
+        {
+          "id": "neu_04",
+          "text": "Rabbim, kalbimi temiz tut ve beni kötülüklerden koru."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Allah'ım, verdiğin nimetler için Sana hamd ederim."
+        },
+        {
+          "id": "hap_02",
+          "text": "Rabbim, sevincimi Sana yakınlığa vesile kıl."
+        },
+        {
+          "id": "hap_03",
+          "text": "Allah'ım, mutluluğumu şükre çevir ve beni nankörlerden eyleme."
+        },
+        {
+          "id": "hap_04",
+          "text": "Rabbim, sevincimi paylaşmayı nasip et ve beni cömert kıl."
+        },
+        {
+          "id": "hap_05",
+          "text": "Allah'ım, verdiğin nimetlerin kıymetini bilmemi nasip et."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Allah'ım, bu yeni günü Senin rızanla başlat."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Rabbim, bugünü hayırlı kıl ve beni günahlardan koru."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Allah'ım, sabahımı bereketli kıl ve işlerimi kolaylaştır."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Rabbim, bugün bana yardım et ve beni başarılı kıl."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Rabbim, yüklerimi Seninle taşımayı nasip et."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Allah'ım, gün ortasında bana güç ver ve yorgunluğumu gider."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Rabbim, işlerimi bereketli kıl ve beni verimli eyle."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Allah'ım, öğle vaktinde bana huzur ver ve kalbimi sakinleştir."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Allah'ım, yorgunluğumu Sana sığınıyorum."
+        },
+        {
+          "id": "asr_02",
+          "text": "Rabbim, ikindi vaktinde bana sabır ver ve güç ver."
+        },
+        {
+          "id": "asr_03",
+          "text": "Allah'ım, günün sonuna kadar beni koru ve yardım et."
+        },
+        {
+          "id": "asr_04",
+          "text": "Rabbim, yorgunluğumu gider ve beni taze kıl."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Rabbim, bugün verdiğin her nimet için Sana şükrederim."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Allah'ım, günün sonunda beni affet ve günahlarımı bağışla."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Rabbim, akşamımı hayırlı kıl ve gecemi bereketli eyle."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Allah'ım, bugün yaptığım iyilikleri kabul et ve kötülüklerimi affet."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Allah'ım, beni Sana teslim olmuş kullarından eyle."
+        },
+        {
+          "id": "isha_02",
+          "text": "Rabbim, gecemi huzurlu kıl ve uykumu bereketli eyle."
+        },
+        {
+          "id": "isha_03",
+          "text": "Allah'ım, gece boyunca beni koru ve sabaha çıkarmayı nasip et."
+        },
+        {
+          "id": "isha_04",
+          "text": "Rabbim, yatsı vaktinde bana rahmet et ve beni affet."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Allah'ım, Ramazan'ı benim için arınmaya ve Sana yaklaşmaya vesile kıl."
+        },
+        {
+          "id": "ram_02",
+          "text": "Rabbim, tuttuğum orucu ve yaptığım ibadetleri kabul eyle."
+        },
+        {
+          "id": "ram_03",
+          "text": "Allah'ım, Ramazan ayında bana mağfiret et ve beni cehennemden koru."
+        },
+        {
+          "id": "ram_04",
+          "text": "Rabbim, orucumu kabul et ve beni cennetine dahil eyle."
+        },
+        {
+          "id": "ram_05",
+          "text": "Allah'ım, Ramazan'da bana Kur'an'ı anlamayı nasip et."
+        },
+        {
+          "id": "ram_06",
+          "text": "Rabbim, bu mübarek ayda dualarımı kabul et ve beni affet."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Allah'ım, bu mübarek gecede beni affına ve rahmetine dahil eyle."
+        },
+        {
+          "id": "kan_02",
+          "text": "Rabbim, kaderimi hayırla güzelleştir."
+        },
+        {
+          "id": "kan_03",
+          "text": "Allah'ım, bu mübarek gecede dualarımı kabul et ve beni bağışla."
+        },
+        {
+          "id": "kan_04",
+          "text": "Rabbim, kandil gecelerinde bana rahmet et ve beni cennetine dahil eyle."
+        },
+        {
+          "id": "kan_05",
+          "text": "Allah'ım, bu gecede bana hayırlı kader nasip et."
+        }
+      ]
+    }
+  },
+  "en": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "O Allah, draw my heart closer to You and keep me on the straight path."
+      },
+      {
+        "id": "gen_02",
+        "text": "My Lord, grant me what is good and make me pleased with it."
+      },
+      {
+        "id": "gen_03",
+        "text": "O Allah, grant me wisdom and make me among the righteous servants."
+      },
+      {
+        "id": "gen_04",
+        "text": "My Lord, increase my knowledge and illuminate my heart."
+      },
+      {
+        "id": "gen_05",
+        "text": "O Allah, grant me patience and make my affairs easy."
+      },
+      {
+        "id": "gen_06",
+        "text": "My Lord, grant me good character and protect me from bad character."
+      },
+      {
+        "id": "gen_07",
+        "text": "O Allah, grant me provision and make it blessed."
+      },
+      {
+        "id": "gen_08",
+        "text": "My Lord, grant me health and protect me from diseases."
+      },
+      {
+        "id": "gen_09",
+        "text": "O Allah, grant me guidance and keep me steadfast on the right path."
+      },
+      {
+        "id": "gen_10",
+        "text": "My Lord, accept my supplications and forgive me."
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "O Allah, You remove the distress within me. When my strength fails, You are sufficient.",
+          "source": "Spiritual consolation prayer"
+        },
+        {
+          "id": "sad_02",
+          "text": "My Lord, I entrust to You what my heart cannot bear."
+        },
+        {
+          "id": "sad_03",
+          "text": "O Allah, remove my grief and sorrow, and grant me relief."
+        },
+        {
+          "id": "sad_04",
+          "text": "My Lord, turn my sadness into joy and my sorrow into peace."
+        },
+        {
+          "id": "sad_05",
+          "text": "O Allah, grant me patience and make me among those who are patient."
+        },
+        {
+          "id": "sad_06",
+          "text": "My Lord, ease my difficulties and help me."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "O Allah, keep me steadfast in truth."
+        },
+        {
+          "id": "neu_02",
+          "text": "My Lord, maintain my balance and keep me on the straight path."
+        },
+        {
+          "id": "neu_03",
+          "text": "O Allah, grant me wisdom and enable me to make right decisions."
+        },
+        {
+          "id": "neu_04",
+          "text": "My Lord, keep my heart pure and protect me from evil."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "O Allah, I praise You for the blessings You have given me."
+        },
+        {
+          "id": "hap_02",
+          "text": "My Lord, make my joy a means of closeness to You."
+        },
+        {
+          "id": "hap_03",
+          "text": "O Allah, turn my happiness into gratitude and do not make me among the ungrateful."
+        },
+        {
+          "id": "hap_04",
+          "text": "My Lord, enable me to share my joy and make me generous."
+        },
+        {
+          "id": "hap_05",
+          "text": "O Allah, enable me to appreciate the value of the blessings You have given me."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "O Allah, begin this new day with Your pleasure."
+        },
+        {
+          "id": "fajr_02",
+          "text": "My Lord, make this day blessed and protect me from sins."
+        },
+        {
+          "id": "fajr_03",
+          "text": "O Allah, bless my morning and make my affairs easy."
+        },
+        {
+          "id": "fajr_04",
+          "text": "My Lord, help me today and make me successful."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "My Lord, grant me to bear my burdens with You."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "O Allah, give me strength at midday and remove my fatigue."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "My Lord, bless my work and make me productive."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "O Allah, grant me peace at noon and calm my heart."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "O Allah, I seek refuge in You from my weariness."
+        },
+        {
+          "id": "asr_02",
+          "text": "My Lord, grant me patience in the afternoon and give me strength."
+        },
+        {
+          "id": "asr_03",
+          "text": "O Allah, protect me until the end of the day and help me."
+        },
+        {
+          "id": "asr_04",
+          "text": "My Lord, remove my fatigue and refresh me."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "My Lord, I thank You for every blessing You gave me today."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "O Allah, forgive me at the end of the day and forgive my sins."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "My Lord, make my evening blessed and my night prosperous."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "O Allah, accept the good deeds I did today and forgive my bad deeds."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "O Allah, make me among Your servants who have submitted to You."
+        },
+        {
+          "id": "isha_02",
+          "text": "My Lord, make my night peaceful and my sleep blessed."
+        },
+        {
+          "id": "isha_03",
+          "text": "O Allah, protect me throughout the night and enable me to reach the morning."
+        },
+        {
+          "id": "isha_04",
+          "text": "My Lord, have mercy on me at night and forgive me."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "O Allah, make Ramadan a means of purification and closeness to You for me."
+        },
+        {
+          "id": "ram_02",
+          "text": "My Lord, accept my fasting and the worship I have performed."
+        },
+        {
+          "id": "ram_03",
+          "text": "O Allah, forgive me in the month of Ramadan and protect me from Hellfire."
+        },
+        {
+          "id": "ram_04",
+          "text": "My Lord, accept my fast and include me in Your Paradise."
+        },
+        {
+          "id": "ram_05",
+          "text": "O Allah, enable me to understand the Quran in Ramadan."
+        },
+        {
+          "id": "ram_06",
+          "text": "My Lord, accept my supplications in this blessed month and forgive me."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "O Allah, include me in Your forgiveness and mercy on this blessed night."
+        },
+        {
+          "id": "kan_02",
+          "text": "My Lord, beautify my destiny with goodness."
+        },
+        {
+          "id": "kan_03",
+          "text": "O Allah, accept my supplications on this blessed night and forgive me."
+        },
+        {
+          "id": "kan_04",
+          "text": "My Lord, have mercy on me on blessed nights and include me in Your Paradise."
+        },
+        {
+          "id": "kan_05",
+          "text": "O Allah, grant me a good destiny on this night."
+        }
+      ]
+    }
+  },
+  "ar": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "اللهم قرّب قلبي إليك وثبتني على الصراط المستقيم."
+      },
+      {
+        "id": "gen_02",
+        "text": "ربي ارزقني ما هو خير وارضني به."
+      },
+      {
+        "id": "gen_03",
+        "text": "اللهم ارزقني الحكمة واجعلني من عبادك الصالحين"
+      },
+      {
+        "id": "gen_04",
+        "text": "ربي زدني علماً وأنر قلبي"
+      },
+      {
+        "id": "gen_05",
+        "text": "اللهم ارزقني الصبر ويسر أموري"
+      },
+      {
+        "id": "gen_06",
+        "text": "ربي ارزقني الخلق الحسن واعصمني من الخلق السيء"
+      },
+      {
+        "id": "gen_07",
+        "text": "اللهم ارزقني رزقاً وبارك لي فيه"
+      },
+      {
+        "id": "gen_08",
+        "text": "ربي ارزقني الصحة واعصمني من الأمراض"
+      },
+      {
+        "id": "gen_09",
+        "text": "اللهم ارزقني الهدى وثبتني على الصراط المستقيم"
+      },
+      {
+        "id": "gen_10",
+        "text": "ربي تقبل دعائي واغفر لي"
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "اللهم أنت تكشف ضيق صدري. إذا قصرت قوتي فأنت حسبي.",
+          "source": "دعاء التسلية الروحية"
+        },
+        {
+          "id": "sad_02",
+          "text": "ربي أودعك ما لا يحتمله قلبي."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "اللهم ثبتني على الحق."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "اللهم أحمدك على النعم التي أنعمت بها علي."
+        },
+        {
+          "id": "hap_02",
+          "text": "ربي اجعل فرحي وسيلة للقرب منك."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "اللهم ابدأ هذا اليوم الجديد برضاك."
+        },
+        {
+          "id": "fajr_02",
+          "text": "ربي اجعل هذا اليوم مباركاً واعصمني من الذنوب"
+        },
+        {
+          "id": "fajr_03",
+          "text": "اللهم بارك لي في صباحي ويسر أموري"
+        },
+        {
+          "id": "fajr_04",
+          "text": "ربي أعنّي اليوم واجعلني ناجحاً"
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "ربي ارزقني أن أحمل أعبائي معك."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "اللهم أعطني القوة في منتصف النهار واكشف عني التعب"
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "ربي بارك لي في عملي واجعلني منتجاً"
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "اللهم ارزقني الطمأنينة في وقت الظهيرة واهدئ قلبي"
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "اللهم أعوذ بك من تعبي."
+        },
+        {
+          "id": "asr_02",
+          "text": "ربي ارزقني الصبر في وقت العصر وأعطني القوة"
+        },
+        {
+          "id": "asr_03",
+          "text": "اللهم احفظني حتى نهاية اليوم وأعنّي"
+        },
+        {
+          "id": "asr_04",
+          "text": "ربي اكشف عني التعب ونعشني"
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "ربي أشكرك على كل نعمة أعطيتنيها اليوم."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "اللهم اغفر لي في نهاية اليوم واغفر ذنوبي"
+        },
+        {
+          "id": "maghrib_03",
+          "text": "ربي اجعل مسائي مباركاً وليلي مزدهراً"
+        },
+        {
+          "id": "maghrib_04",
+          "text": "اللهم تقبل الحسنات التي قمت بها اليوم واغفر سيئاتي"
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "اللهم اجعلني من عبادك المستسلمين لك."
+        },
+        {
+          "id": "isha_02",
+          "text": "ربي اجعل ليلي مطمئناً ونومي مباركاً"
+        },
+        {
+          "id": "isha_03",
+          "text": "اللهم احفظني طوال الليل ومكنني من الوصول إلى الصباح"
+        },
+        {
+          "id": "isha_04",
+          "text": "ربي ارحمني في وقت العشاء واغفر لي"
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "اللهم اجعل رمضان وسيلة للتطهير والقرب منك لي."
+        },
+        {
+          "id": "ram_02",
+          "text": "ربي تقبل صيامي والعبادة التي قمت بها."
+        },
+        {
+          "id": "ram_03",
+          "text": "اللهم اغفر لي في شهر رمضان واعصمني من النار"
+        },
+        {
+          "id": "ram_04",
+          "text": "ربي تقبل صيامي وأدرجني في جنتك"
+        },
+        {
+          "id": "ram_05",
+          "text": "اللهم مكنني من فهم القرآن في رمضان"
+        },
+        {
+          "id": "ram_06",
+          "text": "ربي تقبل دعائي في هذا الشهر المبارك واغفر لي"
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "اللهم أدرجني في مغفرتك ورحمتك في هذه الليلة المباركة."
+        },
+        {
+          "id": "kan_02",
+          "text": "ربي جمّل قدري بالخير."
+        },
+        {
+          "id": "kan_03",
+          "text": "اللهم تقبل دعائي في هذه الليلة المباركة واغفر لي"
+        },
+        {
+          "id": "kan_04",
+          "text": "ربي ارحمني في الليالي المباركة وأدرجني في جنتك"
+        },
+        {
+          "id": "kan_05",
+          "text": "اللهم ارزقني قدري الحسن في هذه الليلة"
+        }
+      ]
+    }
+  },
+  "pt": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Ó Allah, aproxime meu coração de Ti e mantenha-me no caminho reto."
+      },
+      {
+        "id": "gen_02",
+        "text": "Meu Senhor, conceda-me o que é bom e faça-me contente com isso."
+      },
+      {
+        "id": "gen_03",
+        "text": "Ó Allah, conceda-me sabedoria e faça-me entre os servos justos."
+      },
+      {
+        "id": "gen_04",
+        "text": "Meu Senhor, aumente meu conhecimento e ilumine meu coração."
+      },
+      {
+        "id": "gen_05",
+        "text": "Ó Allah, conceda-me paciência e facilite meus assuntos."
+      },
+      {
+        "id": "gen_06",
+        "text": "Meu Senhor, conceda-me bom caráter e proteja-me do mau caráter."
+      },
+      {
+        "id": "gen_07",
+        "text": "Ó Allah, conceda-me sustento e abençoe-o."
+      },
+      {
+        "id": "gen_08",
+        "text": "Meu Senhor, conceda-me saúde e proteja-me de doenças."
+      },
+      {
+        "id": "gen_09",
+        "text": "Ó Allah, conceda-me orientação e mantenha-me firme no caminho certo."
+      },
+      {
+        "id": "gen_10",
+        "text": "Meu Senhor, aceite minhas súplicas e perdoe-me."
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Ó Allah, Tu alivias a angústia dentro de mim. Quando minha força falha, Tu és suficiente.",
+          "source": "Prece de consolo espiritual"
+        },
+        {
+          "id": "sad_02",
+          "text": "Meu Senhor, confio a Ti o que meu coração não pode suportar."
+        },
+        {
+          "id": "sad_03",
+          "text": "Ó Allah, remove minha tristeza e angústia, e concede-me alívio."
+        },
+        {
+          "id": "sad_04",
+          "text": "Meu Senhor, transforme minha tristeza em alegria e minha angústia em paz."
+        },
+        {
+          "id": "sad_05",
+          "text": "Ó Allah, conceda-me paciência e faça-me entre os pacientes."
+        },
+        {
+          "id": "sad_06",
+          "text": "Meu Senhor, facilite minhas dificuldades e ajude-me."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Ó Allah, mantenha-me firme na verdade."
+        },
+        {
+          "id": "neu_02",
+          "text": "Meu Senhor, mantenha meu equilíbrio e mantenha-me no caminho reto."
+        },
+        {
+          "id": "neu_03",
+          "text": "Ó Allah, conceda-me sabedoria e permita-me tomar decisões corretas."
+        },
+        {
+          "id": "neu_04",
+          "text": "Meu Senhor, mantenha meu coração puro e proteja-me do mal."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Ó Allah, eu Te louvo pelas bênçãos que me deste."
+        },
+        {
+          "id": "hap_02",
+          "text": "Meu Senhor, faça minha alegria ser um meio de proximidade a Ti."
+        },
+        {
+          "id": "hap_03",
+          "text": "Ó Allah, transforme minha felicidade em gratidão e não me faça entre os ingratos."
+        },
+        {
+          "id": "hap_04",
+          "text": "Meu Senhor, permita-me compartilhar minha alegria e faça-me generoso."
+        },
+        {
+          "id": "hap_05",
+          "text": "Ó Allah, permita-me apreciar o valor das bênçãos que me deste."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Ó Allah, comece este novo dia com Tua satisfação."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Meu Senhor, abençoe este dia e proteja-me dos pecados."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Ó Allah, abençoe minha manhã e facilite meus assuntos."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Meu Senhor, ajude-me hoje e faça-me bem-sucedido."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Meu Senhor, conceda-me carregar meus fardos contigo."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Ó Allah, dê-me força ao meio-dia e remova meu cansaço."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Meu Senhor, abençoe meu trabalho e faça-me produtivo."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Ó Allah, conceda-me paz ao meio-dia e acalme meu coração."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Ó Allah, busco refúgio em Ti contra meu cansaço."
+        },
+        {
+          "id": "asr_02",
+          "text": "Meu Senhor, conceda-me paciência à tarde e dê-me força."
+        },
+        {
+          "id": "asr_03",
+          "text": "Ó Allah, proteja-me até o fim do dia e ajude-me."
+        },
+        {
+          "id": "asr_04",
+          "text": "Meu Senhor, remova meu cansaço e refresque-me."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Meu Senhor, agradeço-Te por cada bênção que me deste hoje."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Ó Allah, perdoe-me no fim do dia e perdoe meus pecados."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Meu Senhor, abençoe minha noite e faça minha noite próspera."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Ó Allah, aceite as boas ações que fiz hoje e perdoe minhas más ações."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Ó Allah, faça-me um dos Teus servos que se submeteram a Ti."
+        },
+        {
+          "id": "isha_02",
+          "text": "Meu Senhor, faça minha noite pacífica e meu sono abençoado."
+        },
+        {
+          "id": "isha_03",
+          "text": "Ó Allah, proteja-me durante a noite e permita-me chegar à manhã."
+        },
+        {
+          "id": "isha_04",
+          "text": "Meu Senhor, tenha misericórdia de mim à noite e perdoe-me."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Ó Allah, faça do Ramadã um meio de purificação e proximidade a Ti para mim."
+        },
+        {
+          "id": "ram_02",
+          "text": "Meu Senhor, aceite meu jejum e a adoração que realizei."
+        },
+        {
+          "id": "ram_03",
+          "text": "Ó Allah, perdoe-me no mês do Ramadã e proteja-me do Inferno."
+        },
+        {
+          "id": "ram_04",
+          "text": "Meu Senhor, aceite meu jejum e inclua-me em Teu Paraíso."
+        },
+        {
+          "id": "ram_05",
+          "text": "Ó Allah, permita-me entender o Alcorão no Ramadã."
+        },
+        {
+          "id": "ram_06",
+          "text": "Meu Senhor, aceite minhas súplicas neste mês abençoado e perdoe-me."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Ó Allah, inclua-me em Tua misericórdia e perdão nesta noite abençoada."
+        },
+        {
+          "id": "kan_02",
+          "text": "Meu Senhor, embeleze meu destino com o bem."
+        },
+        {
+          "id": "kan_03",
+          "text": "Ó Allah, aceite minhas súplicas nesta noite abençoada e perdoe-me."
+        },
+        {
+          "id": "kan_04",
+          "text": "Meu Senhor, tenha misericórdia de mim nas noites abençoadas e inclua-me em Teu Paraíso."
+        },
+        {
+          "id": "kan_05",
+          "text": "Ó Allah, conceda-me um bom destino nesta noite."
+        }
+      ]
+    }
+  },
+  "es": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "Oh Allah, acerca mi corazón a Ti y manténme en el camino recto."
+      },
+      {
+        "id": "gen_02",
+        "text": "Mi Señor, concédeme lo que es bueno y haz que me complazca con ello."
+      },
+      {
+        "id": "gen_03",
+        "text": "Oh Allah, concédeme sabiduría y hazme entre los siervos justos."
+      },
+      {
+        "id": "gen_04",
+        "text": "Mi Señor, aumenta mi conocimiento e ilumina mi corazón."
+      },
+      {
+        "id": "gen_05",
+        "text": "Oh Allah, concédeme paciencia y facilita mis asuntos."
+      },
+      {
+        "id": "gen_06",
+        "text": "Mi Señor, concédeme buen carácter y protégeme del mal carácter."
+      },
+      {
+        "id": "gen_07",
+        "text": "Oh Allah, concédeme sustento y bendícelo."
+      },
+      {
+        "id": "gen_08",
+        "text": "Mi Señor, concédeme salud y protégeme de enfermedades."
+      },
+      {
+        "id": "gen_09",
+        "text": "Oh Allah, concédeme guía y manténme firme en el camino correcto."
+      },
+      {
+        "id": "gen_10",
+        "text": "Mi Señor, acepta mis súplicas y perdóname."
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "Oh Allah, Tú alivias la angustia dentro de mí. Cuando mi fuerza falla, Tú eres suficiente.",
+          "source": "Plegaria de consuelo espiritual"
+        },
+        {
+          "id": "sad_02",
+          "text": "Mi Señor, confío en Ti lo que mi corazón no puede soportar."
+        },
+        {
+          "id": "sad_03",
+          "text": "Oh Allah, quita mi tristeza y angustia, y concédeme alivio."
+        },
+        {
+          "id": "sad_04",
+          "text": "Mi Señor, convierte mi tristeza en alegría y mi angustia en paz."
+        },
+        {
+          "id": "sad_05",
+          "text": "Oh Allah, concédeme paciencia y hazme entre los pacientes."
+        },
+        {
+          "id": "sad_06",
+          "text": "Mi Señor, facilita mis dificultades y ayúdame."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "Oh Allah, manténme firme en la verdad."
+        },
+        {
+          "id": "neu_02",
+          "text": "Mi Señor, mantén mi equilibrio y manténme en el camino recto."
+        },
+        {
+          "id": "neu_03",
+          "text": "Oh Allah, concédeme sabiduría y permíteme tomar decisiones correctas."
+        },
+        {
+          "id": "neu_04",
+          "text": "Mi Señor, mantén mi corazón puro y protégeme del mal."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "Oh Allah, te alabo por las bendiciones que me has dado."
+        },
+        {
+          "id": "hap_02",
+          "text": "Mi Señor, haz que mi alegría sea un medio para acercarme a Ti."
+        },
+        {
+          "id": "hap_03",
+          "text": "Oh Allah, convierte mi felicidad en gratitud y no me hagas entre los ingratos."
+        },
+        {
+          "id": "hap_04",
+          "text": "Mi Señor, permíteme compartir mi alegría y hazme generoso."
+        },
+        {
+          "id": "hap_05",
+          "text": "Oh Allah, permíteme apreciar el valor de las bendiciones que me has dado."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "Oh Allah, comienza este nuevo día con Tu complacencia."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Mi Señor, bendice este día y protégeme de los pecados."
+        },
+        {
+          "id": "fajr_03",
+          "text": "Oh Allah, bendice mi mañana y facilita mis asuntos."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Mi Señor, ayúdame hoy y hazme exitoso."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Mi Señor, concédeme cargar mis cargas contigo."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "Oh Allah, dame fuerza al mediodía y quita mi cansancio."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Mi Señor, bendice mi trabajo y hazme productivo."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "Oh Allah, concédeme paz al mediodía y calma mi corazón."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "Oh Allah, busco refugio en Ti de mi cansancio."
+        },
+        {
+          "id": "asr_02",
+          "text": "Mi Señor, concédeme paciencia por la tarde y dame fuerza."
+        },
+        {
+          "id": "asr_03",
+          "text": "Oh Allah, protégeme hasta el final del día y ayúdame."
+        },
+        {
+          "id": "asr_04",
+          "text": "Mi Señor, quita mi cansancio y refrescame."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Mi Señor, te agradezco por cada bendición que me diste hoy."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "Oh Allah, perdóname al final del día y perdona mis pecados."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Mi Señor, bendice mi noche y haz mi noche próspera."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "Oh Allah, acepta las buenas acciones que hice hoy y perdona mis malas acciones."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "Oh Allah, hazme uno de Tus siervos que se han sometido a Ti."
+        },
+        {
+          "id": "isha_02",
+          "text": "Mi Señor, haz mi noche pacífica y mi sueño bendito."
+        },
+        {
+          "id": "isha_03",
+          "text": "Oh Allah, protégeme durante la noche y permíteme llegar a la mañana."
+        },
+        {
+          "id": "isha_04",
+          "text": "Mi Señor, ten misericordia de mí por la noche y perdóname."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "Oh Allah, haz del Ramadán un medio de purificación y cercanía a Ti para mí."
+        },
+        {
+          "id": "ram_02",
+          "text": "Mi Señor, acepta mi ayuno y la adoración que he realizado."
+        },
+        {
+          "id": "ram_03",
+          "text": "Oh Allah, perdóname en el mes del Ramadán y protégeme del Infierno."
+        },
+        {
+          "id": "ram_04",
+          "text": "Mi Señor, acepta mi ayuno e inclúyeme en Tu Paraíso."
+        },
+        {
+          "id": "ram_05",
+          "text": "Oh Allah, permíteme entender el Corán en el Ramadán."
+        },
+        {
+          "id": "ram_06",
+          "text": "Mi Señor, acepta mis súplicas en este mes bendito y perdóname."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "Oh Allah, inclúyeme en Tu perdón y misericordia en esta noche bendita."
+        },
+        {
+          "id": "kan_02",
+          "text": "Mi Señor, embellece mi destino con el bien."
+        },
+        {
+          "id": "kan_03",
+          "text": "Oh Allah, acepta mis súplicas en esta noche bendita y perdóname."
+        },
+        {
+          "id": "kan_04",
+          "text": "Mi Señor, ten misericordia de mí en las noches benditas e inclúyeme en Tu Paraíso."
+        },
+        {
+          "id": "kan_05",
+          "text": "Oh Allah, concédeme un buen destino en esta noche."
+        }
+      ]
+    }
+  },
+  "de": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "O Allah, ziehe mein Herz näher zu Dir und halte mich auf dem geraden Weg."
+      },
+      {
+        "id": "gen_02",
+        "text": "Mein Herr, gewähre mir das Gute und mache mich damit zufrieden."
+      },
+      {
+        "id": "gen_03",
+        "text": "O Allah, gewähre mir Weisheit und mache mich zu einem Deiner rechtschaffenen Diener."
+      },
+      {
+        "id": "gen_04",
+        "text": "Mein Herr, vermehre mein Wissen und erleuchte mein Herz."
+      },
+      {
+        "id": "gen_05",
+        "text": "O Allah, gewähre mir Geduld und mache meine Angelegenheiten leicht."
+      },
+      {
+        "id": "gen_06",
+        "text": "Mein Herr, gewähre mir guten Charakter und schütze mich vor schlechtem Charakter."
+      },
+      {
+        "id": "gen_07",
+        "text": "O Allah, gewähre mir Versorgung und segne sie."
+      },
+      {
+        "id": "gen_08",
+        "text": "Mein Herr, gewähre mir Gesundheit und schütze mich vor Krankheiten."
+      },
+      {
+        "id": "gen_09",
+        "text": "O Allah, gewähre mir Rechtleitung und halte mich fest auf dem rechten Weg."
+      },
+      {
+        "id": "gen_10",
+        "text": "Mein Herr, nimm meine Bittgebete an und vergib mir."
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "O Allah, Du beseitigst die Not in mir. Wenn meine Kraft versagt, bist Du ausreichend.",
+          "source": "Geistliches Trostgebet"
+        },
+        {
+          "id": "sad_02",
+          "text": "Mein Herr, ich übergebe Dir, was mein Herz nicht ertragen kann."
+        },
+        {
+          "id": "sad_03",
+          "text": "O Allah, entferne meine Trauer und meinen Kummer und gewähre mir Erleichterung."
+        },
+        {
+          "id": "sad_04",
+          "text": "Mein Herr, verwandle meine Traurigkeit in Freude und meinen Kummer in Frieden."
+        },
+        {
+          "id": "sad_05",
+          "text": "O Allah, gewähre mir Geduld und mache mich zu einem der Geduldigen."
+        },
+        {
+          "id": "sad_06",
+          "text": "Mein Herr, erleichtere meine Schwierigkeiten und hilf mir."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "O Allah, halte mich in der Wahrheit standhaft."
+        },
+        {
+          "id": "neu_02",
+          "text": "Mein Herr, halte mein Gleichgewicht aufrecht und halte mich auf dem geraden Weg."
+        },
+        {
+          "id": "neu_03",
+          "text": "O Allah, gewähre mir Weisheit und ermögliche es mir, richtige Entscheidungen zu treffen."
+        },
+        {
+          "id": "neu_04",
+          "text": "Mein Herr, halte mein Herz rein und schütze mich vor dem Bösen."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "O Allah, ich lobe Dich für die Segnungen, die Du mir gegeben hast."
+        },
+        {
+          "id": "hap_02",
+          "text": "Mein Herr, mache meine Freude zu einem Mittel der Nähe zu Dir."
+        },
+        {
+          "id": "hap_03",
+          "text": "O Allah, verwandle mein Glück in Dankbarkeit und mache mich nicht zu einem der Undankbaren."
+        },
+        {
+          "id": "hap_04",
+          "text": "Mein Herr, ermögliche es mir, meine Freude zu teilen und mache mich großzügig."
+        },
+        {
+          "id": "hap_05",
+          "text": "O Allah, ermögliche es mir, den Wert der Segnungen zu schätzen, die Du mir gegeben hast."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "O Allah, beginne diesen neuen Tag mit Deinem Wohlgefallen."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Mein Herr, segne diesen Tag und schütze mich vor Sünden."
+        },
+        {
+          "id": "fajr_03",
+          "text": "O Allah, segne meinen Morgen und mache meine Angelegenheiten leicht."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Mein Herr, hilf mir heute und mache mich erfolgreich."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Mein Herr, gewähre mir, meine Lasten mit Dir zu tragen."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "O Allah, gib mir Kraft am Mittag und entferne meine Müdigkeit."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Mein Herr, segne meine Arbeit und mache mich produktiv."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "O Allah, gewähre mir Frieden am Mittag und beruhige mein Herz."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "O Allah, ich suche Zuflucht bei Dir vor meiner Müdigkeit."
+        },
+        {
+          "id": "asr_02",
+          "text": "Mein Herr, gewähre mir Geduld am Nachmittag und gib mir Kraft."
+        },
+        {
+          "id": "asr_03",
+          "text": "O Allah, schütze mich bis zum Ende des Tages und hilf mir."
+        },
+        {
+          "id": "asr_04",
+          "text": "Mein Herr, entferne meine Müdigkeit und erfrische mich."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Mein Herr, ich danke Dir für jeden Segen, den Du mir heute gegeben hast."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "O Allah, vergib mir am Ende des Tages und vergib meine Sünden."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Mein Herr, segne meinen Abend und mache meine Nacht erfolgreich."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "O Allah, nimm die guten Taten an, die ich heute getan habe, und vergib meine schlechten Taten."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "O Allah, mache mich zu einem Deiner Diener, die sich Dir ergeben haben."
+        },
+        {
+          "id": "isha_02",
+          "text": "Mein Herr, mache meine Nacht friedlich und meinen Schlaf gesegnet."
+        },
+        {
+          "id": "isha_03",
+          "text": "O Allah, schütze mich die ganze Nacht hindurch und ermögliche es mir, den Morgen zu erreichen."
+        },
+        {
+          "id": "isha_04",
+          "text": "Mein Herr, habe Erbarmen mit mir in der Nacht und vergib mir."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "O Allah, mache Ramadan zu einem Mittel der Reinigung und Nähe zu Dir für mich."
+        },
+        {
+          "id": "ram_02",
+          "text": "Mein Herr, nimm mein Fasten und die Anbetung an, die ich verrichtet habe."
+        },
+        {
+          "id": "ram_03",
+          "text": "O Allah, vergib mir im Monat Ramadan und schütze mich vor dem Höllenfeuer."
+        },
+        {
+          "id": "ram_04",
+          "text": "Mein Herr, nimm mein Fasten an und schließe mich in Dein Paradies ein."
+        },
+        {
+          "id": "ram_05",
+          "text": "O Allah, ermögliche es mir, den Quran im Ramadan zu verstehen."
+        },
+        {
+          "id": "ram_06",
+          "text": "Mein Herr, nimm meine Bittgebete in diesem gesegneten Monat an und vergib mir."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "O Allah, schließe mich in Deine Vergebung und Barmherzigkeit in dieser gesegneten Nacht ein."
+        },
+        {
+          "id": "kan_02",
+          "text": "Mein Herr, verschönere mein Schicksal mit dem Guten."
+        },
+        {
+          "id": "kan_03",
+          "text": "O Allah, nimm meine Bittgebete in dieser gesegneten Nacht an und vergib mir."
+        },
+        {
+          "id": "kan_04",
+          "text": "Mein Herr, habe Erbarmen mit mir in gesegneten Nächten und schließe mich in Dein Paradies ein."
+        },
+        {
+          "id": "kan_05",
+          "text": "O Allah, gewähre mir ein gutes Schicksal in dieser Nacht."
+        }
+      ]
+    }
+  },
+  "nl": {
+    "general": [
+      {
+        "id": "gen_01",
+        "text": "O Allah, breng mijn hart dichter bij U en houd me op het rechte pad."
+      },
+      {
+        "id": "gen_02",
+        "text": "Mijn Heer, schenk me het goede en maak me tevreden ermee."
+      },
+      {
+        "id": "gen_03",
+        "text": "O Allah, schenk me wijsheid en maak me tot een van Uw rechtvaardige dienaren."
+      },
+      {
+        "id": "gen_04",
+        "text": "Mijn Heer, verhoog mijn kennis en verlicht mijn hart."
+      },
+      {
+        "id": "gen_05",
+        "text": "O Allah, schenk me geduld en maak mijn zaken gemakkelijk."
+      },
+      {
+        "id": "gen_06",
+        "text": "Mijn Heer, schenk me goed karakter en bescherm me tegen slecht karakter."
+      },
+      {
+        "id": "gen_07",
+        "text": "O Allah, schenk me voorziening en zegen het."
+      },
+      {
+        "id": "gen_08",
+        "text": "Mijn Heer, schenk me gezondheid en bescherm me tegen ziekten."
+      },
+      {
+        "id": "gen_09",
+        "text": "O Allah, schenk me leiding en houd me standvastig op het juiste pad."
+      },
+      {
+        "id": "gen_10",
+        "text": "Mijn Heer, accepteer mijn smeekbeden en vergeef me."
+      }
+    ],
+    "byMood": {
+      "sad": [
+        {
+          "id": "sad_01",
+          "text": "O Allah, U verwijdert de benauwdheid in mij. Wanneer mijn kracht faalt, bent U toereikend.",
+          "source": "Geestelijk troostgebed"
+        },
+        {
+          "id": "sad_02",
+          "text": "Mijn Heer, ik vertrouw aan U toe wat mijn hart niet kan dragen."
+        },
+        {
+          "id": "sad_03",
+          "text": "O Allah, verwijder mijn verdriet en droefheid, en schenk me verlichting."
+        },
+        {
+          "id": "sad_04",
+          "text": "Mijn Heer, verander mijn verdriet in vreugde en mijn droefheid in vrede."
+        },
+        {
+          "id": "sad_05",
+          "text": "O Allah, schenk me geduld en maak me tot een van de geduldigen."
+        },
+        {
+          "id": "sad_06",
+          "text": "Mijn Heer, verlicht mijn moeilijkheden en help me."
+        }
+      ],
+      "neutral": [
+        {
+          "id": "neu_01",
+          "text": "O Allah, houd me standvastig in waarheid."
+        },
+        {
+          "id": "neu_02",
+          "text": "Mijn Heer, handhaaf mijn balans en houd me op het rechte pad."
+        },
+        {
+          "id": "neu_03",
+          "text": "O Allah, schenk me wijsheid en stel me in staat om goede beslissingen te nemen."
+        },
+        {
+          "id": "neu_04",
+          "text": "Mijn Heer, houd mijn hart rein en bescherm me tegen het kwaad."
+        }
+      ],
+      "happy": [
+        {
+          "id": "hap_01",
+          "text": "O Allah, ik prijs U voor de zegeningen die U me heeft gegeven."
+        },
+        {
+          "id": "hap_02",
+          "text": "Mijn Heer, maak mijn vreugde tot een middel van nabijheid tot U."
+        },
+        {
+          "id": "hap_03",
+          "text": "O Allah, verander mijn geluk in dankbaarheid en maak me niet tot een van de ondankbaren."
+        },
+        {
+          "id": "hap_04",
+          "text": "Mijn Heer, stel me in staat om mijn vreugde te delen en maak me genereus."
+        },
+        {
+          "id": "hap_05",
+          "text": "O Allah, stel me in staat om de waarde te waarderen van de zegeningen die U me heeft gegeven."
+        }
+      ]
+    },
+    "byPrayer": {
+      "fajr": [
+        {
+          "id": "fajr_01",
+          "text": "O Allah, begin deze nieuwe dag met Uw welbehagen."
+        },
+        {
+          "id": "fajr_02",
+          "text": "Mijn Heer, zegen deze dag en bescherm me tegen zonden."
+        },
+        {
+          "id": "fajr_03",
+          "text": "O Allah, zegen mijn ochtend en maak mijn zaken gemakkelijk."
+        },
+        {
+          "id": "fajr_04",
+          "text": "Mijn Heer, help me vandaag en maak me succesvol."
+        }
+      ],
+      "dhuhr": [
+        {
+          "id": "dhuhr_01",
+          "text": "Mijn Heer, schenk me om mijn lasten met U te dragen."
+        },
+        {
+          "id": "dhuhr_02",
+          "text": "O Allah, geef me kracht op het middaguur en verwijder mijn vermoeidheid."
+        },
+        {
+          "id": "dhuhr_03",
+          "text": "Mijn Heer, zegen mijn werk en maak me productief."
+        },
+        {
+          "id": "dhuhr_04",
+          "text": "O Allah, schenk me vrede op het middaguur en kalmeer mijn hart."
+        }
+      ],
+      "asr": [
+        {
+          "id": "asr_01",
+          "text": "O Allah, ik zoek toevlucht bij U tegen mijn vermoeidheid."
+        },
+        {
+          "id": "asr_02",
+          "text": "Mijn Heer, schenk me geduld in de middag en geef me kracht."
+        },
+        {
+          "id": "asr_03",
+          "text": "O Allah, bescherm me tot het einde van de dag en help me."
+        },
+        {
+          "id": "asr_04",
+          "text": "Mijn Heer, verwijder mijn vermoeidheid en verfris me."
+        }
+      ],
+      "maghrib": [
+        {
+          "id": "maghrib_01",
+          "text": "Mijn Heer, ik dank U voor elke zegen die U me vandaag heeft gegeven."
+        },
+        {
+          "id": "maghrib_02",
+          "text": "O Allah, vergeef me aan het einde van de dag en vergeef mijn zonden."
+        },
+        {
+          "id": "maghrib_03",
+          "text": "Mijn Heer, zegen mijn avond en maak mijn nacht voorspoedig."
+        },
+        {
+          "id": "maghrib_04",
+          "text": "O Allah, accepteer de goede daden die ik vandaag heb gedaan en vergeef mijn slechte daden."
+        }
+      ],
+      "isha": [
+        {
+          "id": "isha_01",
+          "text": "O Allah, maak me tot een van Uw dienaren die zich aan U hebben overgegeven."
+        },
+        {
+          "id": "isha_02",
+          "text": "Mijn Heer, maak mijn nacht vredig en mijn slaap gezegend."
+        },
+        {
+          "id": "isha_03",
+          "text": "O Allah, bescherm me gedurende de nacht en stel me in staat om de ochtend te bereiken."
+        },
+        {
+          "id": "isha_04",
+          "text": "Mijn Heer, heb genade met mij in de nacht en vergeef me."
+        }
+      ]
+    },
+    "special": {
+      "ramadan": [
+        {
+          "id": "ram_01",
+          "text": "O Allah, maak Ramadan voor mij tot een middel van zuivering en nabijheid tot U."
+        },
+        {
+          "id": "ram_02",
+          "text": "Mijn Heer, accepteer mijn vasten en de aanbidding die ik heb verricht."
+        },
+        {
+          "id": "ram_03",
+          "text": "O Allah, vergeef me in de maand Ramadan en bescherm me tegen de Hel."
+        },
+        {
+          "id": "ram_04",
+          "text": "Mijn Heer, accepteer mijn vasten en neem me op in Uw Paradijs."
+        },
+        {
+          "id": "ram_05",
+          "text": "O Allah, stel me in staat om de Koran in Ramadan te begrijpen."
+        },
+        {
+          "id": "ram_06",
+          "text": "Mijn Heer, accepteer mijn smeekbeden in deze gezegende maand en vergeef me."
+        }
+      ],
+      "kandil": [
+        {
+          "id": "kan_01",
+          "text": "O Allah, neem me op in Uw vergeving en genade op deze gezegende nacht."
+        },
+        {
+          "id": "kan_02",
+          "text": "Mijn Heer, verfraai mijn lot met het goede."
+        },
+        {
+          "id": "kan_03",
+          "text": "O Allah, accepteer mijn smeekbeden op deze gezegende nacht en vergeef me."
+        },
+        {
+          "id": "kan_04",
+          "text": "Mijn Heer, heb genade met mij op gezegende nachten en neem me op in Uw Paradijs."
+        },
+        {
+          "id": "kan_05",
+          "text": "O Allah, schenk me een goed lot op deze nacht."
+        }
+      ]
+    }
+  }
+}
