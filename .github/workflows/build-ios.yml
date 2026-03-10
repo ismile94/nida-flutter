@@ -111,12 +111,15 @@ jobs:
             echo "APPLE_TEAM_ID veya PROVISIONING_PROFILE_NAME secret yok. Bkz. IOS_BUILD_REHBERI.md"
           fi
 
-      - name: Build IPA
+      - name: Build IPA (or simulator when no signing secrets)
         run: |
-          if [ -f ios/ExportOptions.plist ]; then
+          if [ -f ios/ExportOptions.plist ] && [ -n "${{ secrets.BUILD_CERTIFICATE_BASE64 }}" ]; then
+            echo "İmza bilgileri mevcut, IPA derleniyor..."
             flutter build ipa --export-options-plist=ios/ExportOptions.plist
           else
-            flutter build ipa
+            echo "İmza secret'ları tanımlı değil. IPA yerine simulator build yapılıyor (job başarılı olur)."
+            echo "Telefonda kurulum için: Repo Settings → Secrets → IOS_BUILD_REHBERI.md'deki secret'ları ekleyin."
+            flutter build ios --simulator
           fi
 
       - name: Upload IPA artifact
