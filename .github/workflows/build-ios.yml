@@ -83,38 +83,30 @@ jobs:
         env:
           TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
           PROFILE_NAME: ${{ secrets.PROVISIONING_PROFILE_NAME }}
-          # Push ile tetiklenince input yok; sadece 'false' ise development, yoksa app-store (Distribution cert)
-          FOR_TESTFLIGHT: ${{ github.event.inputs.build_for_testflight }}
         run: |
           mkdir -p ios
           if [ -n "$TEAM_ID" ] && [ -n "$PROFILE_NAME" ]; then
-            if [ "$FOR_TESTFLIGHT" = "false" ]; then
-              METHOD="development"
-            else
-              METHOD="app-store"
-            fi
-            cat > ios/ExportOptions.plist << PLIST
-            <?xml version="1.0" encoding="UTF-8"?>
+            printf '<?xml version="1.0" encoding="UTF-8"?>
             <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
             <plist version="1.0">
             <dict>
               <key>method</key>
               <string>app-store</string>
               <key>teamID</key>
-              <string>${TEAM_ID}</string>
+              <string>%s</string>
               <key>signingStyle</key>
               <string>manual</string>
               <key>provisioningProfiles</key>
               <dict>
                 <key>com.nida.nidaFlutter</key>
-                <string>${PROFILE_NAME}</string>
+                <string>%s</string>
               </dict>
             </dict>
-            </plist>
-            PLIST
-            echo "ExportOptions.plist oluşturuldu (method: $METHOD, team: $TEAM_ID, profile: $PROFILE_NAME)."
+            </plist>' "$TEAM_ID" "$PROFILE_NAME" > ios/ExportOptions.plist
+            echo "ExportOptions.plist başarıyla oluşturuldu."
           else
-            echo "APPLE_TEAM_ID veya PROVISIONING_PROFILE_NAME secret yok. Bkz. IOS_BUILD_REHBERI.md"
+            echo "HATA: TEAM_ID veya PROFILE_NAME eksik!"
+            exit 1
           fi
 
       - name: Prepare keychain for build (unlock + default)
@@ -144,24 +136,20 @@ jobs:
       - name: Build and Sign IPA
         env:
           TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
-          PROFILE_UUID: ${{ secrets.PROVISIONING_PROFILE_UUID }} # Eğer UUID yoksa aşağıya bak
         run: |
-          echo "1. Adım: Imzasız Frameworkleri Derle"
+          echo "1. Adım: Flutter derleniyor..."
           flutter build ios --release --no-codesign
-          
-          echo "2. Adım: Xcode ile Arşivle"
-          # Burada TEAM_ID'yi zorla içeri itiyoruz
+
+          echo "2. Adım: Xcode Arşiv oluşturuluyor..."
           xcodebuild -workspace ios/Runner.xcworkspace \
                      -scheme Runner \
                      -sdk iphoneos \
                      -configuration Release \
                      -archivePath $RUNNER_TEMP/Runner.xcarchive \
                      DEVELOPMENT_TEAM=$TEAM_ID \
-                     AD_HOC_CODE_SIGNING_ALLOWED=YES \
-                     CODE_SIGN_STYLE=Manual \
                      archive
-          
-          echo "3. Adım: IPA'ya Dönüştür (Export)"
+
+          echo "3. Adım: IPA dışa aktarılıyor..."
           xcodebuild -exportArchive \
                      -archivePath $RUNNER_TEMP/Runner.xcarchive \
                      -exportOptionsPlist ios/ExportOptions.plist \
