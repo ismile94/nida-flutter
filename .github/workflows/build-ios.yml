@@ -10,9 +10,9 @@ on:
   workflow_dispatch:
     inputs:
       build_for_testflight:
-        description: 'TestFlight için build (app-store), yoksa development (AltStore)'
+        description: 'TestFlight için build (app-store). Distribution sertifikanız varsa işaretleyin.'
         required: false
-        default: false
+        default: true
         type: boolean
 
 jobs:
@@ -58,7 +58,7 @@ jobs:
           security set-keychain-settings -lut 21600 $KEYCHAIN_PATH
           security unlock-keychain -p "$KEYCHAIN_PASSWORD" $KEYCHAIN_PATH
           security import $CERTIFICATE_PATH -P "$P12_PASSWORD" -A -t cert -f pkcs12 -k $KEYCHAIN_PATH
-          security list-keychain -d user -s $KEYCHAIN_PATH
+          security list-keychain -d user -s $KEYCHAIN_PATH $(security list-keychain -d user | tr '\n' ' ')
           security set-key-partition-list -S apple-tool:,apple: -s -k "$KEYCHAIN_PASSWORD" $KEYCHAIN_PATH
 
       - name: Decode and install provisioning profile
