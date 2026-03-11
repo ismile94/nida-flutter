@@ -141,7 +141,20 @@ jobs:
           echo "1. Adım: Flutter derleniyor..."
           flutter build ios --release --no-codesign
 
-          echo "2. Adım: Xcode Arşiv oluşturuluyor (Manuel İmzalamaya Zorlanıyor)..."
+          echo "2. Adım: Pods imzalamasını devre dışı bırak (Fix for Xcode 16)..."
+          # Bu komut, kütüphanelerin (Pods) profil isteme hatasını çözer
+          # Pods projesi içindeki tüm hedeflerin imza gereksinimini kaldırıyoruz
+          /usr/libexec/PlistBuddy -c "Set :Objects:$(grep -oE '([0-9A-Z]{24})(?=\s/\*\sPods-Runner\s\*/)' ios/Runner.xcodeproj/project.pbxproj | head -1):buildSettings:CODE_SIGNING_ALLOWED NO" ios/Runner.xcodeproj/project.pbxproj 2>/dev/null || true
+          
+          # Daha garanti bir yöntem: Pods projesindeki tüm hedeflerden imzayı kaldır
+          if [ -f ios/Pods/Pods.xcodeproj/project.pbxproj ]; then
+            sed -i '' 's/CODE_SIGNING_ALLOWED = YES/CODE_SIGNING_ALLOWED = NO/g' ios/Pods/Pods.xcodeproj/project.pbxproj
+            sed -i '' 's/CODE_SIGNING_REQUIRED = YES/CODE_SIGNING_REQUIRED = NO/g' ios/Pods/Pods.xcodeproj/project.pbxproj
+          fi
+
+          echo "3. Adım: Xcode Arşiv oluşturuluyor..."
+          # Arşiv aşamasında profili zorlamıyoruz, sadece Team ve Manuel stili belirtiyoruz
+          # Profil eşleşmesini Xcode'un kendisine ve Export aşamasına bırakıyoruz
           xcodebuild -workspace ios/Runner.xcworkspace \
                      -scheme Runner \
                      -sdk iphoneos \
@@ -150,14 +163,14 @@ jobs:
                      CODE_SIGN_STYLE=Manual \
                      DEVELOPMENT_TEAM=$TEAM_ID \
                      CODE_SIGN_IDENTITY="Apple Distribution" \
-                     PROVISIONING_PROFILE_SPECIFIER="$PROFILE_NAME" \
                      archive
 
-          echo "3. Adım: IPA dışa aktarılıyor..."
+          echo "4. Adım: IPA dışa aktarılıyor (Asıl imzalama burada yapılacak)..."
           xcodebuild -exportArchive \
                      -archivePath $RUNNER_TEMP/Runner.xcarchive \
                      -exportOptionsPlist ios/ExportOptions.plist \
-                     -exportPath build/ios/ipa
+                     -exportPath build/ios/ipa \
+                     -allowProvisioningUpdates
 
       - name: Upload IPA artifact
         if: success() && hashFiles('build/ios/ipa/*.ipa') != ''
