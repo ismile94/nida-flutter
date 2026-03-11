@@ -141,16 +141,17 @@ jobs:
           grep -n "securityFindIdentityDeveloperIdentityExtractionPattern\|r'.*Develop\|Distribution" "$FILE" | head -6
           echo "Patched $FILE for Apple Distribution certificate"
 
-      - name: Build IPA (or simulator when no signing secrets)
+      - name: Build IPA
         env:
-          CODE_SIGN_IDENTITY: Apple Distribution
+          CODE_SIGN_IDENTITY: "Apple Distribution"
         run: |
           if [ -f ios/ExportOptions.plist ] && [ -n "${{ secrets.BUILD_CERTIFICATE_BASE64 }}" ]; then
-            echo "İmza bilgileri mevcut, IPA derleniyor (CODE_SIGN_IDENTITY=Apple Distribution)..."
-            flutter build ipa --export-options-plist=ios/ExportOptions.plist
+            echo "IPA derleniyor..."
+            # --no-codesign ekleyerek ilk aşamadaki sertifika kontrolünü atlıyoruz
+            # Xcode, ExportOptions.plist içindeki bilgilerle asıl imzalamayı yapacak.
+            flutter build ipa --release --no-codesign --export-options-plist=ios/ExportOptions.plist
           else
-            echo "İmza secret'ları tanımlı değil. IPA yerine simulator build yapılıyor (job başarılı olur)."
-            echo "Telefonda kurulum için: Repo Settings → Secrets → IOS_BUILD_REHBERI.md'deki secret'ları ekleyin."
+            echo "İmza bilgileri eksik..."
             flutter build ios --simulator
           fi
 

@@ -47,6 +47,98 @@ Reponuzda: **Settings → Secrets and variables → Actions → New repository s
 
 `.mobileprovision` için aynı komutu dosya yoluyla tekrarlayın; çıkan metni ilgili secret’a yapıştırın.
 
+---
+
+## BUILD_PROVISION_PROFILE_BASE64 ve PROVISIONING_PROFILE_NAME – Detaylı
+
+Bu iki secret için **Provisioning Profile** oluşturup indirmeniz ve adını birebir kullanmanız gerekir.
+
+### Provisioning Profile nedir?
+
+Apple’ın, “bu uygulama bu sertifika ve bu cihazlar/dağıtım için imzalanabilir” demesini sağlayan dosyadır. Dosya uzantısı **`.mobileprovision`**. GitHub’a **Base64** olarak vereceksiniz; adını da **PROVISIONING_PROFILE_NAME** secret’ına **portalda gördüğünüz tam isim** olarak yazacaksınız.
+
+### Hangi tip profil?
+
+- **TestFlight / App Store’a yükleyecekseniz:** **Distribution → App Store** (veya “App Store Connect”) tipinde profil.
+- **Sadece kendi iPhone’unuza (AltStore vb.) yükleyecekseniz:** **Development** tipinde profil (ve cihazınızı portalda “Devices”a eklemiş olmalısınız).
+
+---
+
+### Adım adım: Provisioning Profile oluşturma (Apple Developer Portal)
+
+1. **Giriş**
+   - Tarayıcıda [developer.apple.com](https://developer.apple.com) açın.
+   - Apple ID ile giriş yapın (ücretli Developer hesabı olan hesapla).
+
+2. **Profiller sayfasına gidin**
+   - Soldan **Certificates, Identifiers & Profiles** seçin.
+   - **Profiles** sekmesine tıklayın.
+   - Sağ üstten **+** (Create a new profile) butonuna tıklayın.
+
+3. **Profil tipini seçin**
+   - **TestFlight / App Store için:** **Distribution** altından **App Store Connect** (veya “App Store”) seçin → **Continue**.
+   - **Sadece kendi cihaz **Development** altından **iOS App Development** seçin → **Continue**.
+
+4. **App ID seçin**
+   - **App ID** listesinden **com.nida.nidaFlutter** seçin (yoksa önce **Identifiers**’tan bu bundle ID ile App ID oluşturun).
+   - **Continue**.
+
+5. **Sertifika seçin**için (Development):** 
+   - **Certificates** listesinde:
+     - **App Store** profili için: **Apple Distribution** sertifikanızı seçin.
+     - **Development** profili için: **Apple Development** sertifikanızı seçin.
+   - **Continue**.
+
+6. **Cihaz (sadece Development için)**
+   - **Development** seçtiyseniz: Kurulum yapacağınız **cihazları** (örn. iPhone 14) işaretleyin. Cihazı önceden **Devices** bölümünde UDID ile eklemiş olmalısınız.
+   - **App Store** profili için bu adım çıkmaz.
+   - **Continue**.
+
+7. **Profil adı (önemli – PROVISIONING_PROFILE_NAME buradan)**
+   - **Provisioning Profile Name** kutusuna bir isim yazın (örn. `Nida Flutter AppStore` veya `Nida Flutter Development`).
+   - Bu ismi **aynen** GitHub secret’ında **PROVISIONING_PROFILE_NAME** olarak kullanacaksınız; büyük/küçük harf ve boşluk dahil tam aynı olmalı.
+   - **Generate** (veya **Continue** sonrası oluştur) deyip profili oluşturun.
+
+8. **Profili indirin**
+   - Oluşan profilin yanında **Download** butonu çıkar. Tıklayın.
+   - Bilgisayarınıza **`.mobileprovision`** dosyası iner (isim genelde profil adına benzer, örn. `Nida_Flutter_AppStore.mobileprovision`).
+
+---
+
+### PROVISIONING_PROFILE_NAME tam olarak nereden?
+
+- **Profiles** listesinde oluşturduğunuz satırda **Name** sütununda yazan isim = **PROVISIONING_PROFILE_NAME**.
+- Örnek: `Nida Flutter AppStore` veya `Nida Flutter Development`.
+- GitHub’a bu ismi **tam aynı şekilde** (boşluk, büyük/küçük harf dahil) yapıştırın. Bir karakter farkı bile imza hatasına yol açar.
+
+---
+
+### BUILD_PROVISION_PROFILE_BASE64 nasıl alınır?
+
+1. İndirdiğiniz **`.mobileprovision`** dosyasını Windows’ta bir klasöre kaydedin (örn. `C:\Apple\Nida_Flutter_AppStore.mobileprovision`).
+2. **PowerShell** açın (Dosya yolunu kendi dosya yolunuzla değiştirin):
+   ```powershell
+   [Convert]::ToBase64String([IO.File]::ReadAllBytes("C:\Apple\Nida_Flutter_AppStore.mobileprovision")) | Set-Clipboard
+   ```
+3. Komut çalışınca Base64 metni **panoya** kopyalanır.
+4. GitHub’da: **Settings → Secrets and variables → Actions → New repository secret**.
+5. **Name:** `BUILD_PROVISION_PROFILE_BASE64`
+6. **Secret:** Panodaki metni yapıştırın (Ctrl+V) → **Add secret**.
+
+Dosya yolunda boşluk varsa tırnak içinde verin:
+```powershell
+[Convert]::ToBase64String([IO.File]::ReadAllBytes("C:\Users\Ismail\Downloads\Nida Flutter AppStore.mobileprovision")) | Set-Clipboard
+```
+
+---
+
+### Özet
+
+| Secret | Nereden |
+|--------|--------|
+| **PROVISIONING_PROFILE_NAME** | Apple Developer → **Profiles** → oluşturduğunuz profilin **Name** sütunundaki isim (tam aynısını kopyalayın). |
+| **BUILD_PROVISION_PROFILE_BASE64** | Aynı profilin **Download** ile indirdiğiniz `.mobileprovision` dosyasını yukarıdaki PowerShell komutuyla Base64’e çevirip panodaki metni secret değeri olarak yapıştırın. |
+
 ### 3. Workflow’a TestFlight Yükleme (İsteğe Bağlı)
 
 Şu an workflow sadece **IPA’yı artifact** olarak üretiyor. TestFlight’a otomatik yüklemek için workflow’a bir adım ekleyebilirsiniz; bunun için **App Store Connect API Key** (issuer ID, key ID, .p8 dosyası) gerekir. İsterseniz bir sonraki adımda bu adımı ekleyebilirim; şimdilik IPA’yı indirip **Transporter** (Windows’ta Microsoft Store’dan) ile App Store Connect’e yükleyebilirsiniz.
