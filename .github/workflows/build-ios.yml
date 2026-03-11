@@ -129,6 +129,15 @@ jobs:
           echo "Keychain hazır. Mevcut imza kimlikleri:"
           security find-identity -v -p codesigning
 
+      # Flutter bug: code_signing.dart sadece "Developer"/"Development" arıyor, "Apple Distribution" atlıyor (flutter/flutter#176636)
+      - name: Patch Flutter code_signing (Apple Distribution workaround)
+        if: steps.cert.outputs.installed == 'true'
+        run: |
+          FLUTTER_ROOT=$(dirname $(dirname $(which flutter)))
+          FILE="$FLUTTER_ROOT/packages/flutter_tools/lib/src/ios/code_signing.dart"
+          sed -i '' 's/Develop(ment|er)//g' "$FILE"
+          echo "Patched $FILE for Apple Distribution certificate"
+
       - name: Build IPA (or simulator when no signing secrets)
         env:
           CODE_SIGN_IDENTITY: Apple Distribution
