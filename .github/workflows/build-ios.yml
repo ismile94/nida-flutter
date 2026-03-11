@@ -60,6 +60,8 @@ jobs:
           security import $CERTIFICATE_PATH -P "$P12_PASSWORD" -A -t cert -f pkcs12 -k $KEYCHAIN_PATH
           security list-keychain -d user -s $KEYCHAIN_PATH $(security list-keychain -d user | tr '\n' ' ')
           security set-key-partition-list -S apple-tool:,apple: -s -k "$KEYCHAIN_PASSWORD" $KEYCHAIN_PATH
+          echo "Keychain'deki imza kimlikleri:"
+          security find-identity -v -p codesigning
 
       - name: Decode and install provisioning profile
         env:
@@ -113,9 +115,12 @@ jobs:
           fi
 
       - name: Build IPA (or simulator when no signing secrets)
+        env:
+          # Archive aşamasında Apple Distribution kullan (ExportOptions app-store olsa bile archive development arıyordu)
+          CODE_SIGN_IDENTITY: Apple Distribution
         run: |
           if [ -f ios/ExportOptions.plist ] && [ -n "${{ secrets.BUILD_CERTIFICATE_BASE64 }}" ]; then
-            echo "İmza bilgileri mevcut, IPA derleniyor..."
+            echo "İmza bilgileri mevcut, IPA derleniyor (CODE_SIGN_IDENTITY=Apple Distribution)..."
             flutter build ipa --export-options-plist=ios/ExportOptions.plist
           else
             echo "İmza secret'ları tanımlı değil. IPA yerine simulator build yapılıyor (job başarılı olur)."
