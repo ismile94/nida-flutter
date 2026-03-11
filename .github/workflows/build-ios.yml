@@ -94,24 +94,24 @@ jobs:
               METHOD="app-store"
             fi
             cat > ios/ExportOptions.plist << PLIST
-          <?xml version="1.0" encoding="UTF-8"?>
-          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-          <plist version="1.0">
-          <dict>
-            <key>method</key>
-            <string>${METHOD}</string>
-            <key>teamID</key>
-            <string>${TEAM_ID}</string>
-            <key>signingStyle</key>
-            <string>manual</string>
-            <key>provisioningProfiles</key>
+            <?xml version="1.0" encoding="UTF-8"?>
+            <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+            <plist version="1.0">
             <dict>
-              <key>com.nida.nidaFlutter</key>
-              <string>${PROFILE_NAME}</string>
+              <key>method</key>
+              <string>app-store</string>
+              <key>teamID</key>
+              <string>${TEAM_ID}</string>
+              <key>signingStyle</key>
+              <string>manual</string>
+              <key>provisioningProfiles</key>
+              <dict>
+                <key>com.nida.nidaFlutter</key>
+                <string>${PROFILE_NAME}</string>
+              </dict>
             </dict>
-          </dict>
-          </plist>
-          PLIST
+            </plist>
+            PLIST
             echo "ExportOptions.plist oluşturuldu (method: $METHOD, team: $TEAM_ID, profile: $PROFILE_NAME)."
           else
             echo "APPLE_TEAM_ID veya PROVISIONING_PROFILE_NAME secret yok. Bkz. IOS_BUILD_REHBERI.md"
@@ -143,17 +143,22 @@ jobs:
 
       - name: Build and Sign IPA
         env:
-          CODE_SIGNING_ALLOWED: "YES"
+          TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+          PROFILE_UUID: ${{ secrets.PROVISIONING_PROFILE_UUID }} # Eğer UUID yoksa aşağıya bak
         run: |
           echo "1. Adım: Imzasız Frameworkleri Derle"
           flutter build ios --release --no-codesign
           
-          echo "2. Adım: Xcode ile Arşivle ve IPA Oluştur"
+          echo "2. Adım: Xcode ile Arşivle"
+          # Burada TEAM_ID'yi zorla içeri itiyoruz
           xcodebuild -workspace ios/Runner.xcworkspace \
                      -scheme Runner \
                      -sdk iphoneos \
                      -configuration Release \
                      -archivePath $RUNNER_TEMP/Runner.xcarchive \
+                     DEVELOPMENT_TEAM=$TEAM_ID \
+                     AD_HOC_CODE_SIGNING_ALLOWED=YES \
+                     CODE_SIGN_STYLE=Manual \
                      archive
           
           echo "3. Adım: IPA'ya Dönüştür (Export)"
