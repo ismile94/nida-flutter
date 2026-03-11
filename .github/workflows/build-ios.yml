@@ -78,14 +78,15 @@ jobs:
         env:
           TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
           PROFILE_NAME: ${{ secrets.PROVISIONING_PROFILE_NAME }}
-          FOR_TESTFLIGHT: ${{ github.event.inputs.build_for_testflight == 'true' }}
+          # Push ile tetiklenince input yok; sadece 'false' ise development, yoksa app-store (Distribution cert)
+          FOR_TESTFLIGHT: ${{ github.event.inputs.build_for_testflight }}
         run: |
           mkdir -p ios
           if [ -n "$TEAM_ID" ] && [ -n "$PROFILE_NAME" ]; then
-            if [ "$FOR_TESTFLIGHT" = "true" ]; then
-              METHOD="app-store"
-            else
+            if [ "$FOR_TESTFLIGHT" = "false" ]; then
               METHOD="development"
+            else
+              METHOD="app-store"
             fi
             cat > ios/ExportOptions.plist << PLIST
           <?xml version="1.0" encoding="UTF-8"?>
