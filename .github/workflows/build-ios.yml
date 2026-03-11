@@ -141,18 +141,26 @@ jobs:
           grep -n "securityFindIdentityDeveloperIdentityExtractionPattern\|r'.*Develop\|Distribution" "$FILE" | head -6
           echo "Patched $FILE for Apple Distribution certificate"
 
-      - name: Build IPA
+      - name: Build and Sign IPA
         env:
-          CODE_SIGN_IDENTITY: "Apple Distribution"
+          CODE_SIGNING_ALLOWED: "YES"
         run: |
-          if [ -f ios/ExportOptions.plist ] && [ -n "${{ secrets.BUILD_CERTIFICATE_BASE64 }}" ]; then
-            echo "İmza bilgileri mevcut, IPA derleniyor..."
-            # --no-codesign KALDIRILDI, bu sayede IPA oluşturulacak
-            flutter build ipa --release --export-options-plist=ios/ExportOptions.plist
-          else
-            echo "İmza bilgileri eksik, simulator build yapılıyor..."
-            flutter build ios --simulator
-          fi
+          echo "1. Adım: Imzasız Frameworkleri Derle"
+          flutter build ios --release --no-codesign
+          
+          echo "2. Adım: Xcode ile Arşivle ve IPA Oluştur"
+          xcodebuild -workspace ios/Runner.xcworkspace \
+                     -scheme Runner \
+                     -sdk iphoneos \
+                     -configuration Release \
+                     -archivePath $RUNNER_TEMP/Runner.xcarchive \
+                     archive
+          
+          echo "3. Adım: IPA'ya Dönüştür (Export)"
+          xcodebuild -exportArchive \
+                     -archivePath $RUNNER_TEMP/Runner.xcarchive \
+                     -exportOptionsPlist ios/ExportOptions.plist \
+                     -exportPath build/ios/ipa
 
       - name: Upload IPA artifact
         if: success() && hashFiles('build/ios/ipa/*.ipa') != ''
