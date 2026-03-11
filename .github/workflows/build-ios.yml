@@ -135,7 +135,9 @@ jobs:
         run: |
           FLUTTER_ROOT=$(dirname $(dirname $(which flutter)))
           FILE="$FLUTTER_ROOT/packages/flutter_tools/lib/src/ios/code_signing.dart"
-          sed -i '' 's/Develop(ment|er)//g' "$FILE"
+          # Regex'e Distribution alternatifi ekle; tüm "Develop(ment|er)" silmek regex'i bozuyordu
+          sed -i '' 's/Develop(ment|er)/(\?:Develop(ment|er)|Distribution)/' "$FILE"
+          grep -n "Develop\|Distribution" "$FILE" | head -5
           echo "Patched $FILE for Apple Distribution certificate"
 
       - name: Build IPA (or simulator when no signing secrets)
