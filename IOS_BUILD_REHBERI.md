@@ -14,7 +14,76 @@ Bu rehber, **Windows 11** bilgisayarınızda Mac olmadan, **GitHub’ın ücrets
 
 ---
 
-## Seçenek A: TestFlight ile (Önerilen)
+## IPA hazır – Sonraki adımlar (özet)
+
+Workflow başarıyla bittiyse **IPA dosyası** GitHub’da artifact olarak hazır. Aşağıdaki adımlarla bunu **iPhone’a** kurarsınız.
+
+### Adım 1: IPA’yı bilgisayara indirin
+
+1. GitHub’da reponuzu açın → **Actions** sekmesi.
+2. En üstteki **yeşil tikli** (başarılı) **Build iOS (IPA)** run’ına tıklayın.
+3. Sayfanın altında **Artifacts** bölümünde **ios-ipa** görünür. **ios-ipa**’ya tıklayın; zip dosyası iner.
+4. Zip’i açın; içinde **.ipa** dosyası vardır (örn. `nida_flutter.ipa` veya `Runner.ipa`). Bu dosyayı kullanacaksınız.
+
+---
+
+### Adım 2a: TestFlight ile kurulum (önerilen)
+
+**Ne için:** Uygulama App Store Connect’e gider; iPhone’da **TestFlight** uygulamasından kurarsınız. Yeniden imza gerekmez, 90 gün test süresi vardır.
+
+1. **App Store Connect’te uygulama**
+   - [appstoreconnect.apple.com](https://appstoreconnect.apple.com) → **My Apps**.
+   - Nida uygulaması yoksa **+** → **New App**; platform **iOS**, bundle ID **com.nida.nidaFlutter**, isim örn. **Nida**.
+
+2. **Transporter ile IPA yükleme**
+   - Windows’ta **Transporter** uygulamasını kullanın (Microsoft Store’dan “Transporter” indirin).
+   - Transporter’ı açın → Apple ID ile giriş yapın (Developer hesabınız).
+   - **.ipa** dosyasını pencerenin içine sürükleyip bırakın veya **+** ile seçin.
+   - **Deliver** (Gönder) deyin. Yükleme bitene kadar bekleyin.
+
+3. **TestFlight’ta build’i açma**
+   - App Store Connect’te uygulamanızı açın → **TestFlight** sekmesi.
+   - Birkaç dakika içinde yeni build listede çıkar. **Internal Testing** altında kendinizi **Internal Tester** olarak ekleyin (e‑posta ile davet gidebilir).
+
+4. **iPhone’da kurulum**
+   - iPhone’da App Store’dan **TestFlight** uygulamasını indirin (yoksa).
+   - TestFlight’ta aynı Apple ID ile giriş yapın.
+   - **Nida** build’i listede görünür → **Install** deyin. Kurulum bitince uygulamayı ana ekrandan açın.
+
+---
+
+### Adım 2b: AltStore ile kurulum (USB)
+
+**Ne için:** IPA’yı doğrudan bilgisayardan iPhone’a (USB) yüklemek. TestFlight kullanmak istemiyorsanız.
+
+1. **AltStore’u kurun**
+   - [altstore.io](https://altstore.io) → **Download for Windows**.
+   - Kurulumu tamamlayın; gerekirse **iTunes** veya **Apple Devices** (Windows 11) / **iCloud** sürümünün yüklü olduğundan emin olun.
+
+2. **iPhone’u bağlayın**
+   - iPhone’u USB ile bilgisayara takın.
+   - Telefonda **Bu bilgisayara güven** deyin; gerekirse şifre girin.
+
+3. **IPA’yı yükleyin**
+   - AltStore’u açın; iPhone bağlıyken menüden **Install** (veya .ipa yükle) seçin.
+   - İndirdiğiniz **.ipa** dosyasını seçin (zip’ten çıkardığınız dosya).
+   - Apple ID ile giriş istenebilir; AltStore uygulamayı imzalayıp cihaza yükler.
+   - Kurulum bitince iPhone’da uygulama ikonu görünür. İlk açılışta **Ayarlar → Genel → VPN ve Cihaz Yönetimi** üzerinden güvenebilirsiniz (gerekirse).
+
+---
+
+### Kısa karşılaştırma
+
+| Yöntem        | Avantaj                          | Gereken                          |
+|---------------|-----------------------------------|----------------------------------|
+| **TestFlight** | Resmi, 90 gün, yeniden imza yok  | Transporter, App Store Connect   |
+| **AltStore**  | USB’den tek tıkla, TestFlight yok | AltStore, iPhone USB’de          |
+
+Hangi yöntemi seçerseniz seçin, önce **Adım 1** ile IPA’yı GitHub Artifacts’tan indirip zip’ten **.ipa** dosyasını çıkarın; sonra 2a veya 2b’yi uygulayın.
+
+---
+
+## Seçenek A: TestFlight ile (Önerilen) – Detay
 
 En pratik yol: IPA’yı GitHub Actions’ta **App Store Connect’e (TestFlight)** yükleyip, iPhone’da **TestFlight** uygulamasından kurmak.
 

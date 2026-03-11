@@ -146,12 +146,11 @@ jobs:
           CODE_SIGN_IDENTITY: "Apple Distribution"
         run: |
           if [ -f ios/ExportOptions.plist ] && [ -n "${{ secrets.BUILD_CERTIFICATE_BASE64 }}" ]; then
-            echo "IPA derleniyor..."
-            # --no-codesign ekleyerek ilk aşamadaki sertifika kontrolünü atlıyoruz
-            # Xcode, ExportOptions.plist içindeki bilgilerle asıl imzalamayı yapacak.
-            flutter build ipa --release --no-codesign --export-options-plist=ios/ExportOptions.plist
+            echo "İmza bilgileri mevcut, IPA derleniyor..."
+            # --no-codesign KALDIRILDI, bu sayede IPA oluşturulacak
+            flutter build ipa --release --export-options-plist=ios/ExportOptions.plist
           else
-            echo "İmza bilgileri eksik..."
+            echo "İmza bilgileri eksik, simulator build yapılıyor..."
             flutter build ios --simulator
           fi
 
